@@ -1,7 +1,7 @@
-<ul style="text-align:left">
-  <li style="display: inline;"><a href="http://twitter.com/kotaoue"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a></li>
-  <li style="display: inline;"><a href="https://www.facebook.com/kotaoue"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></li></a>
-</ul>
+<p>
+  <a href="http://twitter.com/kotaoue"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.facebook.com/kotaoue"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></li>
+</p>
 
 --- 
 
