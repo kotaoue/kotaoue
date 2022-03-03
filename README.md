@@ -12,6 +12,6 @@
 ---
 <p>
 <a href="https://github.com/kotaoue"><img height="140px" src="https://github-readme-stats.vercel.app/api?username=kotaoue&show_icons=true&theme=tokyonight" /></a>
-<a href="https://github.com/kotaoue"><img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kotaoue&layout=compact&theme=tokyonight"></a>
-<a href="https://wakatime.com/@kotaoue"><img height="140px" src="https://github-readme-stats.vercel.app/api/wakatime?username=kotaoue&layout=compact&theme=tokyonight"></a>
+<a href="https://github.com/kotaoue"><img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kotaoue&layout=compact&theme=tokyonight"></a><br />
+<a href="https://wakatime.com/@kotaoue"><img width="355px" src="https://github-readme-stats.vercel.app/api/wakatime?username=kotaoue&layout=compact&theme=tokyonight"></a>
 </p>
