@@ -1,6 +1,6 @@
 <p>
   <a href="http://twitter.com/kotaoue"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.facebook.com/kotaoue"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></li>
+  <a href="https://www.facebook.com/kotaoue"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
 --- 
@@ -10,6 +10,8 @@
 * ohyeah = kotaoue = おうえこうた
 
 ---
-[![kotaoue's GitHub stats](https://github-readme-stats.vercel.app/api?username=kotaoue&show_icons=true)](https://github.com/kotaoue)
-[![kotaoue's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kotaoue)](https://wakatime.com/@kotaoue)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kotaoue&layout=compact)](https://github.com/kotaoue)
+<p>
+<a href="https://github.com/kotaoue"><img height="140px" src="https://github-readme-stats.vercel.app/api?username=kotaoue&show_icons=true&theme=tokyonight" /></a>
+<a href="https://github.com/kotaoue"><img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kotaoue&layout=compact&theme=tokyonight"></a>
+<a href="https://wakatime.com/@kotaoue"><img height="140px" src="https://github-readme-stats.vercel.app/api/wakatime?username=kotaoue&layout=compact&theme=tokyonight"></a>
+</p>
