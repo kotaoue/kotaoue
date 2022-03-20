@@ -14,7 +14,7 @@
 <a href="https://github.com/kotaoue"><img height="140px" src="https://github-readme-stats.vercel.app/api?username=kotaoue&show_icons=true&theme=apprentice" /></a>
 <a href="https://github.com/kotaoue"><img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kotaoue&layout=compact&theme=apprentice" /></a><br />
 <a href="https://wakatime.com/@kotaoue"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=kotaoue&layout=compact&theme=apprentice" /></a>
-<img width="128px" src="./images/ohyeah.png"><br />
+<img width="128px" src="./images/white_basic-tiptoe-basic-tiptoe-basic-jump_3_delay64.gif"><br />
 <img src="https://github-profile-trophy.vercel.app/?username=kotaoue&theme=apprentice">
 </p>
 
