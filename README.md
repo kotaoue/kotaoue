@@ -18,7 +18,9 @@
 <img src="https://github-profile-trophy.vercel.app/?username=kotaoue&theme=apprentice">
 </p>
 
+---
 <p>
+<img src="./images/white.png">
 <img src="./images/white.png">
 <img src="./images/white.png">
 <img src="./images/white.png">
