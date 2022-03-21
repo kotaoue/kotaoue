@@ -21,10 +21,10 @@
 ---
 <p>
 <img src="./images/white.png">
-<img src="./images/white.png">
-<img src="./images/white.png">
-<img src="./images/white.png">
-<img src="./images/white.png">
+<img src="./images/panda.png">
+<img src="./images/brown.png">
+<img src="./images/brownBlack.png">
+<img src="./images/black.png">
 <img src="./images/white.png">
 <img src="./images/white.png">
 <img src="./images/white.png">
