@@ -36,7 +36,7 @@
 <img src="./images/pink.png">
 <img src="./images/red.png">
 <img src="./images/orange.png">
-<img src="./images/white.png">
+<img src="./images/gray.png">
 <img src="./images/white.png">
 <img src="./images/white.png">
 <img src="./images/white.png">
