@@ -37,8 +37,8 @@
 <img src="./images/red.png">
 <img src="./images/orange.png">
 <img src="./images/gray.png">
-<img src="./images/white.png">
-<img src="./images/white.png">
-<img src="./images/white.png">
+<img src="./images/player2.png">
+<img src="./images/player3.png">
+<img src="./images/player4.png">
 </p>
 
