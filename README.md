@@ -25,9 +25,9 @@
 <img src="./images/brown.png">
 <img src="./images/brownBlack.png">
 <img src="./images/black.png">
-<img src="./images/white.png">
-<img src="./images/white.png">
-<img src="./images/white.png">
+<img src="./images/yellow.png">
+<img src="./images/green.png">
+<img src="./images/mossGreen.png">
 <img src="./images/white.png">
 <img src="./images/white.png">
 <img src="./images/white.png">
