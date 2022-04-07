@@ -40,6 +40,7 @@
 <img src="./images/player2.png">
 <img src="./images/player3.png">
 <img src="./images/player4.png">
+<img src="./images/player5.png">
 <img src="./images/white_grayscale.png">
 <img src="./images/white_negative.png">
 <img src="./images/white_negative-grayscale.png">
