@@ -5,6 +5,7 @@
 
 --- 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&duration=4000&pause=1000&color=FFFFFF&width=240&height=48&lines=Oh+Yeah!;Cock+a+doodle+doo!;%F0%9F%90%94%F0%9F%90%94%F0%9F%90%94%F0%9F%90%94%F0%9F%90%94%F0%9F%90%94%F0%9F%90%94%F0%9F%90%94;Oh+Yeah!;Cock+a+doodle+doo!;%F0%9F%90%93%F0%9F%90%93%F0%9F%90%93%F0%9F%90%93%F0%9F%90%93%F0%9F%90%93%F0%9F%90%93%F0%9F%90%93)](https://git.io/typing-svg)
 * 🐔 = chicken = にわとり
 * 🐓 = rooster = おんどり
 * ohyeah = kotaoue = おうえこうた
