@@ -1,29 +1,20 @@
-<p>
-  <a href="http://x.com/kotaoue"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://www.facebook.com/kotaoue"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-</p>
 
 --- 
+<img src="./images/white_basic-tiptoe-basic-tiptoe-basic-jump_4_delay64.gif">
+<br />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&duration=4000&pause=1000&color=FFFFFF&width=240&height=48&lines=Oh+Yeah!;Cock+a+doodle+doo!;%F0%9F%90%94%F0%9F%90%94%F0%9F%90%94%F0%9F%90%94%F0%9F%90%94%F0%9F%90%94%F0%9F%90%94%F0%9F%90%94;Oh+Yeah!;Cock+a+doodle+doo!;%F0%9F%90%93%F0%9F%90%93%F0%9F%90%93%F0%9F%90%93%F0%9F%90%93%F0%9F%90%93%F0%9F%90%93%F0%9F%90%93)](https://git.io/typing-svg)
 * 🐔 = chicken = にわとり
 * 🐓 = rooster = おんどり
 * ohyeah = kotaoue = おうえこうた
 
----
 <p>
-<a href="https://github.com/kotaoue"><img height="140px" src="https://github-readme-stats.vercel.app/api?username=kotaoue&show_icons=true&theme=apprentice" /></a>
-<a href="https://github.com/kotaoue"><img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kotaoue&layout=compact&theme=apprentice" /></a><br />
-<a href="https://wakatime.com/@kotaoue"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=kotaoue&layout=compact&theme=apprentice" /></a>
-<img src="./images/white_basic-tiptoe-basic-tiptoe-basic-jump_4_delay64.gif"><br />
-<img src="https://github-profile-trophy.vercel.app/?username=kotaoue&theme=apprentice">
+  <a href="http://x.com/kotaoue"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://www.facebook.com/kotaoue"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kotaoue&theme=apprentice)](https://git.io/streak-stats)
-
----
 <p>
 <img src="./images/white.png">
 <img src="./images/panda.png">
@@ -71,5 +62,17 @@
 <img src="./images/random20.png">
 <img src="./images/random21.png">
 <img src="./images/random22.png">
+</p>
+
+---
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kotaoue&theme=apprentice)](https://git.io/streak-stats)
+
+---
+<p>
+<a href="https://github.com/kotaoue"><img height="140px" src="https://github-readme-stats.vercel.app/api?username=kotaoue&show_icons=true&theme=apprentice" /></a>
+<a href="https://github.com/kotaoue"><img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kotaoue&layout=compact&theme=apprentice" /></a><br />
+<a href="https://wakatime.com/@kotaoue"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=kotaoue&layout=compact&theme=apprentice" /></a>
+<img src="https://github-profile-trophy.vercel.app/?username=kotaoue&theme=apprentice">
 </p>
 
