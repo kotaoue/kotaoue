@@ -20,6 +20,10 @@
 </p>
 
 ---
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kotaoue&theme=apprentice)](https://git.io/streak-stats)
+
+---
 <p>
 <img src="./images/white.png">
 <img src="./images/panda.png">
