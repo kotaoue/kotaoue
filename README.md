@@ -68,9 +68,6 @@
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kotaoue&theme=apprentice)](https://git.io/streak-stats)
-
----
 <p>
 <a href="https://github.com/kotaoue"><img height="140px" src="https://github-readme-stats.vercel.app/api?username=kotaoue&show_icons=true&theme=apprentice" /></a>
 <a href="https://github.com/kotaoue"><img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kotaoue&layout=compact&theme=apprentice" /></a><br />
@@ -78,3 +75,4 @@
 <img src="https://github-profile-trophy.vercel.app/?username=kotaoue&theme=apprentice">
 </p>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kotaoue&theme=apprentice)](https://git.io/streak-stats)
