@@ -11,6 +11,8 @@
 <p>
   <a href="http://x.com/kotaoue"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://www.facebook.com/kotaoue"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://zenn.dev/kotaoue"><img src="https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white" /></a>
+  <a href="https://note.com/kotaoue"><img src="https://img.shields.io/badge/note-41C9B4?style=for-the-badge&logo=note&logoColor=white" /></a>
 </p>
 
 ---
