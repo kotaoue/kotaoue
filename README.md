@@ -1,9 +1,12 @@
 
 --- 
-<img src="./images/white_basic-tiptoe-basic-tiptoe-basic-jump_4_delay64.gif">
-<br />
+<p style="background-image: url(./images/speech-bubble.svg); background-repeat: no-repeat; background-position: top 35px left 130px;">
+  <img src="./images/white_basic-tiptoe-basic-tiptoe-basic-jump_4_delay64.gif">
+  <a style="position: relative; top: -30px; left: 25px" href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&weight=100&duration=4000&pause=1000&color=000000&background=FFFFFF&width=170&height=32&lines=Oh+Yeah!;Cock+a+doodle+doo!;" alt="Typing SVG" />
+  </a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&duration=4000&pause=1000&color=FFFFFF&width=240&height=48&lines=Oh+Yeah!;Cock+a+doodle+doo!;%F0%9F%90%94%F0%9F%90%94%F0%9F%90%94%F0%9F%90%94%F0%9F%90%94%F0%9F%90%94%F0%9F%90%94%F0%9F%90%94;Oh+Yeah!;Cock+a+doodle+doo!;%F0%9F%90%93%F0%9F%90%93%F0%9F%90%93%F0%9F%90%93%F0%9F%90%93%F0%9F%90%93%F0%9F%90%93%F0%9F%90%93)](https://git.io/typing-svg)
 * 🐔 = chicken = にわとり
 * 🐓 = rooster = おんどり
 * ohyeah = kotaoue = おうえこうた

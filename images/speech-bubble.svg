@@ -1,0 +1,8 @@
+<svg width="280" height="80" xmlns="http://www.w3.org/2000/svg">
+    <!-- しっぽ-->
+    <polygon points="0,40,20,35,20,45" fill="white" stroke="black" stroke-width="2" />
+    <!-- 吹き出し背景 -->
+    <rect x="20" y="10" width="200" height="60" rx="16" fill="white" stroke="black" stroke-width="2" />
+    <!-- 枠線を消す縦棒 -->
+    <rect x="19" y="36" width="2" height="8" fill="white" stroke="none" />
+</svg>
