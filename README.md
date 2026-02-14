@@ -1,7 +1,5 @@
 # kotaoue
 
----
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&weight=100&duration=4000&pause=1000&color=ff33aa&&center=true&width=170&height=32&lines=Oh+Yeah!;Cock+a+doodle+doo!;)](https://git.io/typing-svg)
 
 <img src="./images/white_basic-tiptoe-basic-tiptoe-basic-jump_4_delay64.gif" alt="kotaoue">
