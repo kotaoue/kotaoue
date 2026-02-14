@@ -1,4 +1,4 @@
-# ohyeah = kotaoue = おうえこうた
+# kotaoue
 
 ---
 
@@ -8,6 +8,7 @@
 
 * 🐔 = chicken = にわとり
 * 🐓 = rooster = おんどり
+* ohyeah = kotaoue = おうえこうた
 
 <p>
   <a href="http://x.com/kotaoue"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="x"></a>
