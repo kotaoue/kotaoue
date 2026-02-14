@@ -67,9 +67,9 @@
 <img src="./images/random22.png" alt="random22">
 </p>
 
+<!--
 ---
 
-<!--
 <p>
 <a href="https://github.com/kotaoue"><img height="140px" src="https://github-readme-stats.vercel.app/api?username=kotaoue&show_icons=true&theme=apprentice" /></a>
 <a href="https://github.com/kotaoue"><img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kotaoue&layout=compact&theme=apprentice" /></a><br />
