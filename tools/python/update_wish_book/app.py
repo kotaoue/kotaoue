@@ -23,7 +23,7 @@ def build_book_html(book: dict) -> str:
     return (
         f'<a href="{html.escape(book["url"])}">'
         f'<img src="{html.escape(book["image"])}" alt="{html.escape(book["title"])}">'
-        f'</a>'
+        f"</a>"
     )
 
 
@@ -65,7 +65,3 @@ def main():
         f.write(new_content)
 
     print(f"Updated README.md with: {book_html}")
-
-
-if __name__ == "__main__":
-    main()
