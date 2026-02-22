@@ -4,7 +4,7 @@ import random
 import sys
 import urllib.request
 
-WISH_JSON_URL = "https://raw.githubusercontent.com/kotaoue/readingLog/main/wish.json"
+WISH_JSON_URL = "https://raw.githubusercontent.com/kotaoue/kotaoue/main/wish.json"
 README_PATH = "README.md"
 START_MARKER = "<!-- WISH_BOOK_START -->"
 END_MARKER = "<!-- WISH_BOOK_END -->"
@@ -16,13 +16,13 @@ def fetch_books(url: str) -> list:
 
 
 def filter_valid_books(books: list) -> list:
-    return [b for b in books if all(k in b for k in ("url", "image", "title"))]
+    return [b for b in books if all(k in b for k in ("url", "thumb", "title"))]
 
 
 def build_book_html(book: dict) -> str:
     return (
         f'<a href="{html.escape(book["url"])}">'
-        f'<img src="{html.escape(book["image"])}" alt="{html.escape(book["title"])}">'
+        f'<img src="{html.escape(book["thumb"])}" alt="{html.escape(book["title"])}">'
         f"</a>"
     )
 

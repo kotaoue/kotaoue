@@ -19,7 +19,7 @@ class TestWishBookUpdateSimple(unittest.TestCase):
         books = [
             {
                 "url": "https://bookmeter.com/books/1",
-                "image": "https://img.example.com/1.jpg",
+                "thumb": "https://img.example.com/1.jpg",
                 "title": "Book A",
             }
         ]
@@ -39,12 +39,12 @@ class TestWishBookUpdateSimple(unittest.TestCase):
         books = [
             {
                 "url": "https://bookmeter.com/books/1",
-                "image": "https://img.example.com/1.jpg",
+                "thumb": "https://img.example.com/1.jpg",
                 "title": "Book A",
             },
             {
                 "url": "https://bookmeter.com/books/2",
-                "image": "https://img.example.com/2.jpg",
+                "thumb": "https://img.example.com/2.jpg",
                 "title": "Book B",
             },
         ]
