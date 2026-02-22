@@ -1,0 +1,68 @@
+name: Update Wish Book
+
+on:
+  schedule:
+    - cron: '0 16 * * *'  # 1:00 JST (UTC+9)
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch wish.json and update README
+        run: |
+          python3 - <<'EOF'
+          import html
+          import json
+          import random
+          import sys
+          import urllib.request
+
+          url = "https://raw.githubusercontent.com/kotaoue/readingLog/main/wish.json"
+          with urllib.request.urlopen(url) as res:
+              books = json.load(res)
+
+          if not books:
+              print("wish.json is empty, skipping update.")
+              sys.exit(0)
+
+          valid = [b for b in books if all(k in b for k in ("url", "image", "title"))]
+          if not valid:
+              print("No valid book entries found in wish.json, skipping update.")
+              sys.exit(0)
+
+          book = random.choice(valid)
+          book_html = (
+              f'<a href="{html.escape(book["url"])}">'
+              f'<img src="{html.escape(book["image"])}" alt="{html.escape(book["title"])}">'
+              f'</a>'
+          )
+
+          with open("README.md", "r", encoding="utf-8") as f:
+              content = f.read()
+
+          start = "<!-- WISH_BOOK_START -->"
+          end = "<!-- WISH_BOOK_END -->"
+          if start not in content or end not in content:
+              print("Markers not found in README.md, skipping update.")
+              sys.exit(1)
+
+          new_content = content[:content.index(start) + len(start)] + book_html + content[content.index(end):]
+
+          with open("README.md", "w", encoding="utf-8") as f:
+              f.write(new_content)
+
+          print(f"Updated README.md with: {book_html}")
+          EOF
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "chore: update wish book"
+          git push

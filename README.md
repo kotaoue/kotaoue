@@ -21,6 +21,10 @@
 
 ---
 
+<!-- WISH_BOOK_START --><!-- WISH_BOOK_END -->
+
+---
+
 <p>
 <img src="./images/white.png" alt="white">
 <img src="./images/panda.png" alt="panda">
