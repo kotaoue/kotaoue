@@ -87,4 +87,4 @@
 
 | key | value |
 | - | - |
-| [読みたい本](https://bookmeter.com/users/104/books/wish) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/12305177"><img src="https://m.media-amazon.com/images/I/61DkYxms1vL._SL500_.jpg" alt="残酷すぎる成功法則 9割まちがえる「その常識」を科学する" width="128px"></a><!-- WISH_BOOK_END --> |
+| [読みたい本](https://bookmeter.com/users/104/books/wish) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/4722844"><img src="https://m.media-amazon.com/images/I/419IobwkSrL._SL500_.jpg" alt="コミュニケーションは、要らない (幻冬舎新書)" width="128px"></a><!-- WISH_BOOK_END --> |
