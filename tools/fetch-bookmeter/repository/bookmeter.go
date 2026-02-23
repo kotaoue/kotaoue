@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/kotaoue/kotaoue/scripts/fetch-bookmeter/entity"
+	"github.com/kotaoue/kotaoue/tools/fetch-bookmeter/entity"
 )
 
 func fetchHTML(url string, retries int) (string, error) {

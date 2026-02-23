@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/kotaoue/kotaoue/scripts/fetch-bookmeter/entity"
+	"github.com/kotaoue/kotaoue/tools/fetch-bookmeter/entity"
 )
 
 // FetchWishList fetches and parses all pages of the wish list from Bookmeter

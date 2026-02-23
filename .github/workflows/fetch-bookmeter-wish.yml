@@ -16,11 +16,11 @@ jobs:
 
       - uses: actions/setup-go@v5
         with:
-          go-version-file: scripts/fetch-bookmeter/go.mod
+          go-version-file: tools/fetch-bookmeter/go.mod
 
       - name: Fetch wish list
-        working-directory: scripts/fetch-bookmeter
-        run: go run . -output $GITHUB_WORKSPACE/wish.json
+        working-directory: tools/fetch-bookmeter
+        run: go run . fetch-wish -output $GITHUB_WORKSPACE/wish.json
 
       - name: Commit and push wish.json
         run: |
