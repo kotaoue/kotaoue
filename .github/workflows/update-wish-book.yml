@@ -13,8 +13,13 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Fetch wish.json and update README
-        run: python3 -m tools.python.update_wish_book
+      - uses: actions/setup-go@v5
+        with:
+          go-version-file: tools/fetch-bookmeter/go.mod
+
+      - name: Update README with random wish book
+        working-directory: tools/fetch-bookmeter
+        run: go run . update-readme -wish-file $GITHUB_WORKSPACE/wish.json -readme $GITHUB_WORKSPACE/README.md
 
       - name: Commit and push changes
         run: |
