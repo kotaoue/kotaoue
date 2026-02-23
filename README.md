@@ -85,5 +85,6 @@
 
 ---
 
-今読みたい本
-<!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/244961"><img src="https://m.media-amazon.com/images/I/41YyDmu+5dL._SL500_.jpg" alt="正当化の理論―偉大さのエコノミー" width="128px"></a><!-- WISH_BOOK_END -->
+| key | value |
+| - | - |
+| [読みたい本](https://bookmeter.com/users/104/books/wish) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/12305177"><img src="https://m.media-amazon.com/images/I/61DkYxms1vL._SL500_.jpg" alt="残酷すぎる成功法則 9割まちがえる「その常識」を科学する" width="128px"></a><!-- WISH_BOOK_END --> |
