@@ -82,3 +82,8 @@
 -->
 
 <!--[![GitHub Streak](https://streak-stats.demolab.com/?user=kotaoue&theme=apprentice)](https://git.io/streak-stats)-->
+
+---
+
+今読みたい本
+<!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/244961"><img src="https://m.media-amazon.com/images/I/41YyDmu+5dL._SL500_.jpg" alt="正当化の理論―偉大さのエコノミー" width="128px"></a><!-- WISH_BOOK_END -->
