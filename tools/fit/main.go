@@ -1,9 +1,9 @@
 package main
 
 import (
+	"flag"
 	"fmt"
 	"log"
-	"os"
 
 	"github.com/kotaoue/kotaoue/tools/fit/service"
 )
@@ -15,14 +15,14 @@ func main() {
 }
 
 func run() error {
-	if len(os.Args) < 2 {
-		return fmt.Errorf("expected subcommand: update-pedometer")
-	}
+	cmd := flag.String("cmd", "", "subcommand to run (update-pedometer)")
+	readmeFile := flag.String("readme", "README.md", "Path to README.md")
+	flag.Parse()
 
-	switch os.Args[1] {
+	switch *cmd {
 	case "update-pedometer":
-		return service.RunUpdatePedometer(os.Args[2:])
+		return service.RunUpdatePedometer(*readmeFile)
 	default:
-		return fmt.Errorf("unknown subcommand: %s", os.Args[1])
+		return fmt.Errorf("expected -cmd flag with value: update-pedometer")
 	}
 }

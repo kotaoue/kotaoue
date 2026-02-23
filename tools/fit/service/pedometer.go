@@ -3,12 +3,10 @@ package service
 import (
 	"bytes"
 	"encoding/json"
-	"flag"
 	"fmt"
 	"io"
 	"log"
 	"net/http"
-	"net/url"
 	"os"
 	"strings"
 	"time"
@@ -17,16 +15,8 @@ import (
 const (
 	startMarker = "<!-- PEDOMETER_START -->"
 	endMarker   = "<!-- PEDOMETER_END -->"
-	tokenURL    = "https://oauth2.googleapis.com/token"
 	fitnessURL  = "https://www.googleapis.com/fitness/v1/users/me/dataset:aggregate"
 )
-
-// tokenResponse holds the OAuth2 token refresh response.
-type tokenResponse struct {
-	AccessToken string `json:"access_token"`
-	TokenType   string `json:"token_type"`
-	ExpiresIn   int    `json:"expires_in"`
-}
 
 // aggregateRequest is the request body for the Google Fit aggregate API.
 type aggregateRequest struct {
@@ -57,20 +47,14 @@ type aggregateResponse struct {
 	} `json:"bucket"`
 }
 
-// RunUpdatePedometer fetches yesterday's step count from Google Fit and updates README.md.
-func RunUpdatePedometer(args []string) error {
-	fs := flag.NewFlagSet("update-pedometer", flag.ExitOnError)
-	readmeFile := fs.String("readme", "README.md", "Path to README.md")
-	if err := fs.Parse(args); err != nil {
-		return err
-	}
-
-	clientID := os.Getenv("GOOGLE_CLIENT_ID")
-	clientSecret := os.Getenv("GOOGLE_CLIENT_SECRET")
-	refreshToken := os.Getenv("GOOGLE_REFRESH_TOKEN")
+// RunUpdatePedometer fetches yesterday's step count from Google Fit and updates the given README file.
+func RunUpdatePedometer(readmeFile string) error {
+	clientID := os.Getenv("GOOGLE_FIT_CLIENT_ID")
+	clientSecret := os.Getenv("GOOGLE_FIT_CLIENT_SECRET")
+	refreshToken := os.Getenv("GOOGLE_FIT_REFRESH_TOKEN")
 
 	if clientID == "" || clientSecret == "" || refreshToken == "" {
-		return fmt.Errorf("GOOGLE_CLIENT_ID, GOOGLE_CLIENT_SECRET, and GOOGLE_REFRESH_TOKEN environment variables are required")
+		return fmt.Errorf("GOOGLE_FIT_CLIENT_ID, GOOGLE_FIT_CLIENT_SECRET, and GOOGLE_FIT_REFRESH_TOKEN environment variables are required")
 	}
 
 	accessToken, err := refreshAccessToken(clientID, clientSecret, refreshToken)
@@ -86,7 +70,7 @@ func RunUpdatePedometer(args []string) error {
 	yesterday := time.Now().In(time.FixedZone("JST", 9*60*60)).AddDate(0, 0, -1)
 	stepsText := fmt.Sprintf("%d月%d日の歩数: %d歩", yesterday.Month(), yesterday.Day(), steps)
 
-	content, err := os.ReadFile(*readmeFile)
+	content, err := os.ReadFile(readmeFile)
 	if err != nil {
 		return fmt.Errorf("failed to read README file: %w", err)
 	}
@@ -96,43 +80,12 @@ func RunUpdatePedometer(args []string) error {
 		return fmt.Errorf("failed to replace content: %w", err)
 	}
 
-	if err := os.WriteFile(*readmeFile, []byte(newContent), 0644); err != nil {
+	if err := os.WriteFile(readmeFile, []byte(newContent), 0644); err != nil {
 		return fmt.Errorf("failed to write README file: %w", err)
 	}
 
-	log.Printf("Updated %s with: %s", *readmeFile, stepsText)
+	log.Printf("Updated %s with: %s", readmeFile, stepsText)
 	return nil
-}
-
-// refreshAccessToken exchanges a refresh token for an access token.
-func refreshAccessToken(clientID, clientSecret, refreshToken string) (string, error) {
-	form := url.Values{}
-	form.Set("client_id", clientID)
-	form.Set("client_secret", clientSecret)
-	form.Set("refresh_token", refreshToken)
-	form.Set("grant_type", "refresh_token")
-
-	resp, err := http.PostForm(tokenURL, form) // #nosec G107 -- URL is a fixed constant
-	if err != nil {
-		return "", fmt.Errorf("failed to request token: %w", err)
-	}
-	defer resp.Body.Close()
-
-	body, err := io.ReadAll(resp.Body)
-	if err != nil {
-		return "", fmt.Errorf("failed to read token response: %w", err)
-	}
-
-	if resp.StatusCode != http.StatusOK {
-		return "", fmt.Errorf("token endpoint returned status %d: %s", resp.StatusCode, body)
-	}
-
-	var tr tokenResponse
-	if err := json.Unmarshal(body, &tr); err != nil {
-		return "", fmt.Errorf("failed to parse token response: %w", err)
-	}
-
-	return tr.AccessToken, nil
 }
 
 // fetchYesterdaySteps returns the total step count for yesterday using the Google Fit API.
