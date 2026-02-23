@@ -21,10 +21,6 @@
 
 ---
 
-<!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/10588768"><img src="https://m.media-amazon.com/images/I/41fxiN05nPL._SL500_.jpg" alt="プリンシプル オブ プログラミング 3年目までに身につけたい 一生役立つ101の原理原則"></a><!-- WISH_BOOK_END -->
-
----
-
 <p>
 <img src="./images/white.png" alt="white">
 <img src="./images/panda.png" alt="panda">
@@ -86,3 +82,8 @@
 -->
 
 <!--[![GitHub Streak](https://streak-stats.demolab.com/?user=kotaoue&theme=apprentice)](https://git.io/streak-stats)-->
+
+---
+
+今読みたい本
+<!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/10588768"><img src="https://m.media-amazon.com/images/I/41fxiN05nPL._SL500_.jpg" alt="プリンシプル オブ プログラミング 3年目までに身につけたい 一生役立つ101の原理原則" width="128px;"></a><!-- WISH_BOOK_END -->
