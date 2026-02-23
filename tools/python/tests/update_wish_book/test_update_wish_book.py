@@ -29,7 +29,7 @@ class TestWishBookUpdateSimple(unittest.TestCase):
         expected = (
             "before\n"
             "<!-- WISH_BOOK_START -->"
-            '<a href="https://bookmeter.com/books/1"><img src="https://img.example.com/1.jpg" alt="Book A"></a>'
+            '<a href="https://bookmeter.com/books/1"><img src="https://img.example.com/1.jpg" alt="Book A" width="128px"></a>'
             "<!-- WISH_BOOK_END -->\n"
             "after"
         )
@@ -52,14 +52,14 @@ class TestWishBookUpdateSimple(unittest.TestCase):
         candidate_a = (
             "before\n"
             "<!-- WISH_BOOK_START -->"
-            '<a href="https://bookmeter.com/books/1"><img src="https://img.example.com/1.jpg" alt="Book A"></a>'
+            '<a href="https://bookmeter.com/books/1"><img src="https://img.example.com/1.jpg" alt="Book A" width="128px"></a>'
             "<!-- WISH_BOOK_END -->\n"
             "after"
         )
         candidate_b = (
             "before\n"
             "<!-- WISH_BOOK_START -->"
-            '<a href="https://bookmeter.com/books/2"><img src="https://img.example.com/2.jpg" alt="Book B"></a>'
+            '<a href="https://bookmeter.com/books/2"><img src="https://img.example.com/2.jpg" alt="Book B" width="128px"></a>'
             "<!-- WISH_BOOK_END -->\n"
             "after"
         )

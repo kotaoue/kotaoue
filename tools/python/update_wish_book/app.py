@@ -8,6 +8,7 @@ WISH_JSON_URL = "https://raw.githubusercontent.com/kotaoue/kotaoue/main/wish.jso
 README_PATH = "README.md"
 START_MARKER = "<!-- WISH_BOOK_START -->"
 END_MARKER = "<!-- WISH_BOOK_END -->"
+BOOK_IMAGE_WIDTH = "128px"
 
 
 def fetch_books(url: str) -> list:
@@ -22,7 +23,7 @@ def filter_valid_books(books: list) -> list:
 def build_book_html(book: dict) -> str:
     return (
         f'<a href="{html.escape(book["url"])}">'
-        f'<img src="{html.escape(book["thumb"])}" alt="{html.escape(book["title"])}">'
+        f'<img src="{html.escape(book["thumb"])}" alt="{html.escape(book["title"])}" width="{BOOK_IMAGE_WIDTH}">'
         f"</a>"
     )
 

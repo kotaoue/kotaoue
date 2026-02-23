@@ -86,4 +86,4 @@
 ---
 
 今読みたい本
-<!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/10588768"><img src="https://m.media-amazon.com/images/I/41fxiN05nPL._SL500_.jpg" alt="プリンシプル オブ プログラミング 3年目までに身につけたい 一生役立つ101の原理原則" width="128px;"></a><!-- WISH_BOOK_END -->
+<!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/244961"><img src="https://m.media-amazon.com/images/I/41YyDmu+5dL._SL500_.jpg" alt="正当化の理論―偉大さのエコノミー" width="128px"></a><!-- WISH_BOOK_END -->
