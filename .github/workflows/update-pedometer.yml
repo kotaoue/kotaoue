@@ -1,0 +1,34 @@
+name: Update Pedometer
+
+on:
+  schedule:
+    - cron: "0 16 * * *" # 1:00 AM JST (UTC+9)
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-go@v5
+        with:
+          go-version-file: tools/fit/go.mod
+
+      - name: Update README with yesterday's step count
+        working-directory: tools/fit
+        run: go run . update-pedometer -readme $GITHUB_WORKSPACE/README.md
+        env:
+          GOOGLE_CLIENT_ID: ${{ secrets.GOOGLE_CLIENT_ID }}
+          GOOGLE_CLIENT_SECRET: ${{ secrets.GOOGLE_CLIENT_SECRET }}
+          GOOGLE_REFRESH_TOKEN: ${{ secrets.GOOGLE_REFRESH_TOKEN }}
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "chore: update pedometer"
+          git push

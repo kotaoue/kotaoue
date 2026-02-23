@@ -1,0 +1,28 @@
+package main
+
+import (
+	"fmt"
+	"log"
+	"os"
+
+	"github.com/kotaoue/kotaoue/tools/fit/service"
+)
+
+func main() {
+	if err := run(); err != nil {
+		log.Fatal(err)
+	}
+}
+
+func run() error {
+	if len(os.Args) < 2 {
+		return fmt.Errorf("expected subcommand: update-pedometer")
+	}
+
+	switch os.Args[1] {
+	case "update-pedometer":
+		return service.RunUpdatePedometer(os.Args[2:])
+	default:
+		return fmt.Errorf("unknown subcommand: %s", os.Args[1])
+	}
+}
