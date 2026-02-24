@@ -85,6 +85,6 @@
 
 ---
 
-| [読みたい本](https://bookmeter.com/users/104/books/wish) | <!-- PEDOMETER_DATE_START -->2月23日の歩数<!-- PEDOMETER_DATE_END --> |
+| [読みたい本](https://bookmeter.com/users/104/books/wish) | <!-- PEDOMETER_DATE_START -->2月24日の歩数<!-- PEDOMETER_DATE_END --> |
 | - | - |
-| <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/22634021"><img src="https://m.media-amazon.com/images/I/41PwZWeYcWL._SL500_.jpg" alt="ソフトウェアテスト徹底指南書 〜開発の高品質と高スピードを両立させる実践アプローチ" width="128px"></a><!-- WISH_BOOK_END --> | <!-- PEDOMETER_STEPS_START -->11557歩<!-- PEDOMETER_STEPS_END --> |
+| <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/22634021"><img src="https://m.media-amazon.com/images/I/41PwZWeYcWL._SL500_.jpg" alt="ソフトウェアテスト徹底指南書 〜開発の高品質と高スピードを両立させる実践アプローチ" width="128px"></a><!-- WISH_BOOK_END --> | <!-- PEDOMETER_STEPS_START -->8335歩<!-- PEDOMETER_STEPS_END --> |
