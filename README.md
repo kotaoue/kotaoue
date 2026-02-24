@@ -85,7 +85,6 @@
 
 ---
 
-| key | value |
+| [読みたい本](https://bookmeter.com/users/104/books/wish) | <!-- PEDOMETER_DATE_START -->2月23日の歩数<!-- PEDOMETER_DATE_END --> |
 | - | - |
-| [読みたい本](https://bookmeter.com/users/104/books/wish) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/13605385"><img src="https://m.media-amazon.com/images/I/51nv8DGJoGL._SL500_.jpg" alt="苦しかったときの話をしようか ビジネスマンの父が我が子のために書きためた「働くことの本質」" width="128px"></a><!-- WISH_BOOK_END --> |
-| 歩数 | <!-- PEDOMETER_START -->2月23日の歩数: 11557歩<!-- PEDOMETER_END --> |
+| <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/13605385"><img src="https://m.media-amazon.com/images/I/51nv8DGJoGL._SL500_.jpg" alt="苦しかったときの話をしようか ビジネスマンの父が我が子のために書きためた「働くことの本質」" width="128px"></a><!-- WISH_BOOK_END --> | <!-- PEDOMETER_STEPS_START -->11557歩<!-- PEDOMETER_STEPS_END --> |

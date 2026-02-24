@@ -13,9 +13,11 @@ import (
 )
 
 const (
-	startMarker = "<!-- PEDOMETER_START -->"
-	endMarker   = "<!-- PEDOMETER_END -->"
-	fitnessURL  = "https://www.googleapis.com/fitness/v1/users/me/dataset:aggregate"
+	dateStartMarker  = "<!-- PEDOMETER_DATE_START -->"
+	dateEndMarker    = "<!-- PEDOMETER_DATE_END -->"
+	stepsStartMarker = "<!-- PEDOMETER_STEPS_START -->"
+	stepsEndMarker   = "<!-- PEDOMETER_STEPS_END -->"
+	fitnessURL       = "https://www.googleapis.com/fitness/v1/users/me/dataset:aggregate"
 )
 
 // aggregateRequest is the request body for the Google Fit aggregate API.
@@ -68,23 +70,29 @@ func RunUpdatePedometer(readmeFile string) error {
 	}
 
 	yesterday := time.Now().In(time.FixedZone("JST", 9*60*60)).AddDate(0, 0, -1)
-	stepsText := fmt.Sprintf("%d月%d日の歩数: %d歩", yesterday.Month(), yesterday.Day(), steps)
+	dateText := fmt.Sprintf("%d月%d日の歩数", yesterday.Month(), yesterday.Day())
+	stepsText := fmt.Sprintf("%d歩", steps)
 
 	content, err := os.ReadFile(readmeFile)
 	if err != nil {
 		return fmt.Errorf("failed to read README file: %w", err)
 	}
 
-	newContent, err := replaceBetweenMarkers(string(content), startMarker, endMarker, stepsText)
+	newContent, err := replaceBetweenMarkers(string(content), dateStartMarker, dateEndMarker, dateText)
 	if err != nil {
-		return fmt.Errorf("failed to replace content: %w", err)
+		return fmt.Errorf("failed to replace date content: %w", err)
+	}
+
+	newContent, err = replaceBetweenMarkers(newContent, stepsStartMarker, stepsEndMarker, stepsText)
+	if err != nil {
+		return fmt.Errorf("failed to replace steps content: %w", err)
 	}
 
 	if err := os.WriteFile(readmeFile, []byte(newContent), 0644); err != nil {
 		return fmt.Errorf("failed to write README file: %w", err)
 	}
 
-	log.Printf("Updated %s with: %s", readmeFile, stepsText)
+	log.Printf("Updated %s with: %s %s", readmeFile, dateText, stepsText)
 	return nil
 }
 
