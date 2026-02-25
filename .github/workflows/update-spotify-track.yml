@@ -2,7 +2,7 @@ name: Update Spotify Track
 
 on:
   schedule:
-    - cron: "0 17 * * *" # 2:00 JST (UTC+9)
+    - cron: "30 17 * * *" # 2:30 JST (UTC+9)
   workflow_dispatch:
 
 jobs:
