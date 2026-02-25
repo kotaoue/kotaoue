@@ -85,7 +85,7 @@ func filterValidTracks(tracks []entity.Track) []entity.Track {
 
 func buildTrackHTML(track entity.Track) string {
 	return fmt.Sprintf(
-		`<a href="%s"><img src="%s" alt="%s" width="%s"><br>%s - %s</a>`,
+		`<a href="%s"><img src="%s" alt="%s" width="%s"><br>%s<br>%s</a>`,
 		html.EscapeString(track.URL),
 		html.EscapeString(track.Thumb),
 		html.EscapeString(track.Artist+" - "+track.Title),
