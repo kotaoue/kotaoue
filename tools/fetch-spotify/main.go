@@ -16,12 +16,14 @@ func main() {
 
 func run() error {
 	if len(os.Args) < 2 {
-		return fmt.Errorf("expected subcommand: fetch-playlist")
+		return fmt.Errorf("expected subcommand: fetch-playlist or update-readme")
 	}
 
 	switch os.Args[1] {
 	case "fetch-playlist":
 		return service.RunFetchPlaylist(os.Args[2:])
+	case "update-readme":
+		return service.RunUpdateReadme(os.Args[2:])
 	default:
 		return fmt.Errorf("unknown subcommand: %s", os.Args[1])
 	}
