@@ -1,3 +1,3 @@
 module github.com/kotaoue/kotaoue/tools/fetch-spotify
 
-go 1.21
+go 1.26
