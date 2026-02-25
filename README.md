@@ -85,6 +85,6 @@
 
 ---
 
-| [読みたい本](https://bookmeter.com/users/104/books/wish) | [聴きたい曲](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) | <!-- PEDOMETER_DATE_START -->2月25日の歩数<!-- PEDOMETER_DATE_END --> |
+| [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) | <!-- PEDOMETER_DATE_START -->2月25日の歩数<!-- PEDOMETER_DATE_END --> |
 | - | - | - |
 | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/498138"><img src="https://m.media-amazon.com/images/I/51B4IIsFE5L._SL500_.jpg" alt="料理の四面体 (中公文庫 た 33-22)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><!-- SPOTIFY_TRACK_END --> | <!-- PEDOMETER_STEPS_START -->1756歩<!-- PEDOMETER_STEPS_END --> |
