@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: '0 15 * * *'  # 0:00 JST (UTC+9)
+    - cron: '30 15 * * *'  # 0:30 JST (UTC+9)
   workflow_dispatch:
 
 permissions:
