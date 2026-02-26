@@ -1,0 +1,55 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 15 * * *'  # 0:00 JST (UTC+9)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-go@v5
+        with:
+          # Use the highest Go version required across all tools (compatible with all)
+          go-version-file: tools/fetch-spotify/go.mod
+
+      - name: Fetch Bookmeter wish list
+        working-directory: tools/fetch-bookmeter
+        run: go run . fetch-wish -output $GITHUB_WORKSPACE/wish.json
+
+      - name: Fetch Spotify playlist
+        working-directory: tools/fetch-spotify
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+        run: go run . fetch-playlist -output $GITHUB_WORKSPACE/playlist.json
+
+      - name: Update README with yesterday's step count
+        working-directory: tools/fit
+        env:
+          GOOGLE_FIT_CLIENT_ID: ${{ secrets.GOOGLE_FIT_CLIENT_ID }}
+          GOOGLE_FIT_CLIENT_SECRET: ${{ secrets.GOOGLE_FIT_CLIENT_SECRET }}
+          GOOGLE_FIT_REFRESH_TOKEN: ${{ secrets.GOOGLE_FIT_REFRESH_TOKEN }}
+        run: go run . -cmd update-pedometer -readme $GITHUB_WORKSPACE/README.md
+
+      - name: Update README with random wish book
+        working-directory: tools/fetch-bookmeter
+        run: go run . update-readme -wish-file $GITHUB_WORKSPACE/wish.json -readme $GITHUB_WORKSPACE/README.md
+
+      - name: Update README with random Spotify track
+        working-directory: tools/fetch-spotify
+        run: go run . update-readme -playlist-file $GITHUB_WORKSPACE/playlist.json -readme $GITHUB_WORKSPACE/README.md
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md playlist.json wish.json
+          git diff --staged --quiet || git commit -m "chore: update README"
+          git push
