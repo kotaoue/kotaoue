@@ -17,7 +17,9 @@
   <a href="https://bookmeter.com/users/104"><img src="https://img.shields.io/badge/読書メーター-219315?style=for-the-badge&logo=bookstack&logoColor=white" alt="bookmeter"></a>
   <a href="https://qiita.com/kotaoue"><img src="https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white" alt="Qiita"></a>
   <a href="https://www.duolingo.com/profile/KotaOue"><img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=duolingo&logoColor=white" alt="duolingo"></a>
+  <a href="https://wakatime.com/@kotaoue"><img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=wakatime&logoColor=white" alt="wakatime"></a>
 </p>
+<a href="https://wakatime.com/@5e0c4002-cf4e-4085-854e-209b31384bdf"><img src="https://wakatime.com/badge/user/5e0c4002-cf4e-4085-854e-209b31384bdf.svg"></a>
 
 ---
 
