@@ -74,9 +74,9 @@
 
 ---
 
-| <!-- PEDOMETER_DATE_START -->2月26日の歩数<!-- PEDOMETER_DATE_END --> | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->2月27日の歩数<!-- PEDOMETER_DATE_END --> | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->6205歩<!-- PEDOMETER_STEPS_END --> | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/652407"><img src="https://m.media-amazon.com/images/I/41eZvryYi7L._SL500_.jpg" alt="マルドゥック・スクランブル〈改訂新版〉" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/2BfzhBl79bcPOHHXAXJkTY"><img src="https://i.scdn.co/image/ab67616d0000b273f306fb3f9fd03555becbb1fe" alt="CHANMINA - ハレンチ" width="128px"><br>CHANMINA<br>ハレンチ</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->8259歩<!-- PEDOMETER_STEPS_END --> | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/496768"><img src="https://m.media-amazon.com/images/I/41NCpx1PNKL._SL500_.jpg" alt="弓と禅" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/6AvwRrfNtvWMG4w3MfKEoi"><img src="https://i.scdn.co/image/ab67616d0000b27361e820e29fc94fa644890409" alt="乃紫 - 初恋キラー" width="128px"><br>乃紫<br>初恋キラー</a><!-- SPOTIFY_TRACK_END --> |
 
 ---
 
