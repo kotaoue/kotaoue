@@ -18,6 +18,7 @@
   <a href="https://qiita.com/kotaoue"><img src="https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white" alt="Qiita"></a>
   <a href="https://www.duolingo.com/profile/KotaOue"><img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=duolingo&logoColor=white" alt="duolingo"></a>
 </p>
+<a href="https://wakatime.com/@5e0c4002-cf4e-4085-854e-209b31384bdf"><img src="https://wakatime.com/badge/user/5e0c4002-cf4e-4085-854e-209b31384bdf.svg"></a>
 
 ---
 
@@ -76,13 +77,12 @@
 | - | - | - |
 | <!-- PEDOMETER_STEPS_START -->6205歩<!-- PEDOMETER_STEPS_END --> | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/652407"><img src="https://m.media-amazon.com/images/I/41eZvryYi7L._SL500_.jpg" alt="マルドゥック・スクランブル〈改訂新版〉" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/2BfzhBl79bcPOHHXAXJkTY"><img src="https://i.scdn.co/image/ab67616d0000b273f306fb3f9fd03555becbb1fe" alt="CHANMINA - ハレンチ" width="128px"><br>CHANMINA<br>ハレンチ</a><!-- SPOTIFY_TRACK_END --> |
 
-<!--
 ---
 
+<!--
 <p>
 <a href="https://github.com/kotaoue"><img height="140px" src="https://github-readme-stats.vercel.app/api?username=kotaoue&show_icons=true&theme=apprentice" /></a>
 <a href="https://github.com/kotaoue"><img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kotaoue&layout=compact&theme=apprentice" /></a><br />
-<a href="https://wakatime.com/@kotaoue"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=kotaoue&layout=compact&theme=apprentice" /></a>
 <img src="https://github-profile-trophy.vercel.app/?username=kotaoue&theme=apprentice">
 </p>
 -->
