@@ -89,3 +89,5 @@
 -->
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kotaoue&theme=apprentice)](https://git.io/streak-stats)
+
+[![直近1年のコミット](./images/gource-last-year-30s.gif)](./images/gource-last-year-30s.gif)

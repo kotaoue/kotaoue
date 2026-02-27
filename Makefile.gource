@@ -1,0 +1,72 @@
+.PHONY: help gource gource-30s gource-15s gource-60s gource-last-year-30s gource-last-year-30s-gif gource-render gource-render-range
+
+FPS ?= 60
+WIDTH ?= 480
+HEIGHT ?= 270
+CRF ?= 23
+PRESET ?= veryfast
+DATE_FORMAT ?= %Y-%m-%d
+GIF_FPS ?= 12
+HIDE_DATE ?= 0
+HIDE_FILENAMES ?= 0
+OUTPUT_DIR ?= images
+OUT ?= $(OUTPUT_DIR)/gource-30s.mp4
+DURATION ?= 30
+
+gource: gource-30s
+
+help:
+	@echo "Usage (Gource):"
+	@echo "  make -f Makefile.gource gource-30s"
+	@echo "  make -f Makefile.gource gource-15s"
+	@echo "  make -f Makefile.gource gource-60s"
+	@echo "  make -f Makefile.gource gource-last-year-30s"
+	@echo "  make -f Makefile.gource gource-last-year-30s-gif"
+	@echo "  make -f Makefile.gource gource DURATION=45 OUT=$(OUTPUT_DIR)/my.mp4"
+
+gource-30s:
+	@$(MAKE) --no-print-directory -f Makefile.gource gource-render DURATION=30 OUT=$(OUTPUT_DIR)/gource-30s.mp4
+
+gource-15s:
+	@$(MAKE) --no-print-directory -f Makefile.gource gource-render DURATION=15 OUT=$(OUTPUT_DIR)/gource-15s.mp4
+
+gource-60s:
+	@$(MAKE) --no-print-directory -f Makefile.gource gource-render DURATION=60 OUT=$(OUTPUT_DIR)/gource-60s.mp4
+
+gource-last-year-30s:
+	@END=$$(git log --date=short --pretty=format:'%ad' | head -1); \
+	START=$$(END="$$END" python3 -c 'from datetime import date, timedelta; import os; e=date.fromisoformat(os.environ["END"]); print((e-timedelta(days=365)).isoformat())'); \
+	$(MAKE) --no-print-directory -f Makefile.gource gource-render-range START_DATE="$$START" END_DATE="$$END" DURATION=30 OUT=$(OUTPUT_DIR)/gource-last-year-30s.mp4
+
+gource-last-year-30s-gif:
+	@command -v ffmpeg >/dev/null || { echo "ffmpeg not found"; exit 1; }
+	@mkdir -p "$(OUTPUT_DIR)"
+	@END=$$(git log --date=short --pretty=format:'%ad' | head -1); \
+	START=$$(END="$$END" python3 -c 'from datetime import date, timedelta; import os; e=date.fromisoformat(os.environ["END"]); print((e-timedelta(days=365)).isoformat())'); \
+	TMP_MP4=$$(mktemp /tmp/gource-last-year-video.XXXXXX.mp4); \
+	PALETTE=$$(mktemp /tmp/gource-last-year-palette.XXXXXX.png); \
+	$(MAKE) --no-print-directory -f Makefile.gource gource-render-range START_DATE="$$START" END_DATE="$$END" DURATION=30 OUT="$$TMP_MP4" HIDE_DATE=1 HIDE_FILENAMES=1; \
+	ffmpeg -y -i "$$TMP_MP4" -vf "fps=$(GIF_FPS),scale=$(WIDTH):$(HEIGHT):flags=lanczos,palettegen" "$$PALETTE"; \
+	ffmpeg -y -i "$$TMP_MP4" -i "$$PALETTE" -filter_complex "fps=$(GIF_FPS),scale=$(WIDTH):$(HEIGHT):flags=lanczos[x];[x][1:v]paletteuse" "$(OUTPUT_DIR)/gource-last-year-30s.gif"; \
+	rm -f "$$TMP_MP4" "$$PALETTE"; \
+	ls -lh "$(OUTPUT_DIR)/gource-last-year-30s.gif"
+
+gource-render:
+	@START=$$(git log --reverse --date=short --pretty=format:'%ad' | head -1); \
+	END=$$(git log --date=short --pretty=format:'%ad' | head -1); \
+	$(MAKE) --no-print-directory -f Makefile.gource gource-render-range START_DATE="$$START" END_DATE="$$END" DURATION="$(DURATION)" OUT="$(OUT)"
+
+gource-render-range:
+	@command -v gource >/dev/null || { echo "gource not found"; exit 1; }
+	@command -v ffmpeg >/dev/null || { echo "ffmpeg not found"; exit 1; }
+	@command -v python3 >/dev/null || { echo "python3 not found"; exit 1; }
+	@test -n "$(START_DATE)" || { echo "START_DATE is required"; exit 1; }
+	@test -n "$(END_DATE)" || { echo "END_DATE is required"; exit 1; }
+	@mkdir -p "$(OUTPUT_DIR)"
+	@SPD=$$(START="$(START_DATE)" END="$(END_DATE)" python3 -c 'from datetime import date; import os; s=date.fromisoformat(os.environ["START"]); e=date.fromisoformat(os.environ["END"]); days=max((e-s).days,1); print(float(os.environ.get("DURATION","30"))/days)' DURATION="$(DURATION)"); \
+	HIDE_ITEMS="progress"; \
+	[ "$(HIDE_DATE)" = "1" ] && HIDE_ITEMS="$$HIDE_ITEMS,date" || true; \
+	[ "$(HIDE_FILENAMES)" = "1" ] && HIDE_ITEMS="$$HIDE_ITEMS,filenames" || true; \
+	echo "START=$(START_DATE) END=$(END_DATE) DURATION=$(DURATION)s SPD=$$SPD OUT=$(OUT)"; \
+	gource --start-date "$(START_DATE)" --stop-date "$(END_DATE)" --seconds-per-day "$$SPD" --disable-auto-skip --stop-at-end --hide "$$HIDE_ITEMS" --date-format "$(DATE_FORMAT)" --viewport "$(WIDTH)x$(HEIGHT)" --output-framerate "$(FPS)" -o - | \
+	ffmpeg -y -f image2pipe -vcodec ppm -r "$(FPS)" -i - -an -c:v libx264 -pix_fmt yuv420p -crf "$(CRF)" -preset "$(PRESET)" -t "$(DURATION)" "$(OUT)"
