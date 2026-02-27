@@ -70,6 +70,12 @@
 <img src="./images/random22.png" alt="random22">
 </p>
 
+---
+
+| <!-- PEDOMETER_DATE_START -->2月26日の歩数<!-- PEDOMETER_DATE_END --> | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| - | - | - |
+| <!-- PEDOMETER_STEPS_START -->6205歩<!-- PEDOMETER_STEPS_END --> | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/652407"><img src="https://m.media-amazon.com/images/I/41eZvryYi7L._SL500_.jpg" alt="マルドゥック・スクランブル〈改訂新版〉" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/2BfzhBl79bcPOHHXAXJkTY"><img src="https://i.scdn.co/image/ab67616d0000b273f306fb3f9fd03555becbb1fe" alt="CHANMINA - ハレンチ" width="128px"><br>CHANMINA<br>ハレンチ</a><!-- SPOTIFY_TRACK_END --> |
+
 <!--
 ---
 
@@ -81,10 +87,4 @@
 </p>
 -->
 
-<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=kotaoue&theme=apprentice)](https://git.io/streak-stats)-->
-
----
-
-| [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) | <!-- PEDOMETER_DATE_START -->2月26日の歩数<!-- PEDOMETER_DATE_END --> |
-| - | - | - |
-| <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/652407"><img src="https://m.media-amazon.com/images/I/41eZvryYi7L._SL500_.jpg" alt="マルドゥック・スクランブル〈改訂新版〉" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/2BfzhBl79bcPOHHXAXJkTY"><img src="https://i.scdn.co/image/ab67616d0000b273f306fb3f9fd03555becbb1fe" alt="CHANMINA - ハレンチ" width="128px"><br>CHANMINA<br>ハレンチ</a><!-- SPOTIFY_TRACK_END --> | <!-- PEDOMETER_STEPS_START -->6205歩<!-- PEDOMETER_STEPS_END --> |
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kotaoue&theme=apprentice)](https://git.io/streak-stats)
