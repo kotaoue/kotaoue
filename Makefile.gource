@@ -46,8 +46,8 @@ gource-last-year-30s-gif:
 	TMP_MP4=$$(mktemp /tmp/gource-last-year-video.XXXXXX.mp4); \
 	PALETTE=$$(mktemp /tmp/gource-last-year-palette.XXXXXX.png); \
 	$(MAKE) --no-print-directory -f Makefile.gource gource-render-range START_DATE="$$START" END_DATE="$$END" DURATION=30 OUT="$$TMP_MP4" HIDE_DATE=1 HIDE_FILENAMES=1; \
-	ffmpeg -y -i "$$TMP_MP4" -vf "fps=$(GIF_FPS),scale=$(WIDTH):$(HEIGHT):flags=lanczos,palettegen" "$$PALETTE"; \
-	ffmpeg -y -i "$$TMP_MP4" -i "$$PALETTE" -filter_complex "fps=$(GIF_FPS),scale=$(WIDTH):$(HEIGHT):flags=lanczos[x];[x][1:v]paletteuse" "$(OUTPUT_DIR)/gource-last-year-30s.gif"; \
+	ffmpeg -y -i "$$TMP_MP4" -vf "fps=$(GIF_FPS),scale=$(WIDTH):$(HEIGHT):flags=lanczos,palettegen" -frames:v 1 -update 1 "$$PALETTE"; \
+	ffmpeg -y -i "$$TMP_MP4" -i "$$PALETTE" -filter_complex "fps=$(GIF_FPS),scale=$(WIDTH):$(HEIGHT):flags=lanczos[x];[x][1:v]paletteuse" -loop -1 "$(OUTPUT_DIR)/gource-last-year-30s.gif"; \
 	rm -f "$$TMP_MP4" "$$PALETTE"; \
 	ls -lh "$(OUTPUT_DIR)/gource-last-year-30s.gif"
 
