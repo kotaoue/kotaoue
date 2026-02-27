@@ -1,0 +1,35 @@
+name: Update Gource GIF
+
+on:
+    push:
+        branches:
+            - main
+    workflow_dispatch:
+
+permissions:
+    contents: write
+
+jobs:
+    update-gource-gif:
+        if: github.actor != 'github-actions[bot]'
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v4
+              with:
+                  fetch-depth: 0
+
+            - name: Install dependencies
+              run: |
+                  sudo apt-get update
+                  sudo apt-get install -y gource ffmpeg
+
+            - name: Generate gource gif
+              run: make -f Makefile.gource gource-last-year-30s-gif
+
+            - name: Commit and push changes
+              run: |
+                  git config user.name "github-actions[bot]"
+                  git config user.email "github-actions[bot]@users.noreply.github.com"
+                  git add images/gource-last-year-30s.gif
+                  git diff --staged --quiet || git commit -m "chore: update gource gif"
+                  git push
