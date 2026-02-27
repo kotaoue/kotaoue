@@ -19,7 +19,8 @@
   <a href="https://qiita.com/kotaoue"><img src="https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white" alt="Qiita"></a>
   <a href="https://www.duolingo.com/profile/KotaOue"><img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=duolingo&logoColor=white" alt="duolingo"></a>
 </p>
-<a href="https://wakatime.com/@5e0c4002-cf4e-4085-854e-209b31384bdf"><img src="https://wakatime.com/badge/user/5e0c4002-cf4e-4085-854e-209b31384bdf.svg"></a>
+
+[![wakatime](https://wakatime.com/badge/user/5e0c4002-cf4e-4085-854e-209b31384bdf.svg)](https://wakatime.com/@5e0c4002-cf4e-4085-854e-209b31384bdf)
 
 ---
 
