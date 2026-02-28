@@ -75,9 +75,9 @@
 
 ---
 
-| <!-- PEDOMETER_DATE_START -->2月27日の歩数<!-- PEDOMETER_DATE_END --> | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->2月28日の歩数<!-- PEDOMETER_DATE_END --> | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->8259歩<!-- PEDOMETER_STEPS_END --> | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/496768"><img src="https://m.media-amazon.com/images/I/41NCpx1PNKL._SL500_.jpg" alt="弓と禅" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/6AvwRrfNtvWMG4w3MfKEoi"><img src="https://i.scdn.co/image/ab67616d0000b27361e820e29fc94fa644890409" alt="乃紫 - 初恋キラー" width="128px"><br>乃紫<br>初恋キラー</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->11801歩<!-- PEDOMETER_STEPS_END --> | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/585300"><img src="https://m.media-amazon.com/images/I/51+0EjcDAFL._SL500_.jpg" alt="なぜ遠くの貧しい人への義務があるのか: 世界的貧困と人権" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/1JBLGTCiqdlrIfzaCW9Hey"><img src="https://i.scdn.co/image/ab67616d0000b273bff245dd6c1bdf4c98f07fdc" alt="にしな - 東京マーブル" width="128px"><br>にしな<br>東京マーブル</a><!-- SPOTIFY_TRACK_END --> |
 
 ---
 
