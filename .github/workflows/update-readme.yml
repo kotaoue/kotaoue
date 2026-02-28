@@ -2,9 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: '30 15 * * *'  # 0:30 JST (UTC+9)
-    - cron: '0 16 * * *'   # 1:00 JST (UTC+9)
-    - cron: '30 16 * * *'  # 1:30 JST (UTC+9)
+    - cron: '23 15 * * *'  # 0:23 JST (UTC+9)
   workflow_dispatch:
 
 permissions:
@@ -23,22 +21,14 @@ jobs:
 
       - name: Fetch Bookmeter wish list
         working-directory: tools/fetch-bookmeter
-        run: |
-          for i in 1 2 3; do
-            go run . fetch-wish -output $GITHUB_WORKSPACE/wish.json && break
-            [ $i -lt 3 ] && echo "Attempt $i failed, retrying in 60s..." && sleep 60
-          done || exit 1
+        run: go run . fetch-wish -output $GITHUB_WORKSPACE/wish.json
 
       - name: Fetch Spotify playlist
         working-directory: tools/fetch-spotify
         env:
           SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
-        run: |
-          for i in 1 2 3; do
-            go run . fetch-playlist -output $GITHUB_WORKSPACE/playlist.json && break
-            [ $i -lt 3 ] && echo "Attempt $i failed, retrying in 60s..." && sleep 60
-          done || exit 1
+        run: go run . fetch-playlist -output $GITHUB_WORKSPACE/playlist.json
 
       - name: Update README with yesterday's step count
         working-directory: tools/fit
@@ -46,11 +36,7 @@ jobs:
           GOOGLE_FIT_CLIENT_ID: ${{ secrets.GOOGLE_FIT_CLIENT_ID }}
           GOOGLE_FIT_CLIENT_SECRET: ${{ secrets.GOOGLE_FIT_CLIENT_SECRET }}
           GOOGLE_FIT_REFRESH_TOKEN: ${{ secrets.GOOGLE_FIT_REFRESH_TOKEN }}
-        run: |
-          for i in 1 2 3; do
-            go run . -cmd update-pedometer -readme $GITHUB_WORKSPACE/README.md && break
-            [ $i -lt 3 ] && echo "Attempt $i failed, retrying in 60s..." && sleep 60
-          done || exit 1
+        run: go run . -cmd update-pedometer -readme $GITHUB_WORKSPACE/README.md
 
       - name: Update README with random wish book
         working-directory: tools/fetch-bookmeter
