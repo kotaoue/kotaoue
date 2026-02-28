@@ -47,15 +47,15 @@ type rssItem struct {
 }
 
 // FetchEntries fetches RSS/Atom entries from the given URL and returns them as an Entry slice.
-func FetchEntries(url, source string, limit int) ([]entity.Entry, error) {
-	log.Printf("Fetching RSS from %s", url)
+func FetchEntries(feedURL, source string, limit int) ([]entity.Entry, error) {
+	log.Printf("Fetching RSS from %s", feedURL)
 
-	data, err := fetchURL(url)
+	data, err := fetchURL(feedURL)
 	if err != nil {
 		return nil, fmt.Errorf("failed to fetch RSS: %w", err)
 	}
 
-	entries, err := parseRSS(data, source)
+	entries, err := parseRSS(data, source, feedURL)
 	if err != nil {
 		return nil, fmt.Errorf("failed to parse RSS: %w", err)
 	}
@@ -82,23 +82,23 @@ func fetchURL(url string) ([]byte, error) {
 	return io.ReadAll(resp.Body)
 }
 
-func parseRSS(data []byte, source string) ([]entity.Entry, error) {
+func parseRSS(data []byte, source, feedURL string) ([]entity.Entry, error) {
 	// Try Atom first
 	var atom atomFeed
 	if err := xml.Unmarshal(data, &atom); err == nil && len(atom.Entries) > 0 {
-		return atomToEntries(atom, source), nil
+		return atomToEntries(atom, source, feedURL), nil
 	}
 
 	// Fall back to RSS 2.0
 	var rss rssFeed
 	if err := xml.Unmarshal(data, &rss); err == nil && len(rss.Channel.Items) > 0 {
-		return rssToEntries(rss, source), nil
+		return rssToEntries(rss, source, feedURL), nil
 	}
 
 	return nil, fmt.Errorf("failed to parse feed as Atom or RSS 2.0")
 }
 
-func atomToEntries(feed atomFeed, source string) []entity.Entry {
+func atomToEntries(feed atomFeed, source, feedURL string) []entity.Entry {
 	entries := make([]entity.Entry, 0, len(feed.Entries))
 	for _, e := range feed.Entries {
 		url := ""
@@ -118,23 +118,25 @@ func atomToEntries(feed atomFeed, source string) []entity.Entry {
 		}
 
 		entries = append(entries, entity.Entry{
-			Title:  e.Title,
-			URL:    url,
-			Source: source,
-			Date:   date,
+			Title:   e.Title,
+			URL:     url,
+			Source:  source,
+			Date:    date,
+			FeedURL: feedURL,
 		})
 	}
 	return entries
 }
 
-func rssToEntries(feed rssFeed, source string) []entity.Entry {
+func rssToEntries(feed rssFeed, source, feedURL string) []entity.Entry {
 	entries := make([]entity.Entry, 0, len(feed.Channel.Items))
 	for _, item := range feed.Channel.Items {
 		entries = append(entries, entity.Entry{
-			Title:  item.Title,
-			URL:    item.Link,
-			Source: source,
-			Date:   formatRSSDate(item.PubDate),
+			Title:   item.Title,
+			URL:     item.Link,
+			Source:  source,
+			Date:    formatRSSDate(item.PubDate),
+			FeedURL: feedURL,
 		})
 	}
 	return entries

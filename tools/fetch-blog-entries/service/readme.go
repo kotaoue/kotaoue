@@ -17,16 +17,6 @@ const (
 	endMarker   = "<!-- BLOG_ENTRIES_END -->"
 )
 
-var sourceConfig = []struct {
-	Name  string
-	Label string
-	URL   string
-}{
-	{entity.SourceZenn, "Zenn", "https://zenn.dev/kotaoue"},
-	{entity.SourceQiita, "Qiita", "https://qiita.com/kotaoue"},
-	{entity.SourceNote, "note", "https://note.com/kotaoue"},
-}
-
 // RunUpdateReadme parses flags and updates README.md with recent blog entries.
 func RunUpdateReadme(args []string) error {
 	fs := flag.NewFlagSet("update-readme", flag.ExitOnError)
@@ -75,21 +65,29 @@ func updateReadme(entriesFile, readmeFile string) error {
 }
 
 func buildEntriesMarkdown(entries []entity.Entry) string {
+	// Group by source while preserving order of first appearance.
+	var order []string
 	grouped := make(map[string][]entity.Entry)
+	feedURLs := make(map[string]string)
+
 	for _, e := range entries {
+		if _, seen := grouped[e.Source]; !seen {
+			order = append(order, e.Source)
+			feedURLs[e.Source] = e.FeedURL
+		}
 		grouped[e.Source] = append(grouped[e.Source], e)
 	}
 
 	var sb strings.Builder
 	sb.WriteString("\n")
 
-	for _, src := range sourceConfig {
-		srcEntries, ok := grouped[src.Name]
-		if !ok || len(srcEntries) == 0 {
-			continue
+	for _, src := range order {
+		srcEntries := grouped[src]
+		label := src
+		if len(src) > 0 {
+			label = strings.ToUpper(src[:1]) + src[1:]
 		}
-
-		sb.WriteString(fmt.Sprintf("#### [%s](%s)\n\n", html.EscapeString(src.Label), html.EscapeString(src.URL)))
+		sb.WriteString(fmt.Sprintf("#### [%s](%s)\n\n", html.EscapeString(label), html.EscapeString(feedURLs[src])))
 		for _, e := range srcEntries {
 			sb.WriteString(fmt.Sprintf("- [%s](%s)\n", html.EscapeString(e.Title), html.EscapeString(e.URL)))
 		}

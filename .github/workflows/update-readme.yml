@@ -48,7 +48,12 @@ jobs:
 
       - name: Fetch blog entries from RSS feeds
         working-directory: tools/fetch-blog-entries
-        run: go run . fetch-entries -output $GITHUB_WORKSPACE/blog-entries.json
+        run: |
+          go run . fetch-entries \
+            -feed https://zenn.dev/kotaoue/feed \
+            -feed https://qiita.com/kotaoue/feed \
+            -feed https://note.com/kotaoue/rss \
+            -output $GITHUB_WORKSPACE/blog-entries.json
 
       - name: Update README with recent blog entries
         working-directory: tools/fetch-blog-entries
