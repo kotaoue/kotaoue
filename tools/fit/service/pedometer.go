@@ -71,7 +71,7 @@ func RunUpdatePedometer(readmeFile string) error {
 
 	yesterday := time.Now().In(time.FixedZone("JST", 9*60*60)).AddDate(0, 0, -1)
 	dateText := fmt.Sprintf("%d月%d日の歩数", yesterday.Month(), yesterday.Day())
-	stepsText := fmt.Sprintf("%d歩", steps)
+	stepsText := fmt.Sprintf("%s歩", formatWithCommas(steps))
 
 	content, err := os.ReadFile(readmeFile)
 	if err != nil {
@@ -168,4 +168,24 @@ func replaceBetweenMarkers(content, start, end, replacement string) (string, err
 		return "", fmt.Errorf("start marker must appear before end marker")
 	}
 	return content[:startIdx+len(start)] + replacement + content[endIdx:], nil
+}
+
+// formatWithCommas formats an integer with comma separators (e.g. 12345 -> "12,345").
+func formatWithCommas(n int) string {
+	s := fmt.Sprintf("%d", n)
+	neg := n < 0
+	if neg {
+		s = s[1:]
+	}
+	var b strings.Builder
+	for i, c := range s {
+		if i > 0 && (len(s)-i)%3 == 0 {
+			b.WriteByte(',')
+		}
+		b.WriteRune(c)
+	}
+	if neg {
+		return "-" + b.String()
+	}
+	return b.String()
 }
