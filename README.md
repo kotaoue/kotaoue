@@ -24,7 +24,7 @@
 
 ---
 
-## 最近のprivate
+## 最近のPrivate
 
 ### Blog
 
@@ -36,8 +36,6 @@
 * [2023年に大切にしたくなった本*5](https://note.com/kotaoue/n/n3e20603d516b)
 
 <!-- BLOG_ENTRIES_END -->
-
----
 
 | <!-- PEDOMETER_DATE_START -->2月28日の歩数<!-- PEDOMETER_DATE_END --> | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - |
@@ -69,6 +67,8 @@
 <img src="./images/white_grayscale.png" alt="white_grayscale">
 <img src="./images/white_negative.png" alt="white_negative">
 </p>
+
+---
 
 ## 最近のGitHub
 
