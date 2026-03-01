@@ -70,9 +70,11 @@
 
 ## 最近のGitHub
 
-<a href="https://github.com/kotaoue"><img width="495px" src="https://github-readme-stats-xi-sand-15.vercel.app/api?username=kotaoue&show_icons=true&theme=apprentice" alt="kotaoue's GitHub stats"></a>
-<a href="https://git.io/streak-stats"><img width="495px" src="https://streak-stats.demolab.com/?user=kotaoue&theme=apprentice" alt="GitHub Streak"></a>
-<a href="https://github.com/kotaoue"><img width="495px" src="https://github-readme-stats-xi-sand-15.vercel.app/api/top-langs/?username=kotaoue&layout=compact&theme=apprentice" alt="Top Langs"></a>
+<p>
+<a href="https://github.com/kotaoue"><img height="120px" src="https://github-readme-stats-xi-sand-15.vercel.app/api?username=kotaoue&show_icons=true&theme=apprentice" alt="kotaoue's GitHub stats"></a>
+<a href="https://git.io/streak-stats"><img height="120px" src="https://streak-stats.demolab.com/?user=kotaoue&theme=apprentice" alt="GitHub Streak"></a>
+<a href="https://github.com/kotaoue"><img height="120px" src="https://github-readme-stats-xi-sand-15.vercel.app/api/top-langs/?username=kotaoue&layout=compact&theme=apprentice" alt="Top Langs"></a>
+</p>
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-eight-gilt.vercel.app/?username=kotaoue&theme=apprentice&title=-Followers,-Stars&column=8&row=1" alt="trophy"></a>
 
 [![このリポジトリの直近1年のコミット](./images/gource-last-year-30s.gif)](./images/gource-last-year-30s.gif)
