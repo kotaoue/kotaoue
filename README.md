@@ -77,7 +77,7 @@
 
 | <!-- PEDOMETER_DATE_START -->2月28日の歩数<!-- PEDOMETER_DATE_END --> | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->11801歩<!-- PEDOMETER_STEPS_END --> | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/543512"><img src="https://m.media-amazon.com/images/I/31r06l1e+jL._SL500_.jpg" alt="古代中国の虚像と実像 (講談社現代新書 2018)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/4Lm22B5awxiMde379nK5ql"><img src="https://i.scdn.co/image/ab67616d0000b273c027ed4f100f92ab6afe88c2" alt="Tempalay - 新世代" width="128px"><br>Tempalay<br>新世代</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->11801歩<!-- PEDOMETER_STEPS_END --> | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/541696"><img src="https://m.media-amazon.com/images/I/41bI+RXxo0L._SL500_.jpg" alt="METHODS 押井守・「パトレイバー2」演出ノート" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/0fzdUtI0wUeKK2p6GkNtbs"><img src="https://i.scdn.co/image/ab67616d0000b27390978b02d302f1ec801b4972" alt="ZAZEN BOYS - DANBIRA" width="128px"><br>ZAZEN BOYS<br>DANBIRA</a><!-- SPOTIFY_TRACK_END --> |
 
 ---
 
@@ -90,25 +90,11 @@
 ## 最近のブログエントリー
 
 <!-- BLOG_ENTRIES_START -->
-#### Qiita.com
-
 - [github-readme-stats と github-profile-trophy を Self-hosting する際のトークン設定](https://qiita.com/kotaoue/items/dd7ab6b7230578632958)
 - [0:00にGitHub Actionsが動かず3日ほどハマった件](https://qiita.com/kotaoue/items/89a51a4fbcdadb824c7a)
-- [brewでインストールしたnginxの設定ファイルの場所を見失った時](https://qiita.com/kotaoue/items/108c4cb860d8eb47546c)
-- [GitHub Actionsで実行しているPHPUnitでOpenSSL関連のエラーが突然出るようになったときの対応](https://qiita.com/kotaoue/items/5d25a2063a7570503c2f)
-
-#### Note.com
-
 - [演じることと演じさせられること〜すなわち自由意志をキーワードにした繭期に対する一人の想い〜](https://note.com/kotaoue/n/n1fa85ce427cb)
-- [2023年に大切にしたくなった本*5](https://note.com/kotaoue/n/n3e20603d516b)
-- [シマネのギアを考える(Ver.3.1.0対応)](https://note.com/kotaoue/n/n59ea21b26f8f)
-- [ナワバリバトル is 何 & 個人的に楽しいブキ](https://note.com/kotaoue/n/n9eb90960843d)
-- [シン・仮面ライダーとヒーローとヒーローガール](https://note.com/kotaoue/n/nec2ca87b65c7)
-
-#### Zenn.dev
-
 - [社内イベントのススメ〜全員参加と任意参加の壁〜](https://zenn.dev/kotaoue/articles/6b004b862b19da)
-- [リーダーはメンバーなの？と悩んだのでみんなに聞いてみた件](https://zenn.dev/kotaoue/articles/41ae57db8573c8)
+- [2023年に大切にしたくなった本*5](https://note.com/kotaoue/n/n3e20603d516b)
 
 <!-- BLOG_ENTRIES_END -->
 
