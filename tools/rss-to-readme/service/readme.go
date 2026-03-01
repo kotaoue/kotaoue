@@ -6,7 +6,6 @@ import (
 	"log"
 	"os"
 	"strings"
-	"unicode/utf8"
 
 	"github.com/kotaoue/kotaoue/tools/rss-to-readme/entity"
 	"github.com/kotaoue/kotaoue/tools/rss-to-readme/repository"
@@ -22,13 +21,14 @@ func RunUpdateReadme(args []string) error {
 	fs := flag.NewFlagSet("update-readme", flag.ExitOnError)
 	rssFile := fs.String("rss", "combined_feed.xml", "Path to the combined RSS XML file")
 	readmeFile := fs.String("readme", "README.md", "Path to README.md")
+	maxEntries := fs.Int("max", 5, "Maximum number of entries to display")
 	if err := fs.Parse(args); err != nil {
 		return err
 	}
-	return updateReadme(*rssFile, *readmeFile)
+	return updateReadme(*rssFile, *readmeFile, *maxEntries)
 }
 
-func updateReadme(rssFile, readmeFile string) error {
+func updateReadme(rssFile, readmeFile string, maxEntries int) error {
 	data, err := os.ReadFile(rssFile)
 	if err != nil {
 		return fmt.Errorf("failed to read RSS file: %w", err)
@@ -44,7 +44,7 @@ func updateReadme(rssFile, readmeFile string) error {
 		return nil
 	}
 
-	markdown := buildMarkdown(entries)
+	markdown := buildMarkdown(entries, maxEntries)
 
 	content, err := os.ReadFile(readmeFile)
 	if err != nil {
@@ -64,31 +64,17 @@ func updateReadme(rssFile, readmeFile string) error {
 	return nil
 }
 
-func buildMarkdown(entries []entity.Entry) string {
-	var order []string
-	grouped := make(map[string][]entity.Entry)
-
-	for _, e := range entries {
-		if _, seen := grouped[e.Source]; !seen {
-			order = append(order, e.Source)
-		}
-		grouped[e.Source] = append(grouped[e.Source], e)
+func buildMarkdown(entries []entity.Entry, maxEntries int) string {
+	if maxEntries > 0 && len(entries) > maxEntries {
+		entries = entries[:maxEntries]
 	}
 
 	var sb strings.Builder
 	sb.WriteString("\n")
-	for _, src := range order {
-		r, size := utf8.DecodeRuneInString(src)
-		label := src
-		if r != utf8.RuneError && size > 0 {
-			label = strings.ToUpper(string(r)) + src[size:]
-		}
-		sb.WriteString(fmt.Sprintf("#### %s\n\n", mdEscape(label)))
-		for _, e := range grouped[src] {
-			sb.WriteString(fmt.Sprintf("- [%s](%s)\n", mdEscape(e.Title), e.Link))
-		}
-		sb.WriteString("\n")
+	for _, e := range entries {
+		sb.WriteString(fmt.Sprintf("- [%s](%s)\n", mdEscape(e.Title), e.Link))
 	}
+	sb.WriteString("\n")
 
 	return sb.String()
 }
