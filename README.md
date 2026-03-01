@@ -75,7 +75,10 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="100%" src="https://github-profile-trophy-eight-gilt.vercel.app/?username=kotaoue&theme=apprentice&title=-Followers,-Stars&column=8&row=1" alt="trophy"></a>
 </p>
 
+<details><summary>このリポジトリの直近1年のコミット可視化</summary>
+
 [![このリポジトリの直近1年のコミット](./images/gource-last-year-30s.gif)](./images/gource-last-year-30s.gif)
+</details>
 
 ---
 
