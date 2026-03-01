@@ -72,15 +72,15 @@
 
 ## 最近のGitHub
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kotaoue&theme=apprentice)](https://git.io/streak-stats)
+
 <p>
 <a href="https://github.com/kotaoue"><img height="140px" src="https://github-readme-stats-xi-sand-15.vercel.app/api?username=kotaoue&show_icons=true&theme=apprentice" /></a>
 <a href="https://github.com/kotaoue"><img height="140px" src="https://github-readme-stats-xi-sand-15.vercel.app/api/top-langs/?username=kotaoue&layout=compact&theme=apprentice" /></a><br />
 <img src="https://github-profile-trophy-eight-gilt.vercel.app/?username=kotaoue&theme=apprentice">
 </p>
 
----
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kotaoue&theme=apprentice)](https://git.io/streak-stats)
+### このリポジトリの直近1年のコミット
 
 [![このリポジトリの直近1年のコミット](./images/gource-last-year-30s.gif)](./images/gource-last-year-30s.gif)
 
