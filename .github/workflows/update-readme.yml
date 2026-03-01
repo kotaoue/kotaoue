@@ -47,7 +47,7 @@ jobs:
         run: go run . update-readme -playlist-file $GITHUB_WORKSPACE/playlist.json -readme $GITHUB_WORKSPACE/README.md
 
       - name: Combine RSS feeds
-        uses: kotaoue/combine-rss-feeds@v1.0.0
+        uses: kotaoue/combine-rss-feeds@v1.0.1
         with:
           feeds: |
             https://zenn.dev/kotaoue/feed
