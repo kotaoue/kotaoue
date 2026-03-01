@@ -1,0 +1,37 @@
+name: Go
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    strategy:
+      matrix:
+        tool:
+          - fetch-bookmeter
+          - fetch-spotify
+          - fit
+          - rss-to-readme
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Go
+        uses: actions/setup-go@v5
+        with:
+          go-version-file: tools/${{ matrix.tool }}/go.mod
+      - name: Test ${{ matrix.tool }}
+        working-directory: tools/${{ matrix.tool }}
+        run: go test -v -coverprofile=coverage.out ./...
+      - name: Upload coverage to Codecov
+        uses: codecov/codecov-action@v4
+        with:
+          files: tools/${{ matrix.tool }}/coverage.out
+          flags: ${{ matrix.tool }}
+          token: ${{ secrets.CODECOV_TOKEN }}
