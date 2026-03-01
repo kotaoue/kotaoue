@@ -77,7 +77,7 @@
 <a href="https://github.com/kotaoue"><img height="140px" src="https://github-readme-stats-xi-sand-15.vercel.app/api/top-langs/?username=kotaoue&layout=compact&theme=apprentice" /></a><br />
 </p>
 
-[![trophy](https://github-profile-trophy-eight-gilt.vercel.app/?username=kotaoue&theme=apprentice)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-eight-gilt.vercel.app/?username=kotaoue&theme=apprentice&title=-Followers,-Stars)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![このリポジトリの直近1年のコミット](./images/gource-last-year-30s.gif)](./images/gource-last-year-30s.gif)
 
