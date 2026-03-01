@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: '30 15 * * *'  # 0:30 JST (UTC+9)
+    - cron: '23 15 * * *'  # 0:23 JST (UTC+9) - odd minute avoids :00/:30 congestion on GitHub's shared scheduler, which can delay or skip triggers on low-activity repos
   workflow_dispatch:
 
 permissions:
