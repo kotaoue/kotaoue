@@ -30,6 +30,17 @@ jobs:
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
         run: go run . fetch-playlist -output $GITHUB_WORKSPACE/playlist.json
 
+      - name: Combine RSS feeds
+        uses: kotaoue/combine-rss-feeds@v1
+        with:
+          feeds: |
+            https://zenn.dev/kotaoue/feed
+            https://qiita.com/kotaoue/feed
+            https://note.com/kotaoue/rss
+          limit: 5
+          output_file: ${{ github.workspace }}/blog-entries.xml
+          feed_title: "kotaoue's blog entries"
+
       - name: Update README with yesterday's step count
         working-directory: tools/fit
         env:
@@ -46,10 +57,15 @@ jobs:
         working-directory: tools/fetch-spotify
         run: go run . update-readme -playlist-file $GITHUB_WORKSPACE/playlist.json -readme $GITHUB_WORKSPACE/README.md
 
+      - name: Update README with recent blog entries
+        working-directory: tools/rss-to-readme
+        run: go run . -rss $GITHUB_WORKSPACE/blog-entries.xml -readme $GITHUB_WORKSPACE/README.md
+
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md playlist.json wish.json
+          git add README.md playlist.json wish.json blog-entries.xml
           git diff --staged --quiet || git commit -m "chore: update README"
+          git pull --rebase
           git push
