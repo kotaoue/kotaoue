@@ -71,7 +71,7 @@
 ## 最近のGitHub
 
 <p>
-<a href="https://github.com/kotaoue"><img width="35.47%" height="122px" src="https://github-readme-stats-xi-sand-15.vercel.app/api?username=kotaoue&show_icons=true&theme=apprentice" alt="kotaoue's GitHub stats"></a><a href="https://git.io/streak-stats"><img width="37.60%" height="122px" src="https://streak-stats.demolab.com/?user=kotaoue&theme=apprentice" alt="GitHub Streak"></a><a href="https://github.com/kotaoue"><img width="26.93%" height="122px" src="https://github-readme-stats-xi-sand-15.vercel.app/api/top-langs/?username=kotaoue&layout=compact&theme=apprentice" alt="Top Langs"></a><br>
+<a href="https://github.com/kotaoue"><img width="35.47%" height="122px" src="https://github-readme-stats-xi-sand-15.vercel.app/api?username=kotaoue&show_icons=true&theme=apprentice" alt="kotaoue's GitHub stats"></a><a href="https://github.com/kotaoue"><img width="26.93%" height="122px" src="https://github-readme-stats-xi-sand-15.vercel.app/api/top-langs/?username=kotaoue&layout=compact&theme=apprentice" alt="Top Langs"></a><a href="https://git.io/streak-stats"><img width="37.60%" height="122px" src="https://streak-stats.demolab.com/?user=kotaoue&theme=apprentice" alt="GitHub Streak"></a><br>
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="100%" src="https://github-profile-trophy-eight-gilt.vercel.app/?username=kotaoue&theme=apprentice&title=-Followers,-Stars&column=8&row=1" alt="trophy"></a>
 </p>
 
