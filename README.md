@@ -24,6 +24,26 @@
 
 ---
 
+## 最近のprivate
+
+### Blog
+
+<!-- BLOG_ENTRIES_START -->
+* [github-readme-stats と github-profile-trophy を Self-hosting する際のトークン設定](https://qiita.com/kotaoue/items/dd7ab6b7230578632958)
+* [0:00にGitHub Actionsが動かず3日ほどハマった件](https://qiita.com/kotaoue/items/89a51a4fbcdadb824c7a)
+* [演じることと演じさせられること〜すなわち自由意志をキーワードにした繭期に対する一人の想い〜](https://note.com/kotaoue/n/n1fa85ce427cb)
+* [社内イベントのススメ〜全員参加と任意参加の壁〜](https://zenn.dev/kotaoue/articles/6b004b862b19da)
+* [2023年に大切にしたくなった本*5](https://note.com/kotaoue/n/n3e20603d516b)
+
+<!-- BLOG_ENTRIES_END -->
+
+---
+
+| <!-- PEDOMETER_DATE_START -->2月28日の歩数<!-- PEDOMETER_DATE_END --> | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| - | - | - |
+| <!-- PEDOMETER_STEPS_START -->11801歩<!-- PEDOMETER_STEPS_END --> | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/541696"><img src="https://m.media-amazon.com/images/I/41bI+RXxo0L._SL500_.jpg" alt="METHODS 押井守・「パトレイバー2」演出ノート" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/0fzdUtI0wUeKK2p6GkNtbs"><img src="https://i.scdn.co/image/ab67616d0000b27390978b02d302f1ec801b4972" alt="ZAZEN BOYS - DANBIRA" width="128px"><br>ZAZEN BOYS<br>DANBIRA</a><!-- SPOTIFY_TRACK_END --> |
+
+---
 <p>
 <img src="./images/white.png" alt="white">
 <img src="./images/panda.png" alt="panda">
@@ -48,6 +68,25 @@
 <img src="./images/player5.png" alt="player5">
 <img src="./images/white_grayscale.png" alt="white_grayscale">
 <img src="./images/white_negative.png" alt="white_negative">
+</p>
+
+## 最近のGitHub
+
+<p>
+<a href="https://github.com/kotaoue"><img height="140px" src="https://github-readme-stats-xi-sand-15.vercel.app/api?username=kotaoue&show_icons=true&theme=apprentice" /></a>
+<a href="https://github.com/kotaoue"><img height="140px" src="https://github-readme-stats-xi-sand-15.vercel.app/api/top-langs/?username=kotaoue&layout=compact&theme=apprentice" /></a><br />
+<img src="https://github-profile-trophy-eight-gilt.vercel.app/?username=kotaoue&theme=apprentice">
+</p>
+
+---
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kotaoue&theme=apprentice)](https://git.io/streak-stats)
+
+[![このリポジトリの直近1年のコミット](./images/gource-last-year-30s.gif)](./images/gource-last-year-30s.gif)
+
+---
+
+<p>
 <img src="./images/white_negative-grayscale.png" alt="white_negative-grayscale">
 <img src="./images/random1.png" alt="random1">
 <img src="./images/random2.png" alt="random2">
@@ -72,34 +111,3 @@
 <img src="./images/random21.png" alt="random21">
 <img src="./images/random22.png" alt="random22">
 </p>
-
----
-
-| <!-- PEDOMETER_DATE_START -->2月28日の歩数<!-- PEDOMETER_DATE_END --> | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
-| - | - | - |
-| <!-- PEDOMETER_STEPS_START -->11801歩<!-- PEDOMETER_STEPS_END --> | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/541696"><img src="https://m.media-amazon.com/images/I/41bI+RXxo0L._SL500_.jpg" alt="METHODS 押井守・「パトレイバー2」演出ノート" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/0fzdUtI0wUeKK2p6GkNtbs"><img src="https://i.scdn.co/image/ab67616d0000b27390978b02d302f1ec801b4972" alt="ZAZEN BOYS - DANBIRA" width="128px"><br>ZAZEN BOYS<br>DANBIRA</a><!-- SPOTIFY_TRACK_END --> |
-
----
-
-<p>
-<a href="https://github.com/kotaoue"><img height="140px" src="https://github-readme-stats-xi-sand-15.vercel.app/api?username=kotaoue&show_icons=true&theme=apprentice" /></a>
-<a href="https://github.com/kotaoue"><img height="140px" src="https://github-readme-stats-xi-sand-15.vercel.app/api/top-langs/?username=kotaoue&layout=compact&theme=apprentice" /></a><br />
-<img src="https://github-profile-trophy-eight-gilt.vercel.app/?username=kotaoue&theme=apprentice">
-</p>
-
-## 最近のブログエントリー
-
-<!-- BLOG_ENTRIES_START -->
-- [github-readme-stats と github-profile-trophy を Self-hosting する際のトークン設定](https://qiita.com/kotaoue/items/dd7ab6b7230578632958)
-- [0:00にGitHub Actionsが動かず3日ほどハマった件](https://qiita.com/kotaoue/items/89a51a4fbcdadb824c7a)
-- [演じることと演じさせられること〜すなわち自由意志をキーワードにした繭期に対する一人の想い〜](https://note.com/kotaoue/n/n1fa85ce427cb)
-- [社内イベントのススメ〜全員参加と任意参加の壁〜](https://zenn.dev/kotaoue/articles/6b004b862b19da)
-- [2023年に大切にしたくなった本*5](https://note.com/kotaoue/n/n3e20603d516b)
-
-<!-- BLOG_ENTRIES_END -->
-
----
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kotaoue&theme=apprentice)](https://git.io/streak-stats)
-
-[![直近1年のコミット](./images/gource-last-year-30s.gif)](./images/gource-last-year-30s.gif)
