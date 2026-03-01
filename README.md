@@ -26,8 +26,6 @@
 
 ## 最近のPrivate
 
-### Blog
-
 <!-- BLOG_ENTRIES_START -->
 * [github-readme-stats と github-profile-trophy を Self-hosting する際のトークン設定](https://qiita.com/kotaoue/items/dd7ab6b7230578632958)
 * [0:00にGitHub Actionsが動かず3日ほどハマった件](https://qiita.com/kotaoue/items/89a51a4fbcdadb824c7a)
