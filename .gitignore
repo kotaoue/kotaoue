@@ -1,4 +1,3 @@
 __pycache__/
 *.pyc
 .venv/
-tools/rss-to-readme/rss-to-readme
