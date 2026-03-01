@@ -33,4 +33,5 @@ jobs:
         uses: codecov/codecov-action@v4
         with:
           files: tools/${{ matrix.tool }}/coverage.out
+          flags: ${{ matrix.tool }}
           token: ${{ secrets.CODECOV_TOKEN }}
