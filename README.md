@@ -80,8 +80,6 @@
 <img src="https://github-profile-trophy-eight-gilt.vercel.app/?username=kotaoue&theme=apprentice">
 </p>
 
-### このリポジトリの直近1年のコミット
-
 [![このリポジトリの直近1年のコミット](./images/gource-last-year-30s.gif)](./images/gource-last-year-30s.gif)
 
 ---
