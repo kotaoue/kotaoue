@@ -39,6 +39,8 @@
 | - | - | - |
 | <!-- PEDOMETER_STEPS_START -->5,464歩<!-- PEDOMETER_STEPS_END --> | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/11589646"><img src="https://m.media-amazon.com/images/I/51dFJh3FKiL._SL500_.jpg" alt="ビッグデータ分析・活用のためのSQLレシピ" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/6m6VtXF1h52IYRFyHsxAc2"><img src="https://i.scdn.co/image/ab67616d0000b2735179bf33e27c8418c8bcaa77" alt="WHITE JAM - 死ぬほど好き" width="128px"><br>WHITE JAM<br>死ぬほど好き</a><!-- SPOTIFY_TRACK_END --> |
 
+[![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
+
 ---
 <p>
 <img src="./images/white.png" alt="white">
