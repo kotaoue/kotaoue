@@ -35,9 +35,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->3月2日の歩数<!-- PEDOMETER_DATE_END --> | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->3月3日の歩数<!-- PEDOMETER_DATE_END --> | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->5,464歩<!-- PEDOMETER_STEPS_END --> | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/11589646"><img src="https://m.media-amazon.com/images/I/51dFJh3FKiL._SL500_.jpg" alt="ビッグデータ分析・活用のためのSQLレシピ" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/6m6VtXF1h52IYRFyHsxAc2"><img src="https://i.scdn.co/image/ab67616d0000b2735179bf33e27c8418c8bcaa77" alt="WHITE JAM - 死ぬほど好き" width="128px"><br>WHITE JAM<br>死ぬほど好き</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->1,638歩<!-- PEDOMETER_STEPS_END --> | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/17326506"><img src="https://m.media-amazon.com/images/I/41k3ovB0kCL._SL500_.jpg" alt="恐れのない組織――「心理的安全性」が学習・イノベーション・成長をもたらす" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/7GuMxho061kgJagT7hdHm6"><img src="https://i.scdn.co/image/ab67616d0000b273c0616a84c12443f1b2bba314" alt="KOHH - Tokyo" width="128px"><br>KOHH<br>Tokyo</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
