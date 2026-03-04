@@ -19,6 +19,21 @@ python3 -m pip install google-auth-oauthlib
 python3 main.py
 ```
 
+## トークンが切れた場合の対処
+
+GitHub Actions のログに下記のようなエラーが出た場合、リフレッシュトークンの有効期限切れまたは失効です。
+
+```
+refresh token has expired or been revoked; run tools/prepareFit to obtain a new token and update GOOGLE_FIT_REFRESH_TOKEN in GitHub Secrets
+```
+
+以下の手順で新しいトークンを取得してください。
+
+1. 上記 **Usage** の手順で `python3 main.py` を実行し、出力された `REFRESH_TOKEN` を控える
+2. [GitHub Secrets](https://github.com/kotaoue/kotaoue/settings/secrets/actions) を開く
+3. `GOOGLE_FIT_REFRESH_TOKEN` を新しいトークンの値で更新する
+4. [Update README ワークフロー](https://github.com/kotaoue/kotaoue/actions/workflows/update-readme.yml) を手動で再実行して動作確認する
+
 ## トラブルシュート
 
 ブラウザで `redirect_uri` を含むエラー (例: `redirect_uri_mismatch`) が出る場合は、

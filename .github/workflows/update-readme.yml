@@ -43,6 +43,7 @@ jobs:
 
       - name: Update README with yesterday's step count
         working-directory: tools/fit
+        continue-on-error: true
         env:
           GOOGLE_FIT_CLIENT_ID: ${{ secrets.GOOGLE_FIT_CLIENT_ID }}
           GOOGLE_FIT_CLIENT_SECRET: ${{ secrets.GOOGLE_FIT_CLIENT_SECRET }}
