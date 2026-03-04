@@ -27,17 +27,17 @@
 ## 最近のPrivate
 
 <!-- BLOG_ENTRIES_START -->
+- [GitHubでv1.0.1みたいなリリースタグを切ったらv1にもコピーしてくれるActionsをMarketplaceに公開した件](https://qiita.com/kotaoue/items/e8de9bf75ae065e7e05a)
 - [GitHub Marketplaceに公開したときに@v1とかメジャーVer指定したかった件](https://qiita.com/kotaoue/items/195ce5f817ad33a2d4a0)
 - [github-readme-stats と github-profile-trophy を Self-hosting する際のトークン設定](https://qiita.com/kotaoue/items/dd7ab6b7230578632958)
 - [0:00にGitHub Actionsが動かず3日ほどハマった件](https://qiita.com/kotaoue/items/89a51a4fbcdadb824c7a)
 - [演じることと演じさせられること〜すなわち自由意志をキーワードにした繭期に対する一人の想い〜](https://note.com/kotaoue/n/n1fa85ce427cb)
-- [社内イベントのススメ〜全員参加と任意参加の壁〜](https://zenn.dev/kotaoue/articles/6b004b862b19da)
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->3月3日の歩数<!-- PEDOMETER_DATE_END --> | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->3月4日の歩数<!-- PEDOMETER_DATE_END --> | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->1,638歩<!-- PEDOMETER_STEPS_END --> | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/17326506"><img src="https://m.media-amazon.com/images/I/41k3ovB0kCL._SL500_.jpg" alt="恐れのない組織――「心理的安全性」が学習・イノベーション・成長をもたらす" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/7GuMxho061kgJagT7hdHm6"><img src="https://i.scdn.co/image/ab67616d0000b273c0616a84c12443f1b2bba314" alt="KOHH - Tokyo" width="128px"><br>KOHH<br>Tokyo</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->7,929歩<!-- PEDOMETER_STEPS_END --> | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/4607229"><img src="https://m.media-amazon.com/images/I/514kHLUN+cL._SL500_.jpg" alt="文庫　銃・病原菌・鉄　（上）　1万3000年にわたる人類史の謎 (草思社文庫 ダ 1-1)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/28xFSnYJOZvkDlYkyCYEUo"><img src="https://i.scdn.co/image/ab67616d0000b273fdd2e30f2e461518f237f96b" alt="Hiromi Ota - 木綿のハンカチーフ" width="128px"><br>Hiromi Ota<br>木綿のハンカチーフ</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
