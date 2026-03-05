@@ -35,9 +35,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->3月4日の歩数<!-- PEDOMETER_DATE_END --> | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->3月5日の歩数<!-- PEDOMETER_DATE_END --> | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->7,929歩<!-- PEDOMETER_STEPS_END --> | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/4607229"><img src="https://m.media-amazon.com/images/I/514kHLUN+cL._SL500_.jpg" alt="文庫　銃・病原菌・鉄　（上）　1万3000年にわたる人類史の謎 (草思社文庫 ダ 1-1)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/28xFSnYJOZvkDlYkyCYEUo"><img src="https://i.scdn.co/image/ab67616d0000b273fdd2e30f2e461518f237f96b" alt="Hiromi Ota - 木綿のハンカチーフ" width="128px"><br>Hiromi Ota<br>木綿のハンカチーフ</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->4,021歩<!-- PEDOMETER_STEPS_END --> | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/11608"><img src="https://m.media-amazon.com/images/I/51KglL0uJ1L._SL500_.jpg" alt="昭和電車少年 (ちくま文庫 し 5-5)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/1KivzsMKHRGgP5iA0gnlY7"><img src="https://i.scdn.co/image/ab67616d0000b27355faba07e161bf8a8d577408" alt="(sic)boy, KM - GAMEOVER!!" width="128px"><br>(sic)boy, KM<br>GAMEOVER!!</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
