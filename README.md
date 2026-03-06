@@ -35,9 +35,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->3月5日の歩数<!-- PEDOMETER_DATE_END --> | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->3月6日の歩数<!-- PEDOMETER_DATE_END --> | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->4,021歩<!-- PEDOMETER_STEPS_END --> | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/11608"><img src="https://m.media-amazon.com/images/I/51KglL0uJ1L._SL500_.jpg" alt="昭和電車少年 (ちくま文庫 し 5-5)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/1KivzsMKHRGgP5iA0gnlY7"><img src="https://i.scdn.co/image/ab67616d0000b27355faba07e161bf8a8d577408" alt="(sic)boy, KM - GAMEOVER!!" width="128px"><br>(sic)boy, KM<br>GAMEOVER!!</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->6,310歩<!-- PEDOMETER_STEPS_END --> | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/1581070"><img src="https://m.media-amazon.com/images/I/51DpTIDVMPL._SL500_.jpg" alt="1960年5月19日 (1960年) (岩波新書)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/4lm6WUptBbJ9J9EhuB3riZ"><img src="https://i.scdn.co/image/ab67616d0000b2739c153517df03fe6e708311be" alt="Kazumasa Oda - YES-YES-YES" width="128px"><br>Kazumasa Oda<br>YES-YES-YES</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
