@@ -35,9 +35,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->3月6日の歩数<!-- PEDOMETER_DATE_END --> | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->3月7日の歩数<!-- PEDOMETER_DATE_END --> | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->6,310歩<!-- PEDOMETER_STEPS_END --> | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/1581070"><img src="https://m.media-amazon.com/images/I/51DpTIDVMPL._SL500_.jpg" alt="1960年5月19日 (1960年) (岩波新書)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/4lm6WUptBbJ9J9EhuB3riZ"><img src="https://i.scdn.co/image/ab67616d0000b2739c153517df03fe6e708311be" alt="Kazumasa Oda - YES-YES-YES" width="128px"><br>Kazumasa Oda<br>YES-YES-YES</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->8,208歩<!-- PEDOMETER_STEPS_END --> | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/3304233"><img src="https://m.media-amazon.com/images/I/51Qm-3rLjIL._SL500_.jpg" alt="趣味縁からはじまる社会参加 (若者の気分)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/0sNFvG246SNtGpJzLmjIY4"><img src="https://i.scdn.co/image/ab67616d0000b273f06c7ac14d61f40f2d365371" alt="Noriyuki Makihara - ハロー！トウキョウ" width="128px"><br>Noriyuki Makihara<br>ハロー！トウキョウ</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
