@@ -35,9 +35,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->3月8日の歩数<!-- PEDOMETER_DATE_END --> | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->3月9日の歩数<!-- PEDOMETER_DATE_END --> | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->9,360歩<!-- PEDOMETER_STEPS_END --> | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/14496125"><img src="https://m.media-amazon.com/images/I/51IpXYEmZxL._SL500_.jpg" alt="人間本性論 第3巻〈普及版〉: 道徳について" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/0K4Z7IGtpVKV5z8KnKce7O"><img src="https://i.scdn.co/image/ab67616d0000b2739d47a40eb9180fe53a5c7b97" alt="SHISHAMO - 通り雨" width="128px"><br>SHISHAMO<br>通り雨</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->6,929歩<!-- PEDOMETER_STEPS_END --> | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/1343038"><img src="https://m.media-amazon.com/images/I/51NS0jhf21L._SL500_.jpg" alt="S-Fマガジン 2011年 01月号 [雑誌]" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/1pa3HLcst2XUYkJzz59LKG"><img src="https://i.scdn.co/image/ab67616d0000b273489277982b171391c0be5c5d" alt="にしな - 東京マーブル" width="128px"><br>にしな<br>東京マーブル</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
