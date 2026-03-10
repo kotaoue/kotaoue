@@ -17,6 +17,7 @@ jobs:
       matrix:
         tool:
           - fetch-bookmeter
+          - fetch-copilot
           - fetch-spotify
           - fit
           - rss-to-readme

@@ -41,6 +41,9 @@
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
+<!-- COPILOT_SUMMARY_START -->
+<!-- COPILOT_SUMMARY_END -->
+
 ---
 <p>
 <img src="./images/white.png" alt="white">
