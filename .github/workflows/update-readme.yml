@@ -61,6 +61,13 @@ jobs:
         working-directory: tools/rss-to-readme
         run: go run . -rss $GITHUB_WORKSPACE/blog-entries.xml -readme $GITHUB_WORKSPACE/README.md
 
+      - name: Update README with Copilot activity summary
+        working-directory: tools/fetch-copilot
+        env:
+          COPILOT_ORG: ${{ secrets.COPILOT_ORG }}
+          COPILOT_TOKEN: ${{ secrets.COPILOT_TOKEN }}
+        run: go run . -readme $GITHUB_WORKSPACE/README.md
+
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
