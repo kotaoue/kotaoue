@@ -8,7 +8,7 @@ import (
 	"net/url"
 )
 
-const tokenURL = "https://oauth2.googleapis.com/token"
+var tokenURL = "https://oauth2.googleapis.com/token"
 
 // tokenResponse holds the OAuth2 token refresh response.
 type tokenResponse struct {
