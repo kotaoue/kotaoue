@@ -1,27 +1,49 @@
 package service
 
 import (
-	"context"
+	"encoding/json"
 	"fmt"
-
-	"golang.org/x/oauth2/google"
+	"io"
+	"net/http"
+	"net/url"
 )
 
-const fitnessActivityReadScope = "https://www.googleapis.com/auth/fitness.activity.read"
+const tokenURL = "https://oauth2.googleapis.com/token"
 
-// credentialsToAccessToken loads OAuth2 credentials from a JSON byte slice
-// (Google's authorized_user ADC format) and returns a valid access token.
-func credentialsToAccessToken(credJSON []byte) (string, error) {
-	ctx := context.Background()
-	creds, err := google.CredentialsFromJSON(ctx, credJSON, fitnessActivityReadScope)
+// tokenResponse holds the OAuth2 token refresh response.
+type tokenResponse struct {
+	AccessToken string `json:"access_token"`
+	TokenType   string `json:"token_type"`
+	ExpiresIn   int    `json:"expires_in"`
+}
+
+// refreshAccessToken exchanges a refresh token for an access token.
+func refreshAccessToken(clientID, clientSecret, refreshToken string) (string, error) {
+	form := url.Values{}
+	form.Set("client_id", clientID)
+	form.Set("client_secret", clientSecret)
+	form.Set("refresh_token", refreshToken)
+	form.Set("grant_type", "refresh_token")
+
+	resp, err := http.PostForm(tokenURL, form) // #nosec G107 -- URL is a fixed constant
 	if err != nil {
-		return "", fmt.Errorf("failed to load credentials: %w", err)
+		return "", fmt.Errorf("failed to request token: %w", err)
+	}
+	defer resp.Body.Close()
+
+	body, err := io.ReadAll(resp.Body)
+	if err != nil {
+		return "", fmt.Errorf("failed to read token response: %w", err)
 	}
 
-	token, err := creds.TokenSource.Token()
-	if err != nil {
-		return "", fmt.Errorf("failed to get token: %w", err)
+	if resp.StatusCode != http.StatusOK {
+		return "", fmt.Errorf("token endpoint returned status %d: %s", resp.StatusCode, body)
 	}
 
-	return token.AccessToken, nil
+	var tr tokenResponse
+	if err := json.Unmarshal(body, &tr); err != nil {
+		return "", fmt.Errorf("failed to parse token response: %w", err)
+	}
+
+	return tr.AccessToken, nil
 }
