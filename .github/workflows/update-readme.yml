@@ -48,7 +48,7 @@ jobs:
         continue-on-error: true
         working-directory: tools/fit
         env:
-          GOOGLE_FIT_CREDENTIALS_JSON: ${{ secrets.GOOGLE_FIT_CREDENTIALS_JSON }}
+          GOOGLE_CLOUD_CREDENTIALS_JSON: ${{ secrets.GOOGLE_CLOUD_CREDENTIALS_JSON }}
         run: go run . -cmd update-pedometer -readme $GITHUB_WORKSPACE/README.md
 
       - name: Update README with random wish book

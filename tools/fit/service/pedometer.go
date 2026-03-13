@@ -51,9 +51,9 @@ type aggregateResponse struct {
 
 // RunUpdatePedometer fetches yesterday's step count from Google Fit and updates the given README file.
 func RunUpdatePedometer(readmeFile string) error {
-	credJSON := os.Getenv("GOOGLE_FIT_CREDENTIALS_JSON")
+	credJSON := os.Getenv("GOOGLE_CLOUD_CREDENTIALS_JSON")
 	if credJSON == "" {
-		return fmt.Errorf("GOOGLE_FIT_CREDENTIALS_JSON environment variable is required")
+		return fmt.Errorf("GOOGLE_CLOUD_CREDENTIALS_JSON environment variable is required")
 	}
 
 	accessToken, err := credentialsToAccessToken([]byte(credJSON))

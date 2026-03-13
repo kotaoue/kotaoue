@@ -1,6 +1,6 @@
 # prepareFit
 
-Google Fit の `GOOGLE_FIT_CREDENTIALS_JSON` を取得するためのツール
+Google Fit の `GOOGLE_CLOUD_CREDENTIALS_JSON` を取得するためのツール
 
 `client_secret.json` は Google Cloud Project で OAuth2 クライアントを作成したときにダウンロードできる JSON ファイルです。
 OAuth クライアントの種類は **Desktop app** を選んでください。
@@ -19,8 +19,8 @@ python3 -m pip install google-auth-oauthlib
 python3 main.py
 ```
 
-実行すると `GOOGLE_FIT_CREDENTIALS_JSON:` に続いて JSON が出力されます。
-その JSON の値を GitHub Secrets の `GOOGLE_FIT_CREDENTIALS_JSON` に登録してください。
+実行すると `GOOGLE_CLOUD_CREDENTIALS_JSON:` に続いて JSON が出力されます。
+その JSON の値を GitHub Secrets の `GOOGLE_CLOUD_CREDENTIALS_JSON` に登録してください。
 
 ## トラブルシュート
 

@@ -29,7 +29,7 @@ def main() -> None:
     }
 
     credentials_json = json.dumps(credentials)
-    print(f"GOOGLE_FIT_CREDENTIALS_JSON:\n{credentials_json}")
+    print(f"GOOGLE_CLOUD_CREDENTIALS_JSON:\n{credentials_json}")
 
 
 if __name__ == "__main__":
