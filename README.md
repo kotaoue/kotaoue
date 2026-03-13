@@ -36,9 +36,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->3月10日の歩数<!-- PEDOMETER_DATE_END --> | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->3月13日の歩数<!-- PEDOMETER_DATE_END --> | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->4,112歩<!-- PEDOMETER_STEPS_END --> | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/579224"><img src="https://m.media-amazon.com/images/I/41Amt6gBEOL._SL500_.jpg" alt="われらの時代・男だけの世界: ヘミングウェイ全短編 (新潮文庫)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/6m6VtXF1h52IYRFyHsxAc2"><img src="https://i.scdn.co/image/ab67616d0000b2735179bf33e27c8418c8bcaa77" alt="WHITE JAM - 死ぬほど好き" width="128px"><br>WHITE JAM<br>死ぬほど好き</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->7,122歩<!-- PEDOMETER_STEPS_END --> | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/11824668"><img src="https://m.media-amazon.com/images/I/51vGSlkFLVL._SL500_.jpg" alt="なぜ僕は、4人以上の場になると途端に会話が苦手になるのか" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/2xhKi0ojslAxsuPdG2uvA6"><img src="https://i.scdn.co/image/ab67616d0000b27301ed8d4373b75cf1e078198b" alt="Tempalay - 大東京万博" width="128px"><br>Tempalay<br>大東京万博</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
