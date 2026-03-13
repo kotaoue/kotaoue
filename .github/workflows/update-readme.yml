@@ -20,10 +20,12 @@ jobs:
           go-version-file: tools/fetch-spotify/go.mod
 
       - name: Fetch Bookmeter wish list
+        continue-on-error: true
         working-directory: tools/fetch-bookmeter
         run: go run . fetch-wish -output $GITHUB_WORKSPACE/wish.json
 
       - name: Fetch Spotify playlist
+        continue-on-error: true
         working-directory: tools/fetch-spotify
         env:
           SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
@@ -31,6 +33,7 @@ jobs:
         run: go run . fetch-playlist -output $GITHUB_WORKSPACE/playlist.json
 
       - name: Combine RSS feeds
+        continue-on-error: true
         uses: kotaoue/combine-rss-feeds@v1
         with:
           feeds: |
@@ -42,6 +45,7 @@ jobs:
           feed_title: "kotaoue's blog entries"
 
       - name: Update README with yesterday's step count
+        continue-on-error: true
         working-directory: tools/fit
         env:
           GOOGLE_FIT_CLIENT_ID: ${{ secrets.GOOGLE_FIT_CLIENT_ID }}
@@ -50,18 +54,22 @@ jobs:
         run: go run . -cmd update-pedometer -readme $GITHUB_WORKSPACE/README.md
 
       - name: Update README with random wish book
+        continue-on-error: true
         working-directory: tools/fetch-bookmeter
         run: go run . update-readme -wish-file $GITHUB_WORKSPACE/wish.json -readme $GITHUB_WORKSPACE/README.md
 
       - name: Update README with random Spotify track
+        continue-on-error: true
         working-directory: tools/fetch-spotify
         run: go run . update-readme -playlist-file $GITHUB_WORKSPACE/playlist.json -readme $GITHUB_WORKSPACE/README.md
 
       - name: Update README with recent blog entries
+        continue-on-error: true
         working-directory: tools/rss-to-readme
         run: go run . -rss $GITHUB_WORKSPACE/blog-entries.xml -readme $GITHUB_WORKSPACE/README.md
 
       - name: Commit and push changes
+        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
