@@ -38,7 +38,7 @@
 
 | <!-- PEDOMETER_DATE_START -->3月10日の歩数<!-- PEDOMETER_DATE_END --> | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->4,112歩<!-- PEDOMETER_STEPS_END --> | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/8615006"><img src="https://m.media-amazon.com/images/I/41UpIo1EyhL._SL500_.jpg" alt="教養としての宗教入門 - 基礎から学べる信仰と文化 (中公新書 2293)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/0Cjes24w1lUBv7p2Adpn08"><img src="https://i.scdn.co/image/ab67616d0000b2734ed5592d23f8acc32045f03e" alt="ハンバーグ師匠, OZAWA - TOKYOハンバーグ" width="128px"><br>ハンバーグ師匠, OZAWA<br>TOKYOハンバーグ</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->4,112歩<!-- PEDOMETER_STEPS_END --> | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/543486"><img src="https://m.media-amazon.com/images/I/41C3pe30BpL._SL500_.jpg" alt="存在の耐えられない軽さ (集英社文庫)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/2ttzli3A7SOXUvMv69xEKs"><img src="https://i.scdn.co/image/ab67616d0000b273f71eab50c2f8af5e4e87a3b1" alt="Def Tech - My Way" width="128px"><br>Def Tech<br>My Way</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
