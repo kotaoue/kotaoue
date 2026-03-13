@@ -1,3 +1,5 @@
+import json
+
 from google_auth_oauthlib.flow import InstalledAppFlow
 
 
@@ -18,7 +20,16 @@ def main() -> None:
         port=0,
         redirect_uri_trailing_slash=False,
     )
-    print(f"REFRESH_TOKEN: {creds.refresh_token}")
+
+    credentials = {
+        "type": "authorized_user",
+        "client_id": creds.client_id,
+        "client_secret": creds.client_secret,
+        "refresh_token": creds.refresh_token,
+    }
+
+    credentials_json = json.dumps(credentials)
+    print(f"GOOGLE_CLOUD_CREDENTIALS_JSON:\n{credentials_json}")
 
 
 if __name__ == "__main__":

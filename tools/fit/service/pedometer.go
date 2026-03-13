@@ -51,17 +51,14 @@ type aggregateResponse struct {
 
 // RunUpdatePedometer fetches yesterday's step count from Google Fit and updates the given README file.
 func RunUpdatePedometer(readmeFile string) error {
-	clientID := os.Getenv("GOOGLE_FIT_CLIENT_ID")
-	clientSecret := os.Getenv("GOOGLE_FIT_CLIENT_SECRET")
-	refreshToken := os.Getenv("GOOGLE_FIT_REFRESH_TOKEN")
-
-	if clientID == "" || clientSecret == "" || refreshToken == "" {
-		return fmt.Errorf("GOOGLE_FIT_CLIENT_ID, GOOGLE_FIT_CLIENT_SECRET, and GOOGLE_FIT_REFRESH_TOKEN environment variables are required")
+	credJSON := os.Getenv("GOOGLE_CLOUD_CREDENTIALS_JSON")
+	if credJSON == "" {
+		return fmt.Errorf("GOOGLE_CLOUD_CREDENTIALS_JSON environment variable is required")
 	}
 
-	accessToken, err := refreshAccessToken(clientID, clientSecret, refreshToken)
+	accessToken, err := credentialsToAccessToken([]byte(credJSON))
 	if err != nil {
-		return fmt.Errorf("failed to refresh access token: %w", err)
+		return fmt.Errorf("failed to get access token: %w", err)
 	}
 
 	steps, err := fetchYesterdaySteps(accessToken)
