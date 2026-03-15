@@ -28,17 +28,17 @@
 ## 最近のPrivate
 
 <!-- BLOG_ENTRIES_START -->
+- [コードを手放す](https://zenn.dev/kotaoue/articles/4615026369796e)
 - [GitHubでv1.0.1みたいなリリースタグを切ったらv1にもコピーしてくれるActionsをMarketplaceに公開した件](https://qiita.com/kotaoue/items/e8de9bf75ae065e7e05a)
 - [GitHub Marketplaceに公開したときに@v1とかメジャーVer指定したかった件](https://qiita.com/kotaoue/items/195ce5f817ad33a2d4a0)
 - [github-readme-stats と github-profile-trophy を Self-hosting する際のトークン設定](https://qiita.com/kotaoue/items/dd7ab6b7230578632958)
 - [0:00にGitHub Actionsが動かず3日ほどハマった件](https://qiita.com/kotaoue/items/89a51a4fbcdadb824c7a)
-- [演じることと演じさせられること〜すなわち自由意志をキーワードにした繭期に対する一人の想い〜](https://note.com/kotaoue/n/n1fa85ce427cb)
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->3月14日の歩数<!-- PEDOMETER_DATE_END --> | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->3月15日の歩数<!-- PEDOMETER_DATE_END --> | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->11,915歩<!-- PEDOMETER_STEPS_END --> | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/21350853"><img src="https://m.media-amazon.com/images/I/41ppKV3yXdL._SL500_.jpg" alt="ちょっと気になる医療と介護　第3版" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/4EkfUCeJdOuwh45nm6ZQsh"><img src="https://i.scdn.co/image/ab67616d0000b273babfbd5abd46a2af711da1f6" alt="¥ellow Bucks - Kabukimono" width="128px"><br>¥ellow Bucks<br>Kabukimono</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->9,652歩<!-- PEDOMETER_STEPS_END --> | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/22209663"><img src="https://m.media-amazon.com/images/I/51RAe3tP-xL._SL500_.jpg" alt="Y字路はなぜ生まれるのか？ 【本邦初！街の見方がまったく変わる「Y字路学」の第一歩】" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/2MmgGuQzr0kkiA04lMdPXW"><img src="https://i.scdn.co/image/ab67616d0000b2734b37601cedd96a3850d46dfa" alt="MAISONdes, 花譜, ツミキ - トウキョウ・シャンディ・ランデヴ" width="128px"><br>MAISONdes, 花譜, ツミキ<br>トウキョウ・シャンディ・ランデヴ</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
