@@ -36,9 +36,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->3月15日の歩数<!-- PEDOMETER_DATE_END --> | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->3月16日の歩数<!-- PEDOMETER_DATE_END --> | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->9,652歩<!-- PEDOMETER_STEPS_END --> | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/22209663"><img src="https://m.media-amazon.com/images/I/51RAe3tP-xL._SL500_.jpg" alt="Y字路はなぜ生まれるのか？ 【本邦初！街の見方がまったく変わる「Y字路学」の第一歩】" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/2MmgGuQzr0kkiA04lMdPXW"><img src="https://i.scdn.co/image/ab67616d0000b2734b37601cedd96a3850d46dfa" alt="MAISONdes, 花譜, ツミキ - トウキョウ・シャンディ・ランデヴ" width="128px"><br>MAISONdes, 花譜, ツミキ<br>トウキョウ・シャンディ・ランデヴ</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->4,680歩<!-- PEDOMETER_STEPS_END --> | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/20814882"><img src="https://m.media-amazon.com/images/I/51cdL5d52VL._SL500_.jpg" alt="システム設計の面接試験" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/30nnI0WGVDRcbjs8wnDjRq"><img src="https://i.scdn.co/image/ab67616d0000b27359c8ed51e062fc4421a6319f" alt="Flower Companyz - 東京タワー" width="128px"><br>Flower Companyz<br>東京タワー</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
