@@ -28,17 +28,17 @@
 ## 最近のPrivate
 
 <!-- BLOG_ENTRIES_START -->
+- [4秒でまとめたバグ報告もらったときの調査方針](https://qiita.com/kotaoue/items/2e1cdd1f23430cacb156)
 - [コードを手放す](https://zenn.dev/kotaoue/articles/4615026369796e)
 - [GitHubでv1.0.1みたいなリリースタグを切ったらv1にもコピーしてくれるActionsをMarketplaceに公開した件](https://qiita.com/kotaoue/items/e8de9bf75ae065e7e05a)
 - [GitHub Marketplaceに公開したときに@v1とかメジャーVer指定したかった件](https://qiita.com/kotaoue/items/195ce5f817ad33a2d4a0)
 - [github-readme-stats と github-profile-trophy を Self-hosting する際のトークン設定](https://qiita.com/kotaoue/items/dd7ab6b7230578632958)
-- [0:00にGitHub Actionsが動かず3日ほどハマった件](https://qiita.com/kotaoue/items/89a51a4fbcdadb824c7a)
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->3月16日の歩数<!-- PEDOMETER_DATE_END --> | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->3月17日の歩数<!-- PEDOMETER_DATE_END --> | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->4,680歩<!-- PEDOMETER_STEPS_END --> | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/20814882"><img src="https://m.media-amazon.com/images/I/51cdL5d52VL._SL500_.jpg" alt="システム設計の面接試験" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/30nnI0WGVDRcbjs8wnDjRq"><img src="https://i.scdn.co/image/ab67616d0000b27359c8ed51e062fc4421a6319f" alt="Flower Companyz - 東京タワー" width="128px"><br>Flower Companyz<br>東京タワー</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->4,875歩<!-- PEDOMETER_STEPS_END --> | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/133479"><img src="https://m.media-amazon.com/images/I/51oBPqdW9mL._SL500_.jpg" alt="User Stories Applied: For Agile Software Development (Addison-Wesley Signature Series (Beck))" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/6LXyUt54Uq6xPgh7fr9zZj"><img src="https://i.scdn.co/image/ab67616d0000b2730365ceaf1b37156b5874f567" alt="Yujiro Ishihara - ラブユー東京" width="128px"><br>Yujiro Ishihara<br>ラブユー東京</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
