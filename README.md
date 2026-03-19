@@ -36,9 +36,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->3月18日の歩数<!-- PEDOMETER_DATE_END --> | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->3月19日の歩数<!-- PEDOMETER_DATE_END --> | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->3,809歩<!-- PEDOMETER_STEPS_END --> | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/23113719"><img src="https://m.media-amazon.com/images/I/51FU3i8RHNL._SL500_.jpg" alt="本を読めなくなった人たち-コスパとテキストメディアをめぐる現在形 (中公新書ラクレ 861)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/3g0QtkqH7VeqICa1lrlhgd"><img src="https://i.scdn.co/image/ab67616d0000b2732c4cbe20023513398508f7f8" alt="Sunny Day Service - 東京市憂愁（トーキョーシティブルース）" width="128px"><br>Sunny Day Service<br>東京市憂愁（トーキョーシティブルース）</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->6,359歩<!-- PEDOMETER_STEPS_END --> | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/11608"><img src="https://m.media-amazon.com/images/I/51KglL0uJ1L._SL500_.jpg" alt="昭和電車少年 (ちくま文庫 し 5-5)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/0vvbQxbtAz2foovHOPkWQw"><img src="https://i.scdn.co/image/ab67616d0000b27376dd1a991ad39d6a554326c9" alt="近視のサエ子, AATA - あなたが課金しないなら" width="128px"><br>近視のサエ子, AATA<br>あなたが課金しないなら</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
