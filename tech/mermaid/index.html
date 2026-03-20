@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>mermaid-rich デモ</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+      background: #f0f2f5;
+      color: #333;
+      padding: 24px;
+    }
+
+    h1 {
+      font-size: 1.6rem;
+      margin-bottom: 6px;
+      color: #222;
+    }
+    p.subtitle {
+      font-size: 0.95rem;
+      color: #666;
+      margin-bottom: 24px;
+    }
+
+    .demo-section {
+      background: #fff;
+      border-radius: 10px;
+      box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+      padding: 20px;
+      margin-bottom: 32px;
+    }
+
+    .demo-section h2 {
+      font-size: 1.1rem;
+      margin-bottom: 12px;
+      color: #444;
+      border-left: 4px solid #7c3aed;
+      padding-left: 10px;
+    }
+
+    /* mermaid-rich コンテナの高さはここで指定 */
+    .diagram-container {
+      height: 420px;
+    }
+
+    .controls {
+      margin-top: 16px;
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+      align-items: center;
+    }
+
+    .controls label {
+      font-size: 0.88rem;
+      color: #555;
+    }
+
+    .controls textarea {
+      width: 100%;
+      height: 120px;
+      font-family: 'Courier New', monospace;
+      font-size: 0.85rem;
+      padding: 10px;
+      border: 1px solid #d0d0d0;
+      border-radius: 6px;
+      resize: vertical;
+    }
+
+    .btn-render {
+      background: #7c3aed;
+      color: #fff;
+      border: none;
+      border-radius: 6px;
+      padding: 8px 18px;
+      font-size: 0.9rem;
+      cursor: pointer;
+      transition: background 0.15s;
+    }
+    .btn-render:hover { background: #6d28d9; }
+
+    .tip {
+      font-size: 0.82rem;
+      color: #888;
+      margin-top: 4px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>🧜 mermaid-rich デモ</h1>
+  <p class="subtitle">
+    Mermaid テキストをリッチ表示するライブラリのデモページです。<br>
+    ズーム（ホイール / ピンチ）・ドラッグパン・テーマ切替・SVG ダウンロードが使えます。
+  </p>
+
+  <!-- ─── サンプル 1: フローチャート ─────────────────────── -->
+  <div class="demo-section">
+    <h2>📊 フローチャート（ライトテーマ）</h2>
+    <div id="demo-flow" class="diagram-container"></div>
+    <div class="controls">
+      <label>Mermaid テキストを編集して再レンダリング：</label>
+      <textarea id="code-flow">
+flowchart LR
+    A([ユーザー]) --> B[フロントエンド]
+    B -->|API リクエスト| C{認証}
+    C -- OK --> D[バックエンド]
+    C -- NG --> E[エラー画面]
+    D --> F[(データベース)]
+    D --> G[外部 API]
+    F --> D
+    G --> D
+    D -->|レスポンス| B
+      </textarea>
+      <button class="btn-render" onclick="rerenderFlow()">再レンダリング</button>
+    </div>
+    <p class="tip">💡 ツールバーの ⊞ ボタンで全体表示、🌗 でテーマ切替、↓ で SVG ダウンロードができます。</p>
+  </div>
+
+  <!-- ─── サンプル 2: シーケンス図 ─────────────────────────── -->
+  <div class="demo-section">
+    <h2>🔄 シーケンス図（ダークテーマ）</h2>
+    <div id="demo-seq" class="diagram-container"></div>
+  </div>
+
+  <!-- ─── サンプル 3: クラス図 ──────────────────────────────── -->
+  <div class="demo-section">
+    <h2>🗂 クラス図</h2>
+    <div id="demo-class" class="diagram-container"></div>
+  </div>
+
+  <!-- ─── サンプル 4: data-mermaid-rich 属性による自動初期化 ─ -->
+  <div class="demo-section">
+    <h2>⚡ data 属性による自動初期化</h2>
+    <div data-mermaid-rich data-theme="light" style="height:300px;">
+gantt
+    title 開発スケジュール
+    dateFormat YYYY-MM-DD
+    section 設計
+        要件定義      :done,    des1, 2024-01-01, 7d
+        基本設計      :done,    des2, after des1, 7d
+    section 開発
+        フロント実装  :active,  dev1, after des2, 14d
+        バック実装    :         dev2, after des2, 14d
+    section テスト
+        結合テスト    :         tst1, after dev1, 7d
+        本番リリース  :milestone, 2024-02-15, 0d
+    </div>
+    <p class="tip" style="margin-top:8px;">
+      <code>data-mermaid-rich</code> 属性を付けるだけで <code>MermaidRich.autoInit()</code> が自動処理します。
+    </p>
+  </div>
+
+  <script src="./mermaid-rich.js"></script>
+  <script>
+    // ─── 手動初期化（JS API） ────────────────────────────────
+    const flowInstance = new MermaidRich(document.getElementById("demo-flow"), {
+      theme: "light",
+    });
+    flowInstance.render(document.getElementById("code-flow").value.trim());
+
+    const seqInstance = new MermaidRich(document.getElementById("demo-seq"), {
+      theme: "dark",
+    });
+    seqInstance.render(`
+sequenceDiagram
+    participant U as ユーザー
+    participant F as フロント
+    participant B as バック
+    participant DB as DB
+
+    U->>F: ページを開く
+    F->>B: GET /api/data
+    B->>DB: SELECT ...
+    DB-->>B: rows
+    B-->>F: JSON レスポンス
+    F-->>U: 画面を描画
+    U->>F: フォーム送信
+    F->>B: POST /api/save
+    B->>DB: INSERT ...
+    DB-->>B: OK
+    B-->>F: 201 Created
+    F-->>U: 完了メッセージ
+    `.trim());
+
+    const classInstance = new MermaidRich(document.getElementById("demo-class"), {
+      theme: "light",
+    });
+    classInstance.render(`
+classDiagram
+    class MermaidRich {
+        +String theme
+        +Number scale
+        +Number tx
+        +Number ty
+        +render(code) void
+        +_zoom(delta) void
+        +_fitToView() void
+        +_downloadSVG() void
+        +_toggleTheme() void
+    }
+    class Viewport {
+        +HTMLElement el
+        +bindEvents() void
+    }
+    class Toolbar {
+        +HTMLElement el
+        +buildButtons() void
+    }
+    MermaidRich --> Viewport : contains
+    MermaidRich --> Toolbar : contains
+    `.trim());
+
+    // ─── フローチャートの再レンダリング ─────────────────────
+    function rerenderFlow() {
+      const code = document.getElementById("code-flow").value.trim();
+      // コンテナをリセットして新しいインスタンスを作成
+      const container = document.getElementById("demo-flow");
+      container.innerHTML = "";
+      const inst = new MermaidRich(container, { theme: "light" });
+      inst.render(code);
+    }
+
+    // ─── data 属性による自動初期化 ──────────────────────────
+    MermaidRich.autoInit();
+  </script>
+</body>
+</html>
