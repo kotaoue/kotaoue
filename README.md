@@ -38,7 +38,7 @@
 
 | <!-- PEDOMETER_DATE_START -->3月19日の歩数<!-- PEDOMETER_DATE_END --> | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->6,359歩<!-- PEDOMETER_STEPS_END --> | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/11608"><img src="https://m.media-amazon.com/images/I/51KglL0uJ1L._SL500_.jpg" alt="昭和電車少年 (ちくま文庫 し 5-5)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/0vvbQxbtAz2foovHOPkWQw"><img src="https://i.scdn.co/image/ab67616d0000b27376dd1a991ad39d6a554326c9" alt="近視のサエ子, AATA - あなたが課金しないなら" width="128px"><br>近視のサエ子, AATA<br>あなたが課金しないなら</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->6,359歩<!-- PEDOMETER_STEPS_END --> | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/7847804"><img src="https://m.media-amazon.com/images/I/41hG5hBiYvL._SL500_.jpg" alt="シェアをデザインする: 変わるコミュニティ、ビジネス、クリエイションの現場" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/0cBJ0inPYpMKPL6XFJkNfi"><img src="https://i.scdn.co/image/ab67616d0000b273f87dcc664cac6aa0ae998d38" alt="suisoh, john - shower" width="128px"><br>suisoh, john<br>shower</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
