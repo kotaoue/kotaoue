@@ -4,9 +4,9 @@
 
 <img src="./images/white_basic-tiptoe-basic-tiptoe-basic-jump_4_delay64.gif" alt="kotaoue">
 
-* 🐔 = chicken = にわとり
-* 🐓 = rooster = おんどり
-* ohyeah = kotaoue = おうえこうた
+- 🐔 = chicken = にわとり
+- 🐓 = rooster = おんどり
+- ohyeah = kotaoue = おうえこうた
 
 <p>
   <a href="http://x.com/kotaoue"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="x"></a>
@@ -83,11 +83,9 @@
 [![このリポジトリの直近1年のコミット](./images/gource-last-year-30s.gif)](./images/gource-last-year-30s.gif)
 </details>
 
-
 ## Links
 
 - [x_x: Giving your long posts a surgical x_x treatment.](https://xx-six-phi.vercel.app/)
-
 
 ---
 

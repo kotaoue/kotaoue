@@ -19,7 +19,7 @@ SPOTIFY_CLIENT_ID=<your_client_id> SPOTIFY_CLIENT_SECRET=<your_client_secret> \
 ## 環境変数
 
 | 変数名 | 説明 |
-|---|---|
+| --- | --- |
 | `SPOTIFY_CLIENT_ID` | [Spotify Developer Dashboard](https://developer.spotify.com/dashboard) で取得したクライアントID |
 | `SPOTIFY_CLIENT_SECRET` | [Spotify Developer Dashboard](https://developer.spotify.com/dashboard) で取得したクライアントシークレット |
 
