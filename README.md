@@ -86,6 +86,7 @@
 ## Links
 
 - [x_x: Giving your long posts a surgical x_x treatment.](https://xx-six-phi.vercel.app/)
+- [kotaoue's Actions Dashboard](https://kotaoue.github.io/ActionsDashboard/)
 
 ---
 
