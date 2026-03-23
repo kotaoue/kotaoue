@@ -38,7 +38,7 @@
 
 | <!-- PEDOMETER_DATE_START -->3月19日の歩数<!-- PEDOMETER_DATE_END --> | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->6,359歩<!-- PEDOMETER_STEPS_END --> | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/703808"><img src="https://m.media-amazon.com/images/I/51P1ZLtaVkL._SL500_.jpg" alt="ｳｨﾙﾍﾙﾑ･ﾗｲﾋ（上）" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/1JBLGTCiqdlrIfzaCW9Hey"><img src="https://i.scdn.co/image/ab67616d0000b273bff245dd6c1bdf4c98f07fdc" alt="にしな - 東京マーブル" width="128px"><br>にしな<br>東京マーブル</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->6,359歩<!-- PEDOMETER_STEPS_END --> | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/200299"><img src="https://m.media-amazon.com/images/I/41Vzzlzd7JL._SL500_.jpg" alt="合議の知を求めて: グループの意思決定 (認知科学モノグラフ 3)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/3SyxUBJAQqndVzuQQ38f7r"><img src="https://i.scdn.co/image/ab67616d0000b2735ed84eba71b0b3f3f5a17d28" alt="Teikokukissa - 東京駅" width="128px"><br>Teikokukissa<br>東京駅</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
