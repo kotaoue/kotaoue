@@ -30,7 +30,7 @@ jobs:
         working-directory: tools/${{ matrix.tool }}
         run: go test -v -coverprofile=coverage.out ./...
       - name: Upload coverage to Codecov
-        uses: codecov/codecov-action@v4
+        uses: codecov/codecov-action@v5
         with:
           files: tools/${{ matrix.tool }}/coverage.out
           flags: ${{ matrix.tool }}
