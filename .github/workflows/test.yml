@@ -21,16 +21,16 @@ jobs:
           - fit
           - rss-to-readme
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
       - name: Set up Go
-        uses: actions/setup-go@v6
+        uses: actions/setup-go@4b73464bb391d4059bd26b0524d20df3927bd417 # v6.3.0
         with:
           go-version-file: tools/${{ matrix.tool }}/go.mod
       - name: Test ${{ matrix.tool }}
         working-directory: tools/${{ matrix.tool }}
         run: go test -v -coverprofile=coverage.out ./...
       - name: Upload coverage to Codecov
-        uses: codecov/codecov-action@v5
+        uses: codecov/codecov-action@1af58845a975a7985b0beb0cbe6fbbb71a41dbad # v5.5.3
         with:
           files: tools/${{ matrix.tool }}/coverage.out
           flags: ${{ matrix.tool }}

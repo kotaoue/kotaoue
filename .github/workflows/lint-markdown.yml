@@ -13,15 +13,15 @@ jobs:
         runs-on: ubuntu-latest
         steps:
             - name: Checkout
-              uses: actions/checkout@v6
+              uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
 
             - name: Run cSpell
-              uses: streetsidesoftware/cspell-action@v8
+              uses: streetsidesoftware/cspell-action@9cd41bb518a24fefdafd9880cbab8f0ceba04d28 # v8.3.0
               with:
                   files: "**/*.md"
                   config: cspell.json
 
             - name: Run markdownlint
-              uses: DavidAnson/markdownlint-cli2-action@v22
+              uses: DavidAnson/markdownlint-cli2-action@07035fd053f7be764496c0f8d8f9f41f98305101 # v22.0.0
               with:
                   globs: "**/*.md"
