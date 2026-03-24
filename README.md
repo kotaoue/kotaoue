@@ -28,17 +28,17 @@
 ## 最近のPrivate
 
 <!-- BLOG_ENTRIES_START -->
+- [GitHubでリポジトリ作った後の設定を楽にしたかった](https://qiita.com/kotaoue/items/4cc0f2310d5a70b1712b)
 - [4秒でまとめたバグ報告もらったときの調査方針](https://qiita.com/kotaoue/items/2e1cdd1f23430cacb156)
 - [コードを手放す](https://zenn.dev/kotaoue/articles/4615026369796e)
 - [GitHubでv1.0.1みたいなリリースタグを切ったらv1にもコピーしてくれるActionsをMarketplaceに公開した件](https://qiita.com/kotaoue/items/e8de9bf75ae065e7e05a)
 - [GitHub Marketplaceに公開したときに@v1とかメジャーVer指定したかった件](https://qiita.com/kotaoue/items/195ce5f817ad33a2d4a0)
-- [github-readme-stats と github-profile-trophy を Self-hosting する際のトークン設定](https://qiita.com/kotaoue/items/dd7ab6b7230578632958)
 
 <!-- BLOG_ENTRIES_END -->
 
 | <!-- PEDOMETER_DATE_START -->3月19日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->6,359歩<!-- PEDOMETER_STEPS_END --> | ![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/200299"><img src="https://m.media-amazon.com/images/I/41Vzzlzd7JL._SL500_.jpg" alt="合議の知を求めて: グループの意思決定 (認知科学モノグラフ 3)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/3SyxUBJAQqndVzuQQ38f7r"><img src="https://i.scdn.co/image/ab67616d0000b2735ed84eba71b0b3f3f5a17d28" alt="Teikokukissa - 東京駅" width="128px"><br>Teikokukissa<br>東京駅</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->6,359歩<!-- PEDOMETER_STEPS_END --> | ![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/16781065"><img src="https://m.media-amazon.com/images/I/41qGtlOT4zL._SL500_.jpg" alt="書くのがしんどい" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/3nyP7POmGLdwp9daaHQH8R"><img src="https://i.scdn.co/image/ab67616d0000b273f06c7ac14d61f40f2d365371" alt="Noriyuki Makihara - introduction 〜東京の蕾〜" width="128px"><br>Noriyuki Makihara<br>introduction 〜東京の蕾〜</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
