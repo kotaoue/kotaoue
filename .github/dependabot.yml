@@ -6,24 +6,34 @@ updates:
     directory: /
     schedule:
       interval: weekly
+    assignees:
+      - kotaoue
 
   # Go モジュールの自動更新
   - package-ecosystem: gomod
     directory: /tools/fetch-bookmeter
     schedule:
       interval: weekly
+    assignees:
+      - kotaoue
 
   - package-ecosystem: gomod
     directory: /tools/fetch-spotify
     schedule:
       interval: weekly
+    assignees:
+      - kotaoue
 
   - package-ecosystem: gomod
     directory: /tools/fit
     schedule:
       interval: weekly
+    assignees:
+      - kotaoue
 
   - package-ecosystem: gomod
     directory: /tools/rss-to-readme
     schedule:
       interval: weekly
+    assignees:
+      - kotaoue
