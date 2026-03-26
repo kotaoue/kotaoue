@@ -38,7 +38,7 @@
 
 | <!-- PEDOMETER_DATE_START -->3月19日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->6,359歩<!-- PEDOMETER_STEPS_END --> | ![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/34997"><img src="https://m.media-amazon.com/images/I/51YK4BP47ZL._SL500_.jpg" alt="戦略の本質 戦史に学ぶ逆転のリーダーシップ" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/2iFpk2lHYW6cH7i4p52AY4"><img src="https://i.scdn.co/image/ab67616d0000b2733bffc3038f2ace41272d9952" alt="sakanaction - ユリイカ" width="128px"><br>sakanaction<br>ユリイカ</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->6,359歩<!-- PEDOMETER_STEPS_END --> | ![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/7847804"><img src="https://m.media-amazon.com/images/I/41hG5hBiYvL._SL500_.jpg" alt="シェアをデザインする: 変わるコミュニティ、ビジネス、クリエイションの現場" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/6Z2igqMvzGGjvQq2vfyolf"><img src="https://i.scdn.co/image/ab67616d0000b273d5e9ca52157c60256f33f2df" alt="Philosophy no Dance - ウォータープルーフ・ナイト" width="128px"><br>Philosophy no Dance<br>ウォータープルーフ・ナイト</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
