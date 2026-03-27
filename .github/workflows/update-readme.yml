@@ -21,8 +21,10 @@ jobs:
 
       - name: Fetch Bookmeter wish list
         continue-on-error: true
-        working-directory: tools/fetch-bookmeter
-        run: go run . fetch-wish -output $GITHUB_WORKSPACE/wish.json
+        uses: kotaoue/fetch-bookmeter@2f1426b74fe07c3a54f76a792360ab74a31c06c7 # v1
+        with:
+          user-id: '104'
+          output: ${{ github.workspace }}/wish.json
 
       - name: Fetch Spotify playlist
         continue-on-error: true
