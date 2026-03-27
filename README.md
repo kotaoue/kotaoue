@@ -38,7 +38,7 @@
 
 | <!-- PEDOMETER_DATE_START -->3月19日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->6,359歩<!-- PEDOMETER_STEPS_END --> | ![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/21833923"><img src="https://m.media-amazon.com/images/I/417yFDqjEkL._SL500_.jpg" alt="ポリティカル・スキル 人と組織を思い通りに動かす技術" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/10BZLNRTu9e8O8nBjeXjQc"><img src="https://i.scdn.co/image/ab67616d0000b273a72e3ad2bb9aa89c2e80ae1c" alt="naomi paris tokyo - Tokyo" width="128px"><br>naomi paris tokyo<br>Tokyo</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->6,359歩<!-- PEDOMETER_STEPS_END --> | ![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/8615006"><img src="https://m.media-amazon.com/images/I/41UpIo1EyhL._SL500_.jpg" alt="教養としての宗教入門 - 基礎から学べる信仰と文化 (中公新書 2293)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/3HVb65uJzOpnwyyazWBem9"><img src="https://i.scdn.co/image/ab67616d0000b273e4714733af35a98c85f04b14" alt="HoneyWorks, sana, CHiCO - 東京サマーセッション" width="128px"><br>HoneyWorks, sana, CHiCO<br>東京サマーセッション</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
