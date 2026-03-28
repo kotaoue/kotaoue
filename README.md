@@ -28,17 +28,17 @@
 ## 最近のPrivate
 
 <!-- BLOG_ENTRIES_START -->
+- [バギーちゃんが好きだ](https://note.com/kotaoue/n/n412acfeeffb7)
 - [GitHubでリポジトリ作った後の設定を楽にしたかった](https://qiita.com/kotaoue/items/4cc0f2310d5a70b1712b)
 - [4秒でまとめたバグ報告もらったときの調査方針](https://qiita.com/kotaoue/items/2e1cdd1f23430cacb156)
 - [コードを手放す](https://zenn.dev/kotaoue/articles/4615026369796e)
 - [GitHubでv1.0.1みたいなリリースタグを切ったらv1にもコピーしてくれるActionsをMarketplaceに公開した件](https://qiita.com/kotaoue/items/e8de9bf75ae065e7e05a)
-- [GitHub Marketplaceに公開したときに@v1とかメジャーVer指定したかった件](https://qiita.com/kotaoue/items/195ce5f817ad33a2d4a0)
 
 <!-- BLOG_ENTRIES_END -->
 
 | <!-- PEDOMETER_DATE_START -->3月19日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->6,359歩<!-- PEDOMETER_STEPS_END --> | ![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/8615006"><img src="https://m.media-amazon.com/images/I/41UpIo1EyhL._SL500_.jpg" alt="教養としての宗教入門 - 基礎から学べる信仰と文化 (中公新書 2293)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/3HVb65uJzOpnwyyazWBem9"><img src="https://i.scdn.co/image/ab67616d0000b273e4714733af35a98c85f04b14" alt="HoneyWorks, sana, CHiCO - 東京サマーセッション" width="128px"><br>HoneyWorks, sana, CHiCO<br>東京サマーセッション</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->6,359歩<!-- PEDOMETER_STEPS_END --> | ![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/22089740"><img src="https://m.media-amazon.com/images/I/51K+Fuy4VzL._SL500_.jpg" alt="「好き」を言語化する技術 推しの素晴らしさを語りたいのに「やばい！」しかでてこない (ディスカヴァー携書)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/4RDacmh4WGmzGvhAcXAFLS"><img src="https://i.scdn.co/image/ab67616d0000b27397c0069dd18f7bc4d97988fa" alt="daisansei - ざらめ、綿飴" width="128px"><br>daisansei<br>ざらめ、綿飴</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
