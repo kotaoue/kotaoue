@@ -36,9 +36,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->3月19日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->3月27日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->6,359歩<!-- PEDOMETER_STEPS_END --> | ![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/22089740"><img src="https://m.media-amazon.com/images/I/51K+Fuy4VzL._SL500_.jpg" alt="「好き」を言語化する技術 推しの素晴らしさを語りたいのに「やばい！」しかでてこない (ディスカヴァー携書)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/4RDacmh4WGmzGvhAcXAFLS"><img src="https://i.scdn.co/image/ab67616d0000b27397c0069dd18f7bc4d97988fa" alt="daisansei - ざらめ、綿飴" width="128px"><br>daisansei<br>ざらめ、綿飴</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->1,931歩<!-- PEDOMETER_STEPS_END --> | ![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/539372"><img src="https://m.media-amazon.com/images/I/516zn31pLCL._SL500_.jpg" alt="元法制局キャリアが教える 法律を読む技術・学ぶ技術[第2版]" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/1pyt3gb0G32F2TkMcr4Gsi"><img src="https://i.scdn.co/image/ab67616d0000b2730b9898c3ddfb1f821d28012d" alt="Enjoy Music Club - 東京で考え中" width="128px"><br>Enjoy Music Club<br>東京で考え中</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
