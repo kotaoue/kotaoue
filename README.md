@@ -36,9 +36,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->3月28日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->3月29日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->8,484歩<!-- PEDOMETER_STEPS_END --> | ![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/406302"><img src="https://m.media-amazon.com/images/I/41EZMXKV45L._SL500_.jpg" alt="犯罪と猟奇の民俗学 (歴史民俗学資料叢書 第二期)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/4Msk2brhNGrDw15PBFvn3i"><img src="https://i.scdn.co/image/ab67616d0000b2733408955371749ccefa5b8c3e" alt="Kenji Sawada - TOKIO (Single Version)" width="128px"><br>Kenji Sawada<br>TOKIO (Single Version)</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->13,748歩<!-- PEDOMETER_STEPS_END --> | ![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/357131"><img src="https://m.media-amazon.com/images/I/41n8AZtn9RL._SL500_.jpg" alt="ドキュメント・コミュニケーションの全体観 上巻 原則と手順" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/16JaSG5xDmwHczSCNdHMO9"><img src="https://i.scdn.co/image/ab67616d0000b273069fdc3110cf5f2240ab8b4b" alt="Genie High - クラシックハイ" width="128px"><br>Genie High<br>クラシックハイ</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
