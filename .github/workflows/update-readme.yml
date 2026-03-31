@@ -21,7 +21,7 @@ jobs:
 
       - name: Fetch Bookmeter wish list
         continue-on-error: true
-        uses: kotaoue/fetch-bookmeter@2f1426b74fe07c3a54f76a792360ab74a31c06c7 # v1
+        uses: kotaoue/fetch-bookmeter@92920a2911c3b4fd3607cfd7847e99c464b67aa2 # v1
         with:
           user-id: '104'
           output: ${{ github.workspace }}/wish.json
