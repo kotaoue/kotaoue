@@ -36,9 +36,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->3月30日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->3月31日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->9,934歩<!-- PEDOMETER_STEPS_END --> | ![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/21564535"><img src="https://m.media-amazon.com/images/I/41g-WN2gPYL._SL500_.jpg" alt="万物の黎明 人類史を根本からくつがえす (翻訳)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/4yTU8B9uMozXS1pgu6LDNU"><img src="https://i.scdn.co/image/ab67616d0000b2734fd1255278203b91c84c590c" alt="RHYMESTER - 東京、東京" width="128px"><br>RHYMESTER<br>東京、東京</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->1,430歩<!-- PEDOMETER_STEPS_END --> | ![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/651966"><img src="https://m.media-amazon.com/images/I/51YZ2py4u4L._SL500_.jpg" alt="貨幣進化論 (新潮選書)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/0albLGvYx6ftOUJ7KF0i5I"><img src="https://i.scdn.co/image/ab67616d0000b2730280cf48f6dbd17fabf84e07" alt="Suchmos - STAY TUNE" width="128px"><br>Suchmos<br>STAY TUNE</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
