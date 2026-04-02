@@ -36,9 +36,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->4月1日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->4月2日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->1,749歩<!-- PEDOMETER_STEPS_END --> | ![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/12600812"><img src="https://m.media-amazon.com/images/I/41Jezb3H8hL._SL500_.jpg" alt="利己的な遺伝子 40周年記念版" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/07wnhyqcq6VFm2KbKEPHiP"><img src="https://i.scdn.co/image/ab67616d0000b2732c2913bcdf52ecc347878147" alt="ASOBOiSM, AKKOGORILLA, CLR, 理貴 - 自分の機嫌は自分でとる (Remix) (feat. あっこゴリラ ＆ CLR)" width="128px"><br>ASOBOiSM, AKKOGORILLA, CLR, 理貴<br>自分の機嫌は自分でとる (Remix) (feat. あっこゴリラ ＆ CLR)</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->3,810歩<!-- PEDOMETER_STEPS_END --> | ![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/14031108"><img src="https://m.media-amazon.com/images/I/41NgUuHrW2L._SL500_.jpg" alt="人間本性論 第2巻 〈普及版〉:情念について" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/5KVtCJ6it7Qp3RRIHccfxc"><img src="https://i.scdn.co/image/ab67616d0000b273b3b6de7c1ac586f6f179bb17" alt="Toko Miura - 東京" width="128px"><br>Toko Miura<br>東京</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
