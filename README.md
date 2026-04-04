@@ -36,9 +36,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->4月3日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->4月4日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->6,303歩<!-- PEDOMETER_STEPS_END --> | ![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/9530704"><img src="https://m.media-amazon.com/images/I/31PHrd4t8pL._SL500_.jpg" alt="電脳のレリギオ:ビッグデータ社会で心をつくる" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/23BSGN5vsNiiY0P8NdAfPq"><img src="https://i.scdn.co/image/ab67616d0000b2736955bd7231a97650c38a0f4b" alt="phatmans after school - 東京少年" width="128px"><br>phatmans after school<br>東京少年</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->9,905歩<!-- PEDOMETER_STEPS_END --> | ![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/16861115"><img src="https://m.media-amazon.com/images/I/51lXLJomOvL._SL500_.jpg" alt="いつの空にも星が出ていた" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/0LbBspvDmwS797vanfQnwr"><img src="https://i.scdn.co/image/ab67616d0000b273c2b5bf26093025ec768a6664" alt="ARASHI - Tokyo Lovers Tune Night" width="128px"><br>ARASHI<br>Tokyo Lovers Tune Night</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
