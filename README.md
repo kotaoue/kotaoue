@@ -12,7 +12,6 @@
   <a href="http://x.com/kotaoue"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="x"></a>
   <a href="https://app.codecov.io/gh/kotaoue"><img src="https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=codecov&logoColor=white" alt="codecov"></a>
   <a href="https://www.facebook.com/kotaoue"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"></a>
-  <a href="https://app.slack.com/client/TRGK22K1B/CR550E2N7"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="slack"></a>
   <a href="https://zenn.dev/kotaoue"><img src="https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white" alt="Zenn"></a>
   <a href="https://note.com/kotaoue"><img src="https://img.shields.io/badge/note-41C9B4?style=for-the-badge&logo=note&logoColor=white" alt="note"></a>
   <a href="https://speakerdeck.com/kotaoue"><img src="https://img.shields.io/badge/SpeakerDeck-009287?style=for-the-badge&logo=speakerdeck&logoColor=white" alt="SpeakerDeck"></a>
@@ -89,6 +88,7 @@
 - [ClipChron: Bookmarks and likes, clipped and chronicled.](https://clip-chron.vercel.app/)
 - [x_x: Giving your long posts a surgical x_x treatment.](https://xx-six-phi.vercel.app/)
 - [kotaoue's Actions Dashboard](https://kotaoue.github.io/ActionsDashboard/)
+- [kotaoue's Slack](https://app.slack.com/client/TRGK22K1B/CR550E2N7)
 
 ---
 
