@@ -1,4 +1,4 @@
-.PHONY: help gource gource-30s gource-15s gource-60s gource-last-year-30s gource-last-year-30s-gif gource-render gource-render-range
+.PHONY: help gource gource-30s gource-15s gource-60s gource-last-year-30s gource-last-year-30s-gif gource-render gource-render-range lint lint-spell lint-markdown
 
 help:
 	@$(MAKE) --no-print-directory -f Makefile.gource help
@@ -26,3 +26,12 @@ gource-render:
 
 gource-render-range:
 	@$(MAKE) --no-print-directory -f Makefile.gource gource-render-range
+
+
+lint: lint-spell lint-markdown
+
+lint-spell:
+	cspell "**/*.md" --config cspell.json
+
+lint-markdown:
+	markdownlint-cli2 "**/*.md"
