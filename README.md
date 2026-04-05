@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->4月4日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->4月5日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->9,905歩<!-- PEDOMETER_STEPS_END --> | ![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/16861115"><img src="https://m.media-amazon.com/images/I/51lXLJomOvL._SL500_.jpg" alt="いつの空にも星が出ていた" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/0LbBspvDmwS797vanfQnwr"><img src="https://i.scdn.co/image/ab67616d0000b273c2b5bf26093025ec768a6664" alt="ARASHI - Tokyo Lovers Tune Night" width="128px"><br>ARASHI<br>Tokyo Lovers Tune Night</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->7,044歩<!-- PEDOMETER_STEPS_END --> | ![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/9784440"><img src="https://m.media-amazon.com/images/I/411sHUhA0KL._SL500_.jpg" alt="チューブ生姜適量ではなくて1cmがいい人の理系の料理" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/2rl6rmyVqCnPDJcWJvmJtC"><img src="https://i.scdn.co/image/ab67616d0000b27378f82259828190bac147cb96" alt="Penthouse - ぼくらが旅に出る理由" width="128px"><br>Penthouse<br>ぼくらが旅に出る理由</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
