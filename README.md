@@ -8,6 +8,8 @@
 - 🐓 = rooster = おんどり
 - ohyeah = kotaoue = おうえこうた
 
+あなたは ![visitor count](https://ovkvkuxuplejgssmzwyw.supabase.co/functions/v1/counter) 人目の来訪者です！
+
 <p>
   <a href="http://x.com/kotaoue"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="x"></a>
   <a href="https://app.codecov.io/gh/kotaoue"><img src="https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=codecov&logoColor=white" alt="codecov"></a>
