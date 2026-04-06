@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->4月5日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->4月6日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->7,044歩<!-- PEDOMETER_STEPS_END --> | ![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/9784440"><img src="https://m.media-amazon.com/images/I/411sHUhA0KL._SL500_.jpg" alt="チューブ生姜適量ではなくて1cmがいい人の理系の料理" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/2rl6rmyVqCnPDJcWJvmJtC"><img src="https://i.scdn.co/image/ab67616d0000b27378f82259828190bac147cb96" alt="Penthouse - ぼくらが旅に出る理由" width="128px"><br>Penthouse<br>ぼくらが旅に出る理由</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->5,632歩<!-- PEDOMETER_STEPS_END --> | ![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/201884"><img src="https://m.media-amazon.com/images/I/41VVDHKkKZL._SL500_.jpg" alt="マインズ・アイ: コンピュ-タ時代の「心」と「私」 (上)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/5KVtCJ6it7Qp3RRIHccfxc"><img src="https://i.scdn.co/image/ab67616d0000b273b3b6de7c1ac586f6f179bb17" alt="Toko Miura - 東京" width="128px"><br>Toko Miura<br>東京</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
