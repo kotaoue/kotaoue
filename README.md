@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->4月8日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->4月9日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->3,395歩<!-- PEDOMETER_STEPS_END --> | ![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/12352111"><img src="https://m.media-amazon.com/images/I/51i4x1dd4kL._SL500_.jpg" alt="ITエンジニアのための場面別英会話&amp;amp;キーフレーズ" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/4BM2Jprw4PS4sAOmGOwpB7"><img src="https://i.scdn.co/image/ab67616d0000b273f40c99e189ef9a0468fa75ee" alt="STEREOGIRL - おやすみグッドナイト" width="128px"><br>STEREOGIRL<br>おやすみグッドナイト</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->6,354歩<!-- PEDOMETER_STEPS_END --> | ![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/532368"><img src="https://m.media-amazon.com/images/I/416HrmSpJSL._SL500_.jpg" alt="コミュニティを問いなおす―つながり・都市・日本社会の未来 (ちくま新書) (ちくま新書 800)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/3OFmmUBKhVHu7W5eTI77GR"><img src="https://i.scdn.co/image/ab67616d0000b2735e0e18c9d6e3424bbf76bf1e" alt="SUPER BEAVER - 東京流星群" width="128px"><br>SUPER BEAVER<br>東京流星群</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
