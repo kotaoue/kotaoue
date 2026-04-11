@@ -89,7 +89,7 @@
 
 - [ClipChron: Bookmarks and likes, clipped and chronicled.](https://clip-chron.vercel.app/)
 - [x_x: Giving your long posts a surgical x_x treatment.](https://xx-six-phi.vercel.app/)
-- [dotodoto: Draw Distinct Dots](https://dotodoto.kotaoue.workers.dev/)
+- [dotodoto: Draw Distinct Dots.](https://dotodoto.kotaoue.workers.dev/)
 - [doreataru: Spin the wheel and let fate decide.](https://doreataru.kotaoue.workers.dev/)
 - [kotaoue's Actions Dashboard](https://kotaoue.github.io/ActionsDashboard/)
 - [kotaoue's Slack](https://app.slack.com/client/TRGK22K1B/CR550E2N7)
