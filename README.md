@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->4月10日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->4月11日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->4,194歩<!-- PEDOMETER_STEPS_END --> | ![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/4327758"><img src="https://m.media-amazon.com/images/I/51Bxx5EwUFL._SL500_.jpg" alt="アイデアの99% ―― 「1%のひらめき」を形にする3つの力" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/0YOVAoOvK0OtEy4l1su464"><img src="https://i.scdn.co/image/ab67616d0000b27304922ceeda61e9a0004d5ce9" alt="Kuroneko Chelsea - 東京" width="128px"><br>Kuroneko Chelsea<br>東京</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->6,101歩<!-- PEDOMETER_STEPS_END --> | ![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/550168"><img src="https://m.media-amazon.com/images/I/512po3caqCL._SL500_.jpg" alt="インストラクショナルデザイン―教師のためのルールブック" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/4TMW2FwyBjhUDLc0lCzAse"><img src="https://i.scdn.co/image/ab67616d0000b2739ca7536fc6c367ac24329977" alt="Gesu No Kiwami Otome - 某東京" width="128px"><br>Gesu No Kiwami Otome<br>某東京</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
