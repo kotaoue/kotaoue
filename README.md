@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->4月14日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->4月15日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->6,606歩<!-- PEDOMETER_STEPS_END --> | ![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/88678"><img src="https://m.media-amazon.com/images/I/41CT9WGu0UL._SL500_.jpg" alt="日本の狂気誌 (講談社学術文庫 1338)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/0sNFvG246SNtGpJzLmjIY4"><img src="https://i.scdn.co/image/ab67616d0000b273f06c7ac14d61f40f2d365371" alt="Noriyuki Makihara - ハロー！トウキョウ" width="128px"><br>Noriyuki Makihara<br>ハロー！トウキョウ</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->8,045歩<!-- PEDOMETER_STEPS_END --> | ![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/11001230"><img src="https://img.bookmeter.com/book_image/SL300/137/1462172579871541.jpg" alt="アジャイルコーチの道具箱 – 見える化実例集" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/0yi6GDEryZh7vjEO3M96fB"><img src="https://i.scdn.co/image/ab67616d0000b27369ded81cafb8494fd4a867e2" alt="EDOGA-SULLIVAN - Fight at Tokio" width="128px"><br>EDOGA-SULLIVAN<br>Fight at Tokio</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
