@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->4月16日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->4月17日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->7,236歩<!-- PEDOMETER_STEPS_END --> | ![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/1223"><img src="https://m.media-amazon.com/images/I/510dKkyqTXL._SL500_.jpg" alt="禅とオートバイ修理技術 下: 価値の探求 (ハヤカワ文庫 NF 333)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/2KumdKpm0yjK6DX8Q7L02T"><img src="https://i.scdn.co/image/ab67616d0000b273e105331c17e07facaa221e94" alt="Hibari Misora - 東京タワー" width="128px"><br>Hibari Misora<br>東京タワー</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->14,113歩<!-- PEDOMETER_STEPS_END --> | ![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/357131"><img src="https://m.media-amazon.com/images/I/41n8AZtn9RL._SL500_.jpg" alt="ドキュメント・コミュニケーションの全体観 上巻 原則と手順" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/6twDMJoG8tzwL21LQ3EEtA"><img src="https://i.scdn.co/image/ab67616d0000b273991cf726d025a7a530af6d66" alt="BE:FIRST - Mainstream" width="128px"><br>BE:FIRST<br>Mainstream</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
