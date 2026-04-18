@@ -40,7 +40,7 @@
 
 | <!-- PEDOMETER_DATE_START -->4月18日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->11,741歩<!-- PEDOMETER_STEPS_END --> | ![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/577557"><img src="https://m.media-amazon.com/images/I/51l5Ck236PL._SL500_.jpg" alt="凍りのくじら (講談社文庫 つ 28-5)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/78NozSBr0IBcXBWnYwbIPN"><img src="https://i.scdn.co/image/ab67616d0000b2736c65b588c869906130e3006d" alt="asmi - 東京の夜" width="128px"><br>asmi<br>東京の夜</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->11,741歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/577557"><img src="https://m.media-amazon.com/images/I/51l5Ck236PL._SL500_.jpg" alt="凍りのくじら (講談社文庫 つ 28-5)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/78NozSBr0IBcXBWnYwbIPN"><img src="https://i.scdn.co/image/ab67616d0000b2736c65b588c869906130e3006d" alt="asmi - 東京の夜" width="128px"><br>asmi<br>東京の夜</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
