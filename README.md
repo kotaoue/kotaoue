@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->4月22日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->4月23日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->7,173歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/1223"><img src="https://m.media-amazon.com/images/I/510dKkyqTXL._SL500_.jpg" alt="禅とオートバイ修理技術 下: 価値の探求 (ハヤカワ文庫 NF 333)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/5XqvbvtZMH6rb6jGMOzMq6"><img src="https://i.scdn.co/image/ab67616d0000b273af2209a332eac6dbce830e59" alt="TK from Ling tosite sigure - tokio" width="128px"><br>TK from Ling tosite sigure<br>tokio</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->769歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/8383407"><img src="https://m.media-amazon.com/images/I/61JTGNQNMJL._SL500_.jpg" alt="少女終末旅行 1 (BUNCH COMICS)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/1umiK6lmi2hK2Fgnc7KgrH"><img src="https://i.scdn.co/image/ab67616d0000b273772e45c45320ecfa79c51207" alt="Lil House Phone - Tokyo Goons" width="128px"><br>Lil House Phone<br>Tokyo Goons</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
