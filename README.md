@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->4月23日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->4月24日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->769歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/8383407"><img src="https://m.media-amazon.com/images/I/61JTGNQNMJL._SL500_.jpg" alt="少女終末旅行 1 (BUNCH COMICS)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/1umiK6lmi2hK2Fgnc7KgrH"><img src="https://i.scdn.co/image/ab67616d0000b273772e45c45320ecfa79c51207" alt="Lil House Phone - Tokyo Goons" width="128px"><br>Lil House Phone<br>Tokyo Goons</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->6,756歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/9784440"><img src="https://m.media-amazon.com/images/I/411sHUhA0KL._SL500_.jpg" alt="チューブ生姜適量ではなくて1cmがいい人の理系の料理" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/6bnUHpVnZPwm7pskITlQP2"><img src="https://i.scdn.co/image/ab67616d0000b273f0d62bfd05394a8a55cc5e42" alt="Keiichi Sokabe - There is no place like Tokyo today!" width="128px"><br>Keiichi Sokabe<br>There is no place like Tokyo today!</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
