@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->4月25日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->4月26日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->10,067歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/112814"><img src="https://m.media-amazon.com/images/I/414jkCLoCPL._SL500_.jpg" alt="文化人類学と言語学 (1970年)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/4OvM3u5FUW4Huff0F2MWoS"><img src="https://i.scdn.co/image/ab67616d0000b2731b73b5a2e47ea8e01c02bd5a" alt="Night Tempo, Asako Toki - Silhouette (feat. Asako Toki)" width="128px"><br>Night Tempo, Asako Toki<br>Silhouette (feat. Asako Toki)</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->4,504歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/594258"><img src="https://m.media-amazon.com/images/I/41r4x3hhOlL._SL500_.jpg" alt="反哲学入門 (新潮文庫)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/1QWUyCQ84uAQIdwYyu7obs"><img src="https://i.scdn.co/image/ab67616d0000b273c7d77d142188bb099695ff0b" alt="GOING UNDER GROUND - 東京" width="128px"><br>GOING UNDER GROUND<br>東京</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
