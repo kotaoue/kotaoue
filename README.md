@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->4月27日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->4月28日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->11,461歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/20509335"><img src="https://m.media-amazon.com/images/I/5148eaLk18L._SL500_.jpg" alt="エンタの巨匠　世界に先駆けた伝説のプロデューサーたち" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/6kjYF328cakGWZTNJ6UMKR"><img src="https://i.scdn.co/image/ab67616d0000b27378a0e50de17439c83c835b8b" alt="Kazuyoshi Saito - tokyo blues" width="128px"><br>Kazuyoshi Saito<br>tokyo blues</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->4,862歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/10588768"><img src="https://m.media-amazon.com/images/I/41fxiN05nPL._SL500_.jpg" alt="プリンシプル オブ プログラミング 3年目までに身につけたい 一生役立つ101の原理原則" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/0T3qUbgN47oCFUNyKKyiba"><img src="https://i.scdn.co/image/ab67616d0000b27358996678a5bae000adaec656" alt="MIYACHI - TARINAI - 待つわRemix" width="128px"><br>MIYACHI<br>TARINAI - 待つわRemix</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
