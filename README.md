@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->4月29日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->4月30日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->3,180歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/6877412"><img src="https://m.media-amazon.com/images/I/41pDjNHR5fL._SL500_.jpg" alt="子どもが聴いてくれる話し方と子どもが話してくれる聴き方 大全" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/1R06iaDZJo06JrUP0mHSAm"><img src="https://i.scdn.co/image/ab67616d0000b273a6752d86e4486c5ffbccd006" alt="(sic)boy, KM - vanitas" width="128px"><br>(sic)boy, KM<br>vanitas</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->5,385歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/4120596"><img src="https://m.media-amazon.com/images/I/51PhC7yjFRL._SL500_.jpg" alt="一億人の英文法 ――すべての日本人に贈る「話すため」の英文法（東進ブックス）" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/42JbHwe6Ah0pE1AKTl0wky"><img src="https://i.scdn.co/image/ab67616d0000b273c7f038f9408ce059d3eede40" alt="CRCK/LCKS - O.K." width="128px"><br>CRCK/LCKS<br>O.K.</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
