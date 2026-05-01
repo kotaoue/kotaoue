@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->4月30日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->5月1日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->5,385歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/4120596"><img src="https://m.media-amazon.com/images/I/51PhC7yjFRL._SL500_.jpg" alt="一億人の英文法 ――すべての日本人に贈る「話すため」の英文法（東進ブックス）" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/42JbHwe6Ah0pE1AKTl0wky"><img src="https://i.scdn.co/image/ab67616d0000b273c7f038f9408ce059d3eede40" alt="CRCK/LCKS - O.K." width="128px"><br>CRCK/LCKS<br>O.K.</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->3,771歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/543512"><img src="https://m.media-amazon.com/images/I/31r06l1e+jL._SL500_.jpg" alt="古代中国の虚像と実像 (講談社現代新書 2018)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/2p8ji4NXTvYvAIRnK2d1kH"><img src="https://i.scdn.co/image/ab67616d0000b2735a7c113964efd9dde3430a90" alt="Fujifabric - 茜色の夕日" width="128px"><br>Fujifabric<br>茜色の夕日</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
