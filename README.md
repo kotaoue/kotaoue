@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->5月2日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->5月3日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->12,142歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/14124949"><img src="https://m.media-amazon.com/images/I/51TuqLnPBCL._SL500_.jpg" alt="LeanとDevOpsの科学［Accelerate］ テクノロジーの戦略的活用が組織変革を加速する impress top gearシリーズ" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/6K7P8YkNGp35T2LEBClffn"><img src="https://i.scdn.co/image/ab67616d0000b27339a33805ee2587555895a3b3" alt="You Tokiwa - 往復書簡" width="128px"><br>You Tokiwa<br>往復書簡</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->15,384歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/21308682"><img src="https://m.media-amazon.com/images/I/513jcAPeWDL._SL500_.jpg" alt="息吹 (ハヤカワ文庫SF SFチ 4-2)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/2KumdKpm0yjK6DX8Q7L02T"><img src="https://i.scdn.co/image/ab67616d0000b273e105331c17e07facaa221e94" alt="Hibari Misora - 東京タワー" width="128px"><br>Hibari Misora<br>東京タワー</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
