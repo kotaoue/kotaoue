@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->5月6日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->5月7日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->2,054歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/21350853"><img src="https://m.media-amazon.com/images/I/41ppKV3yXdL._SL500_.jpg" alt="ちょっと気になる医療と介護　第3版" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/0MrvUhqIv6ZD2Nul8rxsxG"><img src="https://i.scdn.co/image/ab67616d0000b273865e2632583458a5a1c12206" alt="Fujifabric - 茜色の夕日" width="128px"><br>Fujifabric<br>茜色の夕日</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->6,229歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/21938094"><img src="https://m.media-amazon.com/images/I/41RXPguOg0L._SL500_.jpg" alt="なぜ依存を注入するのか　DIの原理・原則とパターン (Compass Booksシリーズ)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/65p15oi63nn1D6pocX8JuK"><img src="https://i.scdn.co/image/ab67616d0000b273f87dcc664cac6aa0ae998d38" alt="suisoh, きたろー - ハレーション" width="128px"><br>suisoh, きたろー<br>ハレーション</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
