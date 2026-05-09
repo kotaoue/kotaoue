@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->5月8日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->5月9日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->5,072歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/532368"><img src="https://m.media-amazon.com/images/I/416HrmSpJSL._SL500_.jpg" alt="コミュニティを問いなおす―つながり・都市・日本社会の未来 (ちくま新書) (ちくま新書 800)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/6xawVqQYCJZaVkKxs0OJId"><img src="https://i.scdn.co/image/ab67616d0000b27340cab3ebc1c6bfc8b13e8a2c" alt="Kanpei Hazama - 大阪で生まれた男" width="128px"><br>Kanpei Hazama<br>大阪で生まれた男</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->8,148歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/445389"><img src="https://m.media-amazon.com/images/I/31w3mZgn5zL._SL500_.jpg" alt="沈んだ世界 (創元SF文庫) (創元推理文庫 773)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/4gkx9Bd1ZyPYZLclUHjp4W"><img src="https://i.scdn.co/image/ab67616d0000b273e6c337ee13d4faac5a710531" alt="眉村ちあき - 東京留守番電話ップ - from「ぎっしり歯ぐき」" width="128px"><br>眉村ちあき<br>東京留守番電話ップ - from「ぎっしり歯ぐき」</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
