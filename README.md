@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->5月10日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->5月11日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->8,140歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/146663"><img src="https://m.media-amazon.com/images/I/41W9E6E9UlL._SL500_.jpg" alt="次は火だ―ボールドウィン評論集 (1968年)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/5aF1LHipecEPy5rBIdWM3x"><img src="https://i.scdn.co/image/ab67616d0000b27368e6c01a4cd6a445487c5e29" alt="Hoff Dylan - 愛しあって世界は回る" width="128px"><br>Hoff Dylan<br>愛しあって世界は回る</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->7,131歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/11824668"><img src="https://m.media-amazon.com/images/I/51vGSlkFLVL._SL500_.jpg" alt="なぜ僕は、4人以上の場になると途端に会話が苦手になるのか" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/2TalIR0qSpdyM1rwtO2JHO"><img src="https://i.scdn.co/image/ab67616d0000b273711ca7ec498b3332a824fbae" alt="Gesu No Kiwami Otome - シアラ" width="128px"><br>Gesu No Kiwami Otome<br>シアラ</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
