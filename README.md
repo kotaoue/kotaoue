@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->5月11日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->5月12日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->7,131歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/11824668"><img src="https://m.media-amazon.com/images/I/51vGSlkFLVL._SL500_.jpg" alt="なぜ僕は、4人以上の場になると途端に会話が苦手になるのか" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/2TalIR0qSpdyM1rwtO2JHO"><img src="https://i.scdn.co/image/ab67616d0000b273711ca7ec498b3332a824fbae" alt="Gesu No Kiwami Otome - シアラ" width="128px"><br>Gesu No Kiwami Otome<br>シアラ</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->5,304歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/63294"><img src="https://m.media-amazon.com/images/I/41Pst+gMl7L._SL500_.jpg" alt="問題解決の全体観 下巻 ソフト思考編" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/6YoGIIp2sOSM2w1JbNP5gS"><img src="https://i.scdn.co/image/ab67616d0000b27358996678a5bae000adaec656" alt="MIYACHI, sheidA - FLY 4 U (feat. sheidA)" width="128px"><br>MIYACHI, sheidA<br>FLY 4 U (feat. sheidA)</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
