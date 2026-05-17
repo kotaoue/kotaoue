@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->5月16日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->5月17日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->12,177歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/12305177"><img src="https://m.media-amazon.com/images/I/61DkYxms1vL._SL500_.jpg" alt="残酷すぎる成功法則 9割まちがえる「その常識」を科学する" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/5jTBsY2id269UeMEsPsxbU"><img src="https://i.scdn.co/image/ab67616d0000b273f87dcc664cac6aa0ae998d38" alt="suisoh, NARUMI HELVETICA - ニッケルオデオン" width="128px"><br>suisoh, NARUMI HELVETICA<br>ニッケルオデオン</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->8,124歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/34997"><img src="https://m.media-amazon.com/images/I/51YK4BP47ZL._SL500_.jpg" alt="戦略の本質 戦史に学ぶ逆転のリーダーシップ" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/77eXIA0iOeNjkYyfVFeQPk"><img src="https://i.scdn.co/image/ab67616d0000b2732639e125ab04bd7237ba22f9" alt="STUTS, tofubeats - One" width="128px"><br>STUTS, tofubeats<br>One</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
