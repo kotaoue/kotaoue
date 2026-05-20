@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->5月19日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->5月20日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->3,190歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/426160"><img src="https://m.media-amazon.com/images/I/51Mru3yLAmL._SL500_.jpg" alt="書店風雲録 (ちくま文庫 た 53-1)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/4HWBVuzXajdzwRbevO5Uqo"><img src="https://i.scdn.co/image/ab67616d0000b273ffea8c2c9580dafb3dc149c3" alt="THE KIMINIHANASUYO - あなたの夜が終わったら" width="128px"><br>THE KIMINIHANASUYO<br>あなたの夜が終わったら</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->7,906歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/551691"><img src="https://m.media-amazon.com/images/I/31ESyt9wAkL._SL500_.jpg" alt="理科系の作文技術 (中公新書 624)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/31TjBi98amT7XtMxkHH3Mn"><img src="https://i.scdn.co/image/ab67616d0000b27369fe868c18080bd58275e436" alt="PEOPLE 1 - 東京" width="128px"><br>PEOPLE 1<br>東京</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
