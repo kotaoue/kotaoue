@@ -30,17 +30,17 @@
 ## 最近のPrivate
 
 <!-- BLOG_ENTRIES_START -->
+- [Claude/Codex+GitHub Copilotで並列処理してた話](https://qiita.com/kotaoue/items/993e880bc8ae9b7d65ef)
 - [Mac + GC551G2 で Switch2の画面を録画する](https://qiita.com/kotaoue/items/30dcb7bc4a4dc9bc9b00)
 - [設計しない、形作る](https://zenn.dev/kotaoue/articles/e24f47411a81ae)
 - [開発の成果物はシステムではなくて対話かもしれない](https://zenn.dev/kotaoue/articles/bb394256763f93)
 - [バギーちゃんが好きだ](https://note.com/kotaoue/n/n412acfeeffb7)
-- [GitHubでリポジトリ作った後の設定を楽にしたかった](https://qiita.com/kotaoue/items/4cc0f2310d5a70b1712b)
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->5月20日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->5月21日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->7,906歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/551691"><img src="https://m.media-amazon.com/images/I/31ESyt9wAkL._SL500_.jpg" alt="理科系の作文技術 (中公新書 624)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/31TjBi98amT7XtMxkHH3Mn"><img src="https://i.scdn.co/image/ab67616d0000b27369fe868c18080bd58275e436" alt="PEOPLE 1 - 東京" width="128px"><br>PEOPLE 1<br>東京</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->5,655歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/28094"><img src="https://m.media-amazon.com/images/I/51AysaMiZwL._SL500_.jpg" alt="SQLパズル 第2版~プログラミングが変わる書き方/考え方" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/78NozSBr0IBcXBWnYwbIPN"><img src="https://i.scdn.co/image/ab67616d0000b2736c65b588c869906130e3006d" alt="asmi - 東京の夜" width="128px"><br>asmi<br>東京の夜</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
