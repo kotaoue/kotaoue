@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->5月23日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->5月24日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->6,920歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/10588768"><img src="https://m.media-amazon.com/images/I/41fxiN05nPL._SL500_.jpg" alt="プリンシプル オブ プログラミング 3年目までに身につけたい 一生役立つ101の原理原則" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/3SyxUBJAQqndVzuQQ38f7r"><img src="https://i.scdn.co/image/ab67616d0000b2735ed84eba71b0b3f3f5a17d28" alt="Teikokukissa - 東京駅" width="128px"><br>Teikokukissa<br>東京駅</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->4,834歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/4607229"><img src="https://m.media-amazon.com/images/I/514kHLUN+cL._SL500_.jpg" alt="文庫　銃・病原菌・鉄　（上）　1万3000年にわたる人類史の謎 (草思社文庫 ダ 1-1)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/2xblwpz5LEmOaS3jdKScpH"><img src="https://i.scdn.co/image/ab67616d0000b27300b3dac9baaec9413ef642c1" alt="中島みゆき - ファイト！" width="128px"><br>中島みゆき<br>ファイト！</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
