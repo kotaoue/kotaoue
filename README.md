@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->5月26日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->5月27日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->8,325歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/566497"><img src="https://m.media-amazon.com/images/I/31ZB2K1WEJL._SL500_.jpg" alt="ベストセラー小説の書き方 (朝日文庫 て 4-1)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/5j6r1Rwbyd124EZ1kf1Huh"><img src="https://i.scdn.co/image/ab67616d0000b273c507afcc8b311b6ebd3bfa8a" alt="Tsuyoshi Nagabuchi - 東京青春朝焼物語" width="128px"><br>Tsuyoshi Nagabuchi<br>東京青春朝焼物語</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->4,303歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/21934603"><img src="https://m.media-amazon.com/images/I/514Ixn0-nfL._SL500_.jpg" alt="チームレジリエンス　困難と不確実性に強いチームのつくり方" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/6yKZZZrl9ifzOz7h33Edjg"><img src="https://i.scdn.co/image/ab67616d0000b273034a28979554efe4702354e8" alt="ASIAN KUNG-FU GENERATION - 解放区 (Album Mix)" width="128px"><br>ASIAN KUNG-FU GENERATION<br>解放区 (Album Mix)</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
