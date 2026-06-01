@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->5月31日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->6月1日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->5,366歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/21348803"><img src="https://m.media-amazon.com/images/I/41txv1B43wL._SL500_.jpg" alt="ニューメディアの言語　――デジタル時代のアート、デザイン、映画 (ちくま学芸文庫 マ-51-1)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/3lbZM8EtM1dnZDunARwI1N"><img src="https://i.scdn.co/image/ab67616d0000b273231353228c127022860abcc1" alt="CHANMINA - TOKYO 4AM" width="128px"><br>CHANMINA<br>TOKYO 4AM</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->7,697歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/3304233"><img src="https://m.media-amazon.com/images/I/51Qm-3rLjIL._SL500_.jpg" alt="趣味縁からはじまる社会参加 (若者の気分)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/5rWbxpK53XRJq67KPNnXLY"><img src="https://i.scdn.co/image/ab67616d0000b273a01a69eded38f846debeabb6" alt="THE LOVE NINGEN - 東京の翌日" width="128px"><br>THE LOVE NINGEN<br>東京の翌日</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
