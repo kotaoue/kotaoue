@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->6月1日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->6月2日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->7,697歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/3304233"><img src="https://m.media-amazon.com/images/I/51Qm-3rLjIL._SL500_.jpg" alt="趣味縁からはじまる社会参加 (若者の気分)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/5rWbxpK53XRJq67KPNnXLY"><img src="https://i.scdn.co/image/ab67616d0000b273a01a69eded38f846debeabb6" alt="THE LOVE NINGEN - 東京の翌日" width="128px"><br>THE LOVE NINGEN<br>東京の翌日</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->5,263歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/29880"><img src="https://m.media-amazon.com/images/I/512jJSVJCJL._SL500_.jpg" alt="暴力と聖性: レヴィナスは語る (ポリロゴス叢書)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/6nVZlTtmkRnSQiXf2kK42Y"><img src="https://i.scdn.co/image/ab67616d0000b273f98f13155295d5c62255b023" alt="KATAGI - TOKYO GOONS" width="128px"><br>KATAGI<br>TOKYO GOONS</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
