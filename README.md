@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->6月2日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->6月3日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->5,263歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/29880"><img src="https://m.media-amazon.com/images/I/512jJSVJCJL._SL500_.jpg" alt="暴力と聖性: レヴィナスは語る (ポリロゴス叢書)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/6nVZlTtmkRnSQiXf2kK42Y"><img src="https://i.scdn.co/image/ab67616d0000b273f98f13155295d5c62255b023" alt="KATAGI - TOKYO GOONS" width="128px"><br>KATAGI<br>TOKYO GOONS</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->1,839歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/21173542"><img src="https://m.media-amazon.com/images/I/41bcnFEhTIL._SL500_.jpg" alt="言語の本質-ことばはどう生まれ、進化したか (中公新書 2756)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/3TPUp4f9yHoUPf4JP8M2Vs"><img src="https://i.scdn.co/image/ab67616d0000b273129394b78709fcedfaddcf08" alt="寧音 - Shinjuku no Nekomae" width="128px"><br>寧音<br>Shinjuku no Nekomae</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
