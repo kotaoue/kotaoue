@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->6月3日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->6月4日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->1,839歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/21173542"><img src="https://m.media-amazon.com/images/I/41bcnFEhTIL._SL500_.jpg" alt="言語の本質-ことばはどう生まれ、進化したか (中公新書 2756)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/3TPUp4f9yHoUPf4JP8M2Vs"><img src="https://i.scdn.co/image/ab67616d0000b273129394b78709fcedfaddcf08" alt="寧音 - Shinjuku no Nekomae" width="128px"><br>寧音<br>Shinjuku no Nekomae</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->9,002歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/21554087"><img src="https://m.media-amazon.com/images/I/41j-zLoU7wL._SL500_.jpg" alt="遺伝と平等：人生の成り行きは変えられる" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/1KXYm7HtVNZWFv1qPr4qBr"><img src="https://i.scdn.co/image/ab67616d0000b273c755b8f90b6fd7bb26fb6a30" alt="GOING UNDER GROUND - 望郷東京2020" width="128px"><br>GOING UNDER GROUND<br>望郷東京2020</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
