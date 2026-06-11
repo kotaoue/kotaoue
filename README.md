@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->6月10日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->6月11日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->2,543歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/261070"><img src="https://m.media-amazon.com/images/I/51TNNYJVENL._SL500_.jpg" alt="本朝男色考,男色文献書志: 合本" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/4gkx9Bd1ZyPYZLclUHjp4W"><img src="https://i.scdn.co/image/ab67616d0000b273e6c337ee13d4faac5a710531" alt="眉村ちあき - 東京留守番電話ップ - from「ぎっしり歯ぐき」" width="128px"><br>眉村ちあき<br>東京留守番電話ップ - from「ぎっしり歯ぐき」</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->7,776歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/15774426"><img src="https://m.media-amazon.com/images/I/41637LERcIL._SL500_.jpg" alt="人間知性研究 〈普及版〉: 付・人間本性論摘要" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/5Wk9ycaBwuoQjgvqBseLc7"><img src="https://i.scdn.co/image/ab67616d0000b273cdaa13c28e2a02903171f80c" alt="香取慎吾 - 東京SNG" width="128px"><br>香取慎吾<br>東京SNG</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
