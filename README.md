@@ -30,17 +30,17 @@
 ## 最近のPrivate
 
 <!-- BLOG_ENTRIES_START -->
+- [Claude/Codex+GitHub Copilotで並列処理してた話](https://qiita.com/kotaoue/items/993e880bc8ae9b7d65ef)
+- [Mac + GC551G2 で Switch2の画面を録画する](https://qiita.com/kotaoue/items/30dcb7bc4a4dc9bc9b00)
 - [設計しない、形作る](https://zenn.dev/kotaoue/articles/e24f47411a81ae)
 - [開発の成果物はシステムではなくて対話かもしれない](https://zenn.dev/kotaoue/articles/bb394256763f93)
-- [コードを手放す](https://zenn.dev/kotaoue/articles/4615026369796e)
-- [社内イベントのススメ〜全員参加と任意参加の壁〜](https://zenn.dev/kotaoue/articles/6b004b862b19da)
-- [リーダーはメンバーなの？と悩んだのでみんなに聞いてみた件](https://zenn.dev/kotaoue/articles/41ae57db8573c8)
+- [バギーちゃんが好きだ](https://note.com/kotaoue/n/n412acfeeffb7)
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->6月14日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->6月15日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->8,753歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/8292003"><img src="https://m.media-amazon.com/images/I/41aXtS8PLML._SL500_.jpg" alt="ゼロ・トゥ・ワン 君はゼロから何を生み出せるか" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/7gDB5zDY7IxNmRfrJ9KR8J"><img src="https://i.scdn.co/image/ab67616d0000b2733bffc3038f2ace41272d9952" alt="sakanaction - 「聴きたかったダンスミュージック、リキッドルームに」" width="128px"><br>sakanaction<br>「聴きたかったダンスミュージック、リキッドルームに」</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->2,178歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/9530704"><img src="https://m.media-amazon.com/images/I/31PHrd4t8pL._SL500_.jpg" alt="電脳のレリギオ:ビッグデータ社会で心をつくる" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/0wOkiindak4Dx5e4CuylaP"><img src="https://i.scdn.co/image/ab67616d0000b2733db4c9256f3e6551da2be4b2" alt="Genie High, CHANMINA - 華奢なリップ (feat. ちゃんみな)" width="128px"><br>Genie High, CHANMINA<br>華奢なリップ (feat. ちゃんみな)</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
