@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->6月15日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->6月16日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->2,178歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/9530704"><img src="https://m.media-amazon.com/images/I/31PHrd4t8pL._SL500_.jpg" alt="電脳のレリギオ:ビッグデータ社会で心をつくる" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/0wOkiindak4Dx5e4CuylaP"><img src="https://i.scdn.co/image/ab67616d0000b2733db4c9256f3e6551da2be4b2" alt="Genie High, CHANMINA - 華奢なリップ (feat. ちゃんみな)" width="128px"><br>Genie High, CHANMINA<br>華奢なリップ (feat. ちゃんみな)</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->9,601歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/20714688"><img src="https://m.media-amazon.com/images/I/41pLLbXLe8L._SL500_.jpg" alt="瞬時に「言語化できる人」が、うまくいく。" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/52REKW38QQhVbtyt3MlKn2"><img src="https://i.scdn.co/image/ab67616d0000b2730eefba809223ebad5d233993" alt="Gesu No Kiwami Otome - はしゃぎすぎた街の中で僕は一人遠回りした - 2022 Remaster" width="128px"><br>Gesu No Kiwami Otome<br>はしゃぎすぎた街の中で僕は一人遠回りした - 2022 Remaster</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
