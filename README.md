@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->6月17日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->6月18日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->3,613歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/201313"><img src="https://m.media-amazon.com/images/I/41sXkhfQo3L._SL500_.jpg" alt="非線形な世界" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/07wnhyqcq6VFm2KbKEPHiP"><img src="https://i.scdn.co/image/ab67616d0000b2732c2913bcdf52ecc347878147" alt="ASOBOiSM, AKKOGORILLA, CLR, 理貴 - 自分の機嫌は自分でとる (Remix) (feat. あっこゴリラ ＆ CLR)" width="128px"><br>ASOBOiSM, AKKOGORILLA, CLR, 理貴<br>自分の機嫌は自分でとる (Remix) (feat. あっこゴリラ ＆ CLR)</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->6,357歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/406302"><img src="https://m.media-amazon.com/images/I/41EZMXKV45L._SL500_.jpg" alt="犯罪と猟奇の民俗学 (歴史民俗学資料叢書 第二期)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/3UzDkax1bJES8188zLvtxf"><img src="https://i.scdn.co/image/ab67616d0000b273a6eb7c5574fe486780952a0a" alt="PEOPLE 1 - ラヴ・ソング" width="128px"><br>PEOPLE 1<br>ラヴ・ソング</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
