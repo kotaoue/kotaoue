@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->6月20日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->6月21日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->5,715歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/12352111"><img src="https://m.media-amazon.com/images/I/51i4x1dd4kL._SL500_.jpg" alt="ITエンジニアのための場面別英会話&amp;amp;キーフレーズ" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/2s5HLt5c6RUgE2R2NxINpq"><img src="https://i.scdn.co/image/ab67616d0000b273912a708758bba396bb49ad4f" alt="Hikaru Utada, Nariaki - 丸ノ内サディスティック" width="128px"><br>Hikaru Utada, Nariaki<br>丸ノ内サディスティック</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->15,932歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/562278"><img src="https://m.media-amazon.com/images/I/61YknrI-PYL._SL500_.jpg" alt="レッド・マーズ〈上〉 (創元SF文庫) (創元SF文庫 ロ 1-2)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/5aF3crYDXeVApb0rIvUU8T"><img src="https://i.scdn.co/image/ab67616d0000b2734ccdd32124804d250c046c90" alt="Seiko Oomori - 東京と今日" width="128px"><br>Seiko Oomori<br>東京と今日</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
