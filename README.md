@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->6月25日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->6月26日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->3,110歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/12701245"><img src="https://m.media-amazon.com/images/I/51QtAG+47xL._SL500_.jpg" alt="経済学者、待機児童ゼロに挑む" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/5C13THSjn9MPDk6ieQ1Pwy"><img src="https://i.scdn.co/image/ab67616d0000b273b67c00e585bf27b9c3a2c686" alt="Monkey Majik - Tokyo lights" width="128px"><br>Monkey Majik<br>Tokyo lights</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->5,587歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/18345537"><img src="https://m.media-amazon.com/images/I/41umdmCIC+L._SL500_.jpg" alt="知ってるつもり: 無知の科学 (ハヤカワ文庫 NF 578)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/6yKZZZrl9ifzOz7h33Edjg"><img src="https://i.scdn.co/image/ab67616d0000b273034a28979554efe4702354e8" alt="ASIAN KUNG-FU GENERATION - 解放区 (Album Mix)" width="128px"><br>ASIAN KUNG-FU GENERATION<br>解放区 (Album Mix)</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
