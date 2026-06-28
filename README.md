@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->6月27日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->6月28日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->5,028歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/164866"><img src="https://m.media-amazon.com/images/I/51GAWJ1YSWL._SL500_.jpg" alt="ラクリッツ探偵団: イエロー・ドラゴンのなぞ" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/2rvhDyy4uVYgLMbvZTG9oF"><img src="https://i.scdn.co/image/ab67616d0000b27378a0e50de17439c83c835b8b" alt="Kazuyoshi Saito - 好きな人の手" width="128px"><br>Kazuyoshi Saito<br>好きな人の手</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->8,096歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/1223"><img src="https://m.media-amazon.com/images/I/510dKkyqTXL._SL500_.jpg" alt="禅とオートバイ修理技術 下: 価値の探求 (ハヤカワ文庫 NF 333)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/4Lm22B5awxiMde379nK5ql"><img src="https://i.scdn.co/image/ab67616d0000b273c027ed4f100f92ab6afe88c2" alt="Tempalay - 新世代" width="128px"><br>Tempalay<br>新世代</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
