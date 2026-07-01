@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->6月30日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->7月1日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->9,419歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/12585176"><img src="https://m.media-amazon.com/images/I/51AZIM7hWsL._SL500_.jpg" alt="もっとプログラマ脳を鍛える数学パズル アルゴリズムが脳にしみ込む70問" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/4owEY8yexqRlbWbhKjXn8X"><img src="https://i.scdn.co/image/ab67616d0000b273497c8f439f153e90f7eac4a3" alt="Urbangarde - 東京生まれ" width="128px"><br>Urbangarde<br>東京生まれ</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->5,977歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/83952"><img src="https://m.media-amazon.com/images/I/51nhtOKjxFL._SL500_.jpg" alt="南方熊楠男色談義: 岩田準一往復書簡" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/4NB8NwHewxGOPgjThiBnP0"><img src="https://i.scdn.co/image/ab67616d0000b2738fa4b8aed5220d1edd0bab1b" alt="YELLOW MAGIC ORCHESTRA, 吉沢典夫 - TECHNOPOLIS" width="128px"><br>YELLOW MAGIC ORCHESTRA, 吉沢典夫<br>TECHNOPOLIS</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
