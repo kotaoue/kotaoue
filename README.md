@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->7月3日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->7月4日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->7,800歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/20534589"><img src="https://m.media-amazon.com/images/I/51l+fMppTCL._SL500_.jpg" alt="欲望の見つけ方: お金・恋愛・キャリア" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/07b2dDaEY9o09YSMl2vPZu"><img src="https://i.scdn.co/image/ab67616d0000b273e105331c17e07facaa221e94" alt="Hibari Misora - 東京新地図" width="128px"><br>Hibari Misora<br>東京新地図</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->6,078歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/21833923"><img src="https://m.media-amazon.com/images/I/417yFDqjEkL._SL500_.jpg" alt="ポリティカル・スキル 人と組織を思い通りに動かす技術" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/7gDB5zDY7IxNmRfrJ9KR8J"><img src="https://i.scdn.co/image/ab67616d0000b2733bffc3038f2ace41272d9952" alt="sakanaction - 「聴きたかったダンスミュージック、リキッドルームに」" width="128px"><br>sakanaction<br>「聴きたかったダンスミュージック、リキッドルームに」</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
