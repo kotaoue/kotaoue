@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->7月4日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->7月5日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->6,078歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/21833923"><img src="https://m.media-amazon.com/images/I/417yFDqjEkL._SL500_.jpg" alt="ポリティカル・スキル 人と組織を思い通りに動かす技術" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/7gDB5zDY7IxNmRfrJ9KR8J"><img src="https://i.scdn.co/image/ab67616d0000b2733bffc3038f2ace41272d9952" alt="sakanaction - 「聴きたかったダンスミュージック、リキッドルームに」" width="128px"><br>sakanaction<br>「聴きたかったダンスミュージック、リキッドルームに」</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->12,085歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/13640724"><img src="https://m.media-amazon.com/images/I/41HXMOaMqnL._SL500_.jpg" alt="人間本性論 第1巻〈普及版〉: 知性について" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/3FIquXR4UGd6raaJFuNsu5"><img src="https://i.scdn.co/image/ab67616d0000b273189e72a9dea525747b4d448a" alt="Matt Cab, MIYACHI - Famima Rap" width="128px"><br>Matt Cab, MIYACHI<br>Famima Rap</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
