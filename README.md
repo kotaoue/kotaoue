@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->7月7日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->7月8日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->5,290歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/18592242"><img src="https://m.media-amazon.com/images/I/51CFEpdsRHL._SL500_.jpg" alt="あてはめるだけで“すぐ&amp;quot;伝わる 説明組み立て図鑑" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/3pmeaobtDh2hEUBqVIQDWG"><img src="https://i.scdn.co/image/ab67616d0000b273e6837ae2096b89a3824ef047" alt="Shikao Suga - TOKYO LIFE" width="128px"><br>Shikao Suga<br>TOKYO LIFE</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->7,540歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/21527123"><img src="https://m.media-amazon.com/images/I/31AJBZcVwbL._SL500_.jpg" alt="「論理的思考」の文化的基盤 4つの思考表現スタイル" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/1ByfYtYNhk1RfM4lfHMPog"><img src="https://i.scdn.co/image/ab67616d0000b273f87dcc664cac6aa0ae998d38" alt="suisoh, 人間合格 - 23時の断捨離" width="128px"><br>suisoh, 人間合格<br>23時の断捨離</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
