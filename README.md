@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->7月8日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->7月9日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->7,540歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/21527123"><img src="https://m.media-amazon.com/images/I/31AJBZcVwbL._SL500_.jpg" alt="「論理的思考」の文化的基盤 4つの思考表現スタイル" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/1ByfYtYNhk1RfM4lfHMPog"><img src="https://i.scdn.co/image/ab67616d0000b273f87dcc664cac6aa0ae998d38" alt="suisoh, 人間合格 - 23時の断捨離" width="128px"><br>suisoh, 人間合格<br>23時の断捨離</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->8,482歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/46429"><img src="https://m.media-amazon.com/images/I/51n4Kgn+DuL._SL500_.jpg" alt="ポケットの中の野生: ポケモンと子ども (新潮文庫 な 23-2)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/4RrtNfGRiyK7L0x3Z1LANS"><img src="https://i.scdn.co/image/ab67616d0000b273f06776c3b7a1002fa0f6acbe" alt="YUI - TOKYO" width="128px"><br>YUI<br>TOKYO</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
