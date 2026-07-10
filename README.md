@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->7月9日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->7月10日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->8,482歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/46429"><img src="https://m.media-amazon.com/images/I/51n4Kgn+DuL._SL500_.jpg" alt="ポケットの中の野生: ポケモンと子ども (新潮文庫 な 23-2)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/4RrtNfGRiyK7L0x3Z1LANS"><img src="https://i.scdn.co/image/ab67616d0000b273f06776c3b7a1002fa0f6acbe" alt="YUI - TOKYO" width="128px"><br>YUI<br>TOKYO</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->5,918歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/518225"><img src="https://m.media-amazon.com/images/I/41ayyXCXUfL._SL500_.jpg" alt="REMIX ハイブリッド経済で栄える文化と商業のあり方" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/4AKpmcamaCKneLwm9uEdBK"><img src="https://i.scdn.co/image/ab67616d0000b27306df440172aa6315023b4ce5" alt="Novel Core, Hina - 天気雨 - feat. Hina (from FAKY)" width="128px"><br>Novel Core, Hina<br>天気雨 - feat. Hina (from FAKY)</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
