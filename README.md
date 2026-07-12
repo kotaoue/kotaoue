@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->7月11日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->7月12日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->10,372歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/532368"><img src="https://m.media-amazon.com/images/I/416HrmSpJSL._SL500_.jpg" alt="コミュニティを問いなおす―つながり・都市・日本社会の未来 (ちくま新書) (ちくま新書 800)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/5tWepSTF1g3SuhNBaIikeP"><img src="https://i.scdn.co/image/ab67616d0000b273fc7589b9acf9ccce938cb731" alt="Mr.Children - turn over?" width="128px"><br>Mr.Children<br>turn over?</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->3,265歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/63294"><img src="https://m.media-amazon.com/images/I/41Pst+gMl7L._SL500_.jpg" alt="問題解決の全体観 下巻 ソフト思考編" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/0yi6GDEryZh7vjEO3M96fB"><img src="https://i.scdn.co/image/ab67616d0000b27369ded81cafb8494fd4a867e2" alt="EDOGA-SULLIVAN - Fight at Tokio" width="128px"><br>EDOGA-SULLIVAN<br>Fight at Tokio</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
