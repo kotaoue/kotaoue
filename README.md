@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->7月12日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->7月13日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->3,265歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/63294"><img src="https://m.media-amazon.com/images/I/41Pst+gMl7L._SL500_.jpg" alt="問題解決の全体観 下巻 ソフト思考編" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/0yi6GDEryZh7vjEO3M96fB"><img src="https://i.scdn.co/image/ab67616d0000b27369ded81cafb8494fd4a867e2" alt="EDOGA-SULLIVAN - Fight at Tokio" width="128px"><br>EDOGA-SULLIVAN<br>Fight at Tokio</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->7,477歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/6745241"><img src="https://m.media-amazon.com/images/I/41yksQ9rKhL._SL500_.jpg" alt="グロービス流 キャリアをつくる技術と戦略" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/4PfVeeAi7n8eOt8CbW8tfy"><img src="https://i.scdn.co/image/ab67616d0000b27359bc645e193e5ce0f75219a4" alt="WurtS - SF東京" width="128px"><br>WurtS<br>SF東京</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
