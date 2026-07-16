@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->7月15日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->7月16日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->3,075歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/18345537"><img src="https://m.media-amazon.com/images/I/41umdmCIC+L._SL500_.jpg" alt="知ってるつもり: 無知の科学 (ハヤカワ文庫 NF 578)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/1FRP03YglENZefbw9Ozdbh"><img src="https://i.scdn.co/image/ab67616d0000b273ea32da22089ff3dc97b2d086" alt="Eikichi Yazawa - 都会の風よ" width="128px"><br>Eikichi Yazawa<br>都会の風よ</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->6,845歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/1581070"><img src="https://m.media-amazon.com/images/I/51DpTIDVMPL._SL500_.jpg" alt="1960年5月19日 (1960年) (岩波新書)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/2CPNq7CuypOJ4LjvClPZXW"><img src="https://i.scdn.co/image/ab67616d0000b2734de9c9f3dc89ee2c84576a43" alt="Hanako Oku - 東京暮らし" width="128px"><br>Hanako Oku<br>東京暮らし</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
