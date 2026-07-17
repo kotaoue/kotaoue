@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->7月16日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->7月17日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->6,845歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/1581070"><img src="https://m.media-amazon.com/images/I/51DpTIDVMPL._SL500_.jpg" alt="1960年5月19日 (1960年) (岩波新書)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/2CPNq7CuypOJ4LjvClPZXW"><img src="https://i.scdn.co/image/ab67616d0000b2734de9c9f3dc89ee2c84576a43" alt="Hanako Oku - 東京暮らし" width="128px"><br>Hanako Oku<br>東京暮らし</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->8,037歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/28094"><img src="https://m.media-amazon.com/images/I/51AysaMiZwL._SL500_.jpg" alt="SQLパズル 第2版~プログラミングが変わる書き方/考え方" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/3PALX6sTfF3bfOEjXTeTKS"><img src="https://i.scdn.co/image/ab67616d0000b273c582cd5caf3ae055ed9584bc" alt="TOKYO RAVE GROUPIE - Love is" width="128px"><br>TOKYO RAVE GROUPIE<br>Love is</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
