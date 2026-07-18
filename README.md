@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->7月17日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->7月18日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->8,037歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/28094"><img src="https://m.media-amazon.com/images/I/51AysaMiZwL._SL500_.jpg" alt="SQLパズル 第2版~プログラミングが変わる書き方/考え方" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/3PALX6sTfF3bfOEjXTeTKS"><img src="https://i.scdn.co/image/ab67616d0000b273c582cd5caf3ae055ed9584bc" alt="TOKYO RAVE GROUPIE - Love is" width="128px"><br>TOKYO RAVE GROUPIE<br>Love is</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->8,603歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/13894309"><img src="https://m.media-amazon.com/images/I/51sdYOS0khL._SL500_.jpg" alt="文豪たちの悪口本" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/0ELVtIKNOv6IMSnitffmkA"><img src="https://i.scdn.co/image/ab67616d0000b2735231b3996b8d512ce8de2d67" alt="絶対忘れるな - まさか覚えててくれたなんて！" width="128px"><br>絶対忘れるな<br>まさか覚えててくれたなんて！</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
