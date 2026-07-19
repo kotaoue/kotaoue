@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->7月18日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->7月19日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->8,603歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/13894309"><img src="https://m.media-amazon.com/images/I/51sdYOS0khL._SL500_.jpg" alt="文豪たちの悪口本" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/0ELVtIKNOv6IMSnitffmkA"><img src="https://i.scdn.co/image/ab67616d0000b2735231b3996b8d512ce8de2d67" alt="絶対忘れるな - まさか覚えててくれたなんて！" width="128px"><br>絶対忘れるな<br>まさか覚えててくれたなんて！</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->12,725歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/11001230"><img src="https://img.bookmeter.com/book_image/SL300/137/1462172579871541.jpg" alt="アジャイルコーチの道具箱 – 見える化実例集" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/2t3YUJ5kGsjrgYkagE0Pib"><img src="https://i.scdn.co/image/ab67616d0000b273c01f3a9dfd36d35f8b1a22a2" alt="小松未歩 - 東京日和" width="128px"><br>小松未歩<br>東京日和</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
