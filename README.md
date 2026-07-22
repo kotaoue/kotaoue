@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->7月21日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->7月22日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->4,735歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/22001759"><img src="https://m.media-amazon.com/images/I/41622qhJrsL._SL500_.jpg" alt="「性格が悪い」とはどういうことか　――ダークサイドの心理学 (ちくま新書 １８０６)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/5Wt7SlCc5VkhSi3xL8XmnE"><img src="https://i.scdn.co/image/ab67616d0000b2733258408f37a2b288d849f834" alt="山口琥珀 - インスタント人間" width="128px"><br>山口琥珀<br>インスタント人間</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->1,308歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/14532232"><img src="https://m.media-amazon.com/images/I/41308n-A6hL._SL500_.jpg" alt="他者と働く──「わかりあえなさ」から始める組織論" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/7zdzhDD4v7dryJn68bn4GH"><img src="https://i.scdn.co/image/ab67616d0000b2735ee78302fe48134795016cbf" alt="Kenshi Yonezu - ナンバーナイン" width="128px"><br>Kenshi Yonezu<br>ナンバーナイン</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
