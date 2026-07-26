@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->7月25日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->7月26日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->13,325歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/21348803"><img src="https://m.media-amazon.com/images/I/41txv1B43wL._SL500_.jpg" alt="ニューメディアの言語　――デジタル時代のアート、デザイン、映画 (ちくま学芸文庫 マ-51-1)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/2KumdKpm0yjK6DX8Q7L02T"><img src="https://i.scdn.co/image/ab67616d0000b273e105331c17e07facaa221e94" alt="Hibari Misora - 東京タワー" width="128px"><br>Hibari Misora<br>東京タワー</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->6,880歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/568863"><img src="https://m.media-amazon.com/images/I/516hqZiFPSL._SL500_.jpg" alt="アイの物語 (角川文庫)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/0viNHqrS9gdIY0Qh0VJGJY"><img src="https://i.scdn.co/image/ab67616d0000b273c1b670fefe19246c22c19253" alt="Iruka - なごり雪 （シングルバージョン）" width="128px"><br>Iruka<br>なごり雪 （シングルバージョン）</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
