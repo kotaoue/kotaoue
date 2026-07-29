@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->7月28日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->7月29日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->4,005歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/13089584"><img src="https://m.media-amazon.com/images/I/31fwUoqy3JL._SL500_.jpg" alt="つながっているのに孤独 人生を豊かにするはずのインターネットの正体" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/3P0vDhl2QZEkVFFtvqkIn0"><img src="https://i.scdn.co/image/ab67616d0000b273b01c60617b314eda92263ec1" alt="KM, Lil&#39; Leise But Gold - Leave (feat. Lil&#39; Leise But Gold)" width="128px"><br>KM, Lil&#39; Leise But Gold<br>Leave (feat. Lil&#39; Leise But Gold)</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->6,051歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/12848099"><img src="https://m.media-amazon.com/images/I/41DEztQ+JJL._SL500_.jpg" alt="好き嫌い―行動科学最大の謎―" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/7KugkTsNGHRmv09dSA3XaO"><img src="https://i.scdn.co/image/ab67616d0000b273cd4b6eda9c2ec23af827d20b" alt="メガネブラザース - 通りを行く" width="128px"><br>メガネブラザース<br>通りを行く</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
