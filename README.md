@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->8月4日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->8月5日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->3,584歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/11001230"><img src="https://img.bookmeter.com/book_image/SL300/137/1462172579871541.jpg" alt="アジャイルコーチの道具箱 – 見える化実例集" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/5WxqtZuBcjDZpvW2m49Jvc"><img src="https://i.scdn.co/image/ab67616d0000b2736bfef215bdf3c9d9474cd78c" alt="Aki Yashiro - 東京音頭" width="128px"><br>Aki Yashiro<br>東京音頭</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->13,046歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/496768"><img src="https://m.media-amazon.com/images/I/41NCpx1PNKL._SL500_.jpg" alt="弓と禅" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/3tL2fCJDegsWrsCZEZTf82"><img src="https://i.scdn.co/image/ab67616d0000b2736976b682009571f6a4e29863" alt="yonawo, Skaai, Mamiko Suzuki - tokyo (feat. 鈴木真海子, Skaai)" width="128px"><br>yonawo, Skaai, Mamiko Suzuki<br>tokyo (feat. 鈴木真海子, Skaai)</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
