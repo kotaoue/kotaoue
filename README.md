@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->8月12日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->8月13日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->8,192歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/19779750"><img src="https://m.media-amazon.com/images/I/21C2cHWcFZL._SL500_.jpg" alt="死刑について" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/465Vp1KbnHSUdeDivbjDKB"><img src="https://i.scdn.co/image/ab67616d0000b27357500ae0cbd1f5f8261ec2e5" alt="Tsuyoshi Nagabuchi - 東京" width="128px"><br>Tsuyoshi Nagabuchi<br>東京</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->6,066歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/31352"><img src="https://m.media-amazon.com/images/I/41Nu2FHLZPL._SL500_.jpg" alt="モジュール化―新しい産業アーキテクチャの本質 (経済産業研究所・経済政策レビュー)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/4laVQGBQTbEzEB4Nu5K9RC"><img src="https://i.scdn.co/image/ab67616d0000b273d7965c8fbfcd0d2f2810ebcc" alt="JAM Project - Everything" width="128px"><br>JAM Project<br>Everything</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
