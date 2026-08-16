@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->8月15日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->8月16日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->8,336歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/363710"><img src="https://m.media-amazon.com/images/I/31BcInV4ECL._SL500_.jpg" alt="日本の近代 猪瀬直樹著作集6 土地の神話 (第6巻) (日本の近代猪瀬直樹著作集 6)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/7Bblq2pqoOO0ZiUvXnnAgD"><img src="https://i.scdn.co/image/ab67616d0000b27381f5d4e72eb3319faa4bcf9e" alt="Kohjiya, Shurkn Pap, MUD - Love Me" width="128px"><br>Kohjiya, Shurkn Pap, MUD<br>Love Me</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->7,887歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/488990"><img src="https://m.media-amazon.com/images/I/51ntcrdX0nL._SL500_.jpg" alt="ユートピアだより (岩波文庫 白 201-1)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/0bwwuOZT6pUeSbmep11qjx"><img src="https://i.scdn.co/image/ab67616d0000b2735ad5a02e7c90033b317524a2" alt="Keiichi Sokabe - ギター" width="128px"><br>Keiichi Sokabe<br>ギター</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
