@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->8月18日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->8月19日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->15,764歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/11608"><img src="https://m.media-amazon.com/images/I/51KglL0uJ1L._SL500_.jpg" alt="昭和電車少年 (ちくま文庫 し 5-5)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/25s5YPTxUCYiAdH1YdnSds"><img src="https://i.scdn.co/image/ab67616d0000b273877fa05249d8dc19383482fb" alt="ORANGE RANGE - KONNICHIWA東京" width="128px"><br>ORANGE RANGE<br>KONNICHIWA東京</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->11,314歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/416186"><img src="https://m.media-amazon.com/images/I/41TXMrK-5oL._SL500_.jpg" alt="ためらいの倫理学―戦争・性・物語" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/5Y86nbd9MhdBsNxaXr8YXa"><img src="https://i.scdn.co/image/ab67616d0000b2738e72b0c1be5a8e5c75969318" alt="PM Kenobi - CHIYODA LINE" width="128px"><br>PM Kenobi<br>CHIYODA LINE</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
