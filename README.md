@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->8月23日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->8月24日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->13,437歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/86967"><img src="https://m.media-amazon.com/images/I/4138ZblP5iL._SL500_.jpg" alt="論理と会話" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/42JbHwe6Ah0pE1AKTl0wky"><img src="https://i.scdn.co/image/ab67616d0000b273c7f038f9408ce059d3eede40" alt="CRCK/LCKS - O.K." width="128px"><br>CRCK/LCKS<br>O.K.</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->4,888歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/357131"><img src="https://m.media-amazon.com/images/I/41n8AZtn9RL._SL500_.jpg" alt="ドキュメント・コミュニケーションの全体観 上巻 原則と手順" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/1nFAXtEW47rwNFcjFP5yQr"><img src="https://i.scdn.co/image/ab67616d0000b27347e8760581d4d7bb6ab4aec8" alt="Yujiro Ishihara, 牧村旬子 - 銀座の恋の物語" width="128px"><br>Yujiro Ishihara, 牧村旬子<br>銀座の恋の物語</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
