@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->8月24日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->8月25日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->4,888歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/357131"><img src="https://m.media-amazon.com/images/I/41n8AZtn9RL._SL500_.jpg" alt="ドキュメント・コミュニケーションの全体観 上巻 原則と手順" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/1nFAXtEW47rwNFcjFP5yQr"><img src="https://i.scdn.co/image/ab67616d0000b27347e8760581d4d7bb6ab4aec8" alt="Yujiro Ishihara, 牧村旬子 - 銀座の恋の物語" width="128px"><br>Yujiro Ishihara, 牧村旬子<br>銀座の恋の物語</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->3,092歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/652407"><img src="https://m.media-amazon.com/images/I/41eZvryYi7L._SL500_.jpg" alt="マルドゥック・スクランブル〈改訂新版〉" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/1jNr4Z7S8V1o9TByrcEHej"><img src="https://i.scdn.co/image/ab67616d0000b273f90bf3602eebcdb4d7230d7c" alt="TANAKA ALICE - TOKYO GIRL" width="128px"><br>TANAKA ALICE<br>TOKYO GIRL</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
