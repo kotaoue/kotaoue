@@ -52,7 +52,7 @@
 | 5月 | - | - |
 | 6月 | - | - |
 | 7月 | - | - |
-| 8月 | - | - |
+| 8月 | [若者のすべて(2015 Live at 日比谷野音)](https://open.spotify.com/intl-ja/track/030RUmWx4CjkFCzrZMsZLy?si=f2ef199bdcd84d32) | フジファブリック |
 | 9月 | - | - |
 | 10月 | - | - |
 | 11月 | - | - |
