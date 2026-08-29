@@ -48,7 +48,7 @@
 
 | 月 | タイトル | アーティスト |
 | -- | -- | -- |
-| 4月 | - | - |
+| 4月 | [春の歌](https://open.spotify.com/intl-ja/track/4F0m8AWIgR7SK6GyvPsPpc?si=44af16aa5c534dff) | スピッツ |
 | 5月 | - | - |
 | 6月 | - | - |
 | 7月 | - | - |
