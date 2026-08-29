@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->8月28日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->8月29日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->1,053歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/568494"><img src="https://m.media-amazon.com/images/I/51VV26ZRsJL._SL500_.jpg" alt="ハイペリオン (上) (ハヤカワ文庫 SF シ 12-1)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/5xagm91AnaxMLmpcQ1NRBp"><img src="https://i.scdn.co/image/ab67616d0000b2737566ae4b92b6ce0385731eec" alt="山内総一郎 - あとがき" width="128px"><br>山内総一郎<br>あとがき</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->3,581歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/4120596"><img src="https://m.media-amazon.com/images/I/51PhC7yjFRL._SL500_.jpg" alt="一億人の英文法 ――すべての日本人に贈る「話すため」の英文法（東進ブックス）" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/5g8sL2a0paID0eQWIgXbbq"><img src="https://i.scdn.co/image/ab67616d0000b2736a9b4e23ec175dcd6166a308" alt="Soutaiseiriron - 帝都モダン" width="128px"><br>Soutaiseiriron<br>帝都モダン</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
