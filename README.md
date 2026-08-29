@@ -49,7 +49,7 @@
 | 月 | タイトル | アーティスト |
 | -- | -- | -- |
 | 4月 | [春の歌](https://open.spotify.com/intl-ja/track/4F0m8AWIgR7SK6GyvPsPpc?si=44af16aa5c534dff) | スピッツ |
-| 5月 | - | - |
+| 5月 | [ファイト！](https://open.spotify.com/intl-ja/track/2xblwpz5LEmOaS3jdKScpH?si=1f2cb9c84942473f) | 中島みゆき |
 | 6月 | - | - |
 | 7月 | - | - |
 | 8月 | [若者のすべて(2015 Live at 日比谷野音)](https://open.spotify.com/intl-ja/track/030RUmWx4CjkFCzrZMsZLy?si=f2ef199bdcd84d32) | フジファブリック |
