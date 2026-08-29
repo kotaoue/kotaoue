@@ -55,7 +55,7 @@
 | 8月 | [若者のすべて(2015 Live at 日比谷野音)](https://open.spotify.com/intl-ja/track/030RUmWx4CjkFCzrZMsZLy?si=f2ef199bdcd84d32) | フジファブリック |
 | 9月 | [黄金の月 S](https://open.spotify.com/intl-ja/track/2z3PFbz3K1IzHSyHgJTZmf?si=54590082ef1b4956) | スガ シカオ |
 | 10月 | [夜空ノムコウ S](https://open.spotify.com/intl-ja/track/6b9cGheFmYVhGgJvESHhIc?si=c19f726dd6224234) | スガ シカオ |
-| 11月 | - | - |
+| 11月 | [枯葉](https://open.spotify.com/intl-ja/track/326j0QKIywNeP84HU6yheM?si=e0a39448aa6e4ebc) | 八代亜紀 |
 | 12月 | - | - |
 | 1月 | - | - |
 | 2月 | - | - |
