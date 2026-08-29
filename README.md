@@ -56,7 +56,7 @@
 | 9月 | [黄金の月 S](https://open.spotify.com/intl-ja/track/2z3PFbz3K1IzHSyHgJTZmf?si=54590082ef1b4956) | スガ シカオ |
 | 10月 | [夜空ノムコウ S](https://open.spotify.com/intl-ja/track/6b9cGheFmYVhGgJvESHhIc?si=c19f726dd6224234) | スガ シカオ |
 | 11月 | [枯葉](https://open.spotify.com/intl-ja/track/326j0QKIywNeP84HU6yheM?si=e0a39448aa6e4ebc) | 八代亜紀 |
-| 12月 | - | - |
+| 12月 | [雪の華](https://open.spotify.com/intl-ja/track/6Zyizxfz4NXdCgVLwhuBNw?si=185d924b34e640f5) | 中島美嘉 |
 | 1月 | - | - |
 | 2月 | - | - |
 | 3月 | [Play A Love Song](https://open.spotify.com/intl-ja/track/4CBNW5OBfgfo1muPh3yeJc?si=efd7d1e398ed47df) | 宇多田ヒカル |
