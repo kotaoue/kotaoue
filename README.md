@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->8月27日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->8月28日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->3,835歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/22193236"><img src="https://m.media-amazon.com/images/I/51zEQ+xAa+L._SL500_.jpg" alt="書くスキルも設計スキルも飛躍的に上がる！ プログラムを読む技術" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/1YXVI7OLBcPh9RURYeZVio"><img src="https://i.scdn.co/image/ab67616d0000b2732e48476ca5deb5d97219b1f7" alt="(sic)boy, KM - 走馬灯" width="128px"><br>(sic)boy, KM<br>走馬灯</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->1,053歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/568494"><img src="https://m.media-amazon.com/images/I/51VV26ZRsJL._SL500_.jpg" alt="ハイペリオン (上) (ハヤカワ文庫 SF シ 12-1)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/5xagm91AnaxMLmpcQ1NRBp"><img src="https://i.scdn.co/image/ab67616d0000b2737566ae4b92b6ce0385731eec" alt="山内総一郎 - あとがき" width="128px"><br>山内総一郎<br>あとがき</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
