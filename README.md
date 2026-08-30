@@ -58,7 +58,7 @@
 | 11月 | [枯葉](https://open.spotify.com/intl-ja/track/326j0QKIywNeP84HU6yheM?si=e0a39448aa6e4ebc) | 八代亜紀 |
 | 12月 | [雪の華](https://open.spotify.com/intl-ja/track/6Zyizxfz4NXdCgVLwhuBNw?si=185d924b34e640f5) | 中島美嘉 |
 | 1月 | [DEPARTURES (RADIO EDIT)](https://open.spotify.com/intl-ja/track/2ggw0Py9eptisSvB1xkgkc?si=660f141f0bf54550) | globe |
-| 2月 | - | - |
+| 2月 | [winter fall](https://open.spotify.com/intl-ja/track/5BbvgKyzLhfDd1tWyIZOfT?si=3eb203638c944f57) | L'Arc〜en〜Ciel |
 | 3月 | [Play A Love Song](https://open.spotify.com/intl-ja/track/4CBNW5OBfgfo1muPh3yeJc?si=efd7d1e398ed47df) | 宇多田ヒカル |
 
 ---
