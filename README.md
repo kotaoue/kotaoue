@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->8月29日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->8月30日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->3,581歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/4120596"><img src="https://m.media-amazon.com/images/I/51PhC7yjFRL._SL500_.jpg" alt="一億人の英文法 ――すべての日本人に贈る「話すため」の英文法（東進ブックス）" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/5g8sL2a0paID0eQWIgXbbq"><img src="https://i.scdn.co/image/ab67616d0000b2736a9b4e23ec175dcd6166a308" alt="Soutaiseiriron - 帝都モダン" width="128px"><br>Soutaiseiriron<br>帝都モダン</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->14,078歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/357131"><img src="https://m.media-amazon.com/images/I/41n8AZtn9RL._SL500_.jpg" alt="ドキュメント・コミュニケーションの全体観 上巻 原則と手順" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/0xIQiqd392vIsDX8n6Q9yq"><img src="https://i.scdn.co/image/ab67616d0000b273825cacd7ea7be7d5814254db" alt="RYUSENKEI - TOKYO SNIPER" width="128px"><br>RYUSENKEI<br>TOKYO SNIPER</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
