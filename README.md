@@ -50,7 +50,7 @@
 | -- | -- | -- |
 | 4月 | [春の歌](https://open.spotify.com/intl-ja/track/4F0m8AWIgR7SK6GyvPsPpc?si=44af16aa5c534dff) | スピッツ |
 | 5月 | [ファイト！](https://open.spotify.com/intl-ja/track/2xblwpz5LEmOaS3jdKScpH?si=1f2cb9c84942473f) | 中島みゆき |
-| 6月 | - | - |
+| 6月 | [ばらの花(Live ver.)](https://open.spotify.com/intl-ja/track/5GXL8LfagmtzIG9iNBwOMX?si=d8f75b3bb8db48e0) | くるり |
 | 7月 | [ラッキープール](https://open.spotify.com/intl-ja/track/2rx06NRML56NhV98cB3Wy5?si=ec2988f500914136) | JUDY AND MARY |
 | 8月 | [若者のすべて(2015 Live at 日比谷野音)](https://open.spotify.com/intl-ja/track/030RUmWx4CjkFCzrZMsZLy?si=f2ef199bdcd84d32) | フジファブリック |
 | 9月 | [黄金の月 S](https://open.spotify.com/intl-ja/track/2z3PFbz3K1IzHSyHgJTZmf?si=54590082ef1b4956) | スガ シカオ |
