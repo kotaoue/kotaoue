@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->9月1日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->9月2日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->5,596歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/19682075"><img src="https://m.media-amazon.com/images/I/4116X0H+05L._SL500_.jpg" alt="カオスエンジニアリング ―回復力のあるシステムの実践" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/4yTU8B9uMozXS1pgu6LDNU"><img src="https://i.scdn.co/image/ab67616d0000b2734fd1255278203b91c84c590c" alt="RHYMESTER - 東京、東京" width="128px"><br>RHYMESTER<br>東京、東京</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->4,234歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/4327758"><img src="https://m.media-amazon.com/images/I/51Bxx5EwUFL._SL500_.jpg" alt="アイデアの99% ―― 「1%のひらめき」を形にする3つの力" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/7Bblq2pqoOO0ZiUvXnnAgD"><img src="https://i.scdn.co/image/ab67616d0000b27381f5d4e72eb3319faa4bcf9e" alt="Kohjiya, Shurkn Pap, MUD - Love Me" width="128px"><br>Kohjiya, Shurkn Pap, MUD<br>Love Me</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
