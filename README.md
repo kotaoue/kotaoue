@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->9月3日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->9月4日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->8,541歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/8129143"><img src="https://m.media-amazon.com/images/I/412qYLe5q+L._SL500_.jpg" alt="テクニウム――テクノロジーはどこへ向かうのか?" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/5FUZuEMDV2KKM9RDLaTUYI"><img src="https://i.scdn.co/image/ab67616d0000b27354b0bb61e32b80a5eade5196" alt="Tsuyoshi Nagabuchi - JEEP" width="128px"><br>Tsuyoshi Nagabuchi<br>JEEP</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->10,647歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/564392"><img src="https://m.media-amazon.com/images/I/41eu4KCPEqL._SL500_.jpg" alt="情報の文明学 (中公叢書)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/36SdgVM7StvKU37FHABDKl"><img src="https://i.scdn.co/image/ab67616d0000b2739c60ba49ea8bcd17cad888f3" alt="Yasuyuki Okamura - カルアミルク" width="128px"><br>Yasuyuki Okamura<br>カルアミルク</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
