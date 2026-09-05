@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->9月4日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->9月5日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->10,647歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/564392"><img src="https://m.media-amazon.com/images/I/41eu4KCPEqL._SL500_.jpg" alt="情報の文明学 (中公叢書)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/36SdgVM7StvKU37FHABDKl"><img src="https://i.scdn.co/image/ab67616d0000b2739c60ba49ea8bcd17cad888f3" alt="Yasuyuki Okamura - カルアミルク" width="128px"><br>Yasuyuki Okamura<br>カルアミルク</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->8,235歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/21554087"><img src="https://m.media-amazon.com/images/I/41j-zLoU7wL._SL500_.jpg" alt="遺伝と平等：人生の成り行きは変えられる" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/31rVXlcqmCD0HPKW4JPR2R"><img src="https://i.scdn.co/image/ab67616d0000b273dd3e01d8c75ba2862aed8784" alt="seta - 東京かわい区想像通り feat.いつか" width="128px"><br>seta<br>東京かわい区想像通り feat.いつか</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
