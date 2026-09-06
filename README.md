@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->9月5日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->9月6日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->8,235歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/21554087"><img src="https://m.media-amazon.com/images/I/41j-zLoU7wL._SL500_.jpg" alt="遺伝と平等：人生の成り行きは変えられる" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/31rVXlcqmCD0HPKW4JPR2R"><img src="https://i.scdn.co/image/ab67616d0000b273dd3e01d8c75ba2862aed8784" alt="seta - 東京かわい区想像通り feat.いつか" width="128px"><br>seta<br>東京かわい区想像通り feat.いつか</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->9,680歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/83952"><img src="https://m.media-amazon.com/images/I/51nhtOKjxFL._SL500_.jpg" alt="南方熊楠男色談義: 岩田準一往復書簡" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/3YWxrojsLQeNjEyX68ks5B"><img src="https://i.scdn.co/image/ab67616d0000b273ffea8c2c9580dafb3dc149c3" alt="THE KIMINIHANASUYO - 少年ジャンプデストラクション" width="128px"><br>THE KIMINIHANASUYO<br>少年ジャンプデストラクション</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
