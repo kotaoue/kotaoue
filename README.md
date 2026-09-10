@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->9月9日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->9月10日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->7,015歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/4607229"><img src="https://m.media-amazon.com/images/I/514kHLUN+cL._SL500_.jpg" alt="文庫　銃・病原菌・鉄　（上）　1万3000年にわたる人類史の謎 (草思社文庫 ダ 1-1)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/16TMTZOtthDkLuSo1WTIFv"><img src="https://i.scdn.co/image/ab67616d0000b273a06a6a7d14d4acc4ee85cd91" alt="Nogizaka46 - 意外BREAK" width="128px"><br>Nogizaka46<br>意外BREAK</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->5,358歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/236474"><img src="https://m.media-amazon.com/images/I/41ULcldgcYL._SL500_.jpg" alt="クィア・サイエンス: 同性愛をめぐる科学言説の変遷" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/0HaMYrtavsmbMlFg2azXlD"><img src="https://i.scdn.co/image/ab67616d0000b2730b61e1586aae9a108717afb8" alt="Asako Toki - Rendez-vous in &#39;58 - sings with Bakarhythm" width="128px"><br>Asako Toki<br>Rendez-vous in &#39;58 - sings with Bakarhythm</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
