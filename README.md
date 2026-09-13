@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->9月12日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->9月13日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->11,422歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/5427"><img src="https://m.media-amazon.com/images/I/51UTmqBzJmL._SL500_.jpg" alt="「イノセンス」 METHODS 押井守演出ノート" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/76cKcQvv7qHcia4sDwLer8"><img src="https://i.scdn.co/image/ab67616d0000b27340cab3ebc1c6bfc8b13e8a2c" alt="Kanpei Hazama - 東京に魂を売った男" width="128px"><br>Kanpei Hazama<br>東京に魂を売った男</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->12,946歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/21226017"><img src="https://m.media-amazon.com/images/I/41jPLC8iNsL._SL500_.jpg" alt="ソフトウェア設計のトレードオフと誤り ―プログラミングの際により良い選択をするには" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/1Gf9NDgjr3ThPDXXzbQYgS"><img src="https://i.scdn.co/image/ab67616d0000b273d7965c8fbfcd0d2f2810ebcc" alt="JAM Project - TOKYO DIVE" width="128px"><br>JAM Project<br>TOKYO DIVE</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
