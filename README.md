@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->9月14日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->9月15日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->11,244歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/46429"><img src="https://m.media-amazon.com/images/I/51n4Kgn+DuL._SL500_.jpg" alt="ポケットの中の野生: ポケモンと子ども (新潮文庫 な 23-2)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/4bBA2BdY0mSWib0MnO700E"><img src="https://i.scdn.co/image/ab67616d0000b273fa3fda210802636da8c7ba6e" alt="ジューシィ・フルーツ - 二人の東京" width="128px"><br>ジューシィ・フルーツ<br>二人の東京</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->11,197歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/14124949"><img src="https://m.media-amazon.com/images/I/51TuqLnPBCL._SL500_.jpg" alt="LeanとDevOpsの科学［Accelerate］ テクノロジーの戦略的活用が組織変革を加速する impress top gearシリーズ" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/208BzJ6J8QKcmvRt77hOtv"><img src="https://i.scdn.co/image/ab67616d0000b2738f8d987f5a001d6d7c403c0f" alt="Elle Teresa - 野良猫" width="128px"><br>Elle Teresa<br>野良猫</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
