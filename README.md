@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->9月15日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->9月16日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->11,197歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/14124949"><img src="https://m.media-amazon.com/images/I/51TuqLnPBCL._SL500_.jpg" alt="LeanとDevOpsの科学［Accelerate］ テクノロジーの戦略的活用が組織変革を加速する impress top gearシリーズ" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/208BzJ6J8QKcmvRt77hOtv"><img src="https://i.scdn.co/image/ab67616d0000b2738f8d987f5a001d6d7c403c0f" alt="Elle Teresa - 野良猫" width="128px"><br>Elle Teresa<br>野良猫</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->12,187歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/577557"><img src="https://m.media-amazon.com/images/I/51l5Ck236PL._SL500_.jpg" alt="凍りのくじら (講談社文庫 つ 28-5)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/6tinyeimCbUv1CPuPBBQOH"><img src="https://i.scdn.co/image/ab67616d0000b273b5673ea2710f3b6c1d1244fd" alt="EDO BOYS - NO ONE SLEEP IN TOKYO" width="128px"><br>EDO BOYS<br>NO ONE SLEEP IN TOKYO</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
