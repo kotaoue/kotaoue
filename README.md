@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->9月18日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->9月19日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->13,287歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/4524089"><img src="https://m.media-amazon.com/images/I/51CoDwofOtL._SL500_.jpg" alt="人生と運命 1" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/77IxPxKp8t8ZYi7jOq0Gjg"><img src="https://i.scdn.co/image/ab67616d0000b273b33aef9b634ad5ca5670c72e" alt="HARUKATOMIYUKI - トーキョー・ユートピア" width="128px"><br>HARUKATOMIYUKI<br>トーキョー・ユートピア</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->4,293歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/8292003"><img src="https://m.media-amazon.com/images/I/41aXtS8PLML._SL500_.jpg" alt="ゼロ・トゥ・ワン 君はゼロから何を生み出せるか" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/0DmYTqtPlEgfGtzVvFFnfR"><img src="https://i.scdn.co/image/ab67616d0000b2734bfbb4db8217997a65679d64" alt="J SOUL BROTHERS III - Welcome to TOKYO" width="128px"><br>J SOUL BROTHERS III<br>Welcome to TOKYO</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
