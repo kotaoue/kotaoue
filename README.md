@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->9月19日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->9月20日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->4,293歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/8292003"><img src="https://m.media-amazon.com/images/I/41aXtS8PLML._SL500_.jpg" alt="ゼロ・トゥ・ワン 君はゼロから何を生み出せるか" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/0DmYTqtPlEgfGtzVvFFnfR"><img src="https://i.scdn.co/image/ab67616d0000b2734bfbb4db8217997a65679d64" alt="J SOUL BROTHERS III - Welcome to TOKYO" width="128px"><br>J SOUL BROTHERS III<br>Welcome to TOKYO</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->5,144歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/14917179"><img src="https://m.media-amazon.com/images/I/41Z47ne+2QL._SL500_.jpg" alt="時間とテクノロジー" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/0ELVtIKNOv6IMSnitffmkA"><img src="https://i.scdn.co/image/ab67616d0000b2735231b3996b8d512ce8de2d67" alt="絶対忘れるな - まさか覚えててくれたなんて！" width="128px"><br>絶対忘れるな<br>まさか覚えててくれたなんて！</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
