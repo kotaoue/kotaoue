@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->9月24日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->9月25日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->8,465歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/363710"><img src="https://m.media-amazon.com/images/I/31BcInV4ECL._SL500_.jpg" alt="日本の近代 猪瀬直樹著作集6 土地の神話 (第6巻) (日本の近代猪瀬直樹著作集 6)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/1UkmCmSehMe6N24WwxwfnQ"><img src="https://i.scdn.co/image/ab67616d0000b273c7ffa2c292c6076735bad7fb" alt="Sumire Uesaka - ネオ東京唱歌" width="128px"><br>Sumire Uesaka<br>ネオ東京唱歌</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->5,126歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/104684"><img src="https://m.media-amazon.com/images/I/51IV9Dgx2YL._SL500_.jpg" alt="綿の国星 (ファンタジー・アニメーション)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/3nyP7POmGLdwp9daaHQH8R"><img src="https://i.scdn.co/image/ab67616d0000b273f06c7ac14d61f40f2d365371" alt="Noriyuki Makihara - introduction 〜東京の蕾〜" width="128px"><br>Noriyuki Makihara<br>introduction 〜東京の蕾〜</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
