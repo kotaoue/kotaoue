@@ -29,10 +29,10 @@
       <description>&#xA; 思いつき&#xA;AIと協力しながらというか、AIに依頼して開発している中で、「開発とは目的でも手段ではないしシステムも成果物ではない」という感覚になった。&#xA;その感覚が「商品の使用価値を求めて消費するよりも、記号的価値を求めて消費する」という曖昧な理解でボードリヤールを引用することで、ちょっと腑に落ちたというメモ。&#xA;価値のシミュラークルが「模造」「生産」「シミュレーション」と変遷したように、&#xA;システムのシミュラークルも、「ビジネスの模造」「新しいビジネスの生産」というフェーズを経て「価値のシミュレーション」というように、変わるのかなと思ったポエム。&#xA;&#xA; ふくらまし&#xA;AIとの開発においてシステ...</description>
     </item>
     <item>
-      <title>[note.com] バギーちゃんが好きだ</title>
-      <link>https://note.com/kotaoue/n/n412acfeeffb7</link>
-      <pubDate>Sat, 28 Mar 2026 12:04:43 +0000</pubDate>
-      <description>&lt;p name=&#34;6af6df70-d766-4939-882e-2545dc7d7e81&#34; id=&#34;6af6df70-d766-4939-882e-2545dc7d7e81&#34;&gt;バギーちゃんが好きだと思ってた。&lt;br&gt;キャラクターとして突出して好きだと思ってた。&lt;/p&gt;&lt;p name=&#34;d26c43b8-4a58-45f8-b02f-9df15803125d&#34; id=&#34;d26c43b8-4a58-45f8-b02f-9df15803125d&#34;&gt;しずかちゃんが一言「バギーちゃん」と言ったときに泣く自信があった。&lt;br&gt;でも、&lt;a href=&#34;https://doraeiga.com/2026/&#34; target=&#34;_blank&#34; rel=&#34;nofollow noopener&#34;&gt;『映画ドラえもん 新・のび太の海底鬼岩城』&lt;/a&gt;は公開前に公開された動画やCMでは、一言も「バギーちゃん」と言わなかった。&lt;br&gt;なので、リビングでは泣かなかった。&lt;/p&gt;&lt;br/&gt;&lt;a href=&#39;https://note.com/kotaoue/n/n412acfeeffb7&#39;&gt;続きをみる&lt;/a&gt;</description>
+      <title>[qiita.com] GitHubでリポジトリ作った後の設定を楽にしたかった</title>
+      <link>https://qiita.com/kotaoue/items/4cc0f2310d5a70b1712b</link>
+      <pubDate>Thu, 26 Mar 2026 15:01:30 +0000</pubDate>
+      <description>templateではなくて、手動で設定することになるアレコレを楽にしたかった&#xA;ということで、issue + Copilot で対応&#xA;&#xA;issueに↓をコピペ&#xA;# GitHub基本設定&#xA;&#xA;## Userが設定する&#xA;&#xA;- [ ] [Settings/rules](../set...</description>
     </item>
   </channel>
 </rss>
