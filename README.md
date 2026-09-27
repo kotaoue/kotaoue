@@ -34,13 +34,13 @@
 - [Mac + GC551G2 で Switch2の画面を録画する](https://qiita.com/kotaoue/items/30dcb7bc4a4dc9bc9b00)
 - [設計しない、形作る](https://zenn.dev/kotaoue/articles/e24f47411a81ae)
 - [開発の成果物はシステムではなくて対話かもしれない](https://zenn.dev/kotaoue/articles/bb394256763f93)
-- [GitHubでリポジトリ作った後の設定を楽にしたかった](https://qiita.com/kotaoue/items/4cc0f2310d5a70b1712b)
+- [バギーちゃんが好きだ](https://note.com/kotaoue/n/n412acfeeffb7)
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->9月26日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->9月27日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->10,165歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/104684"><img src="https://m.media-amazon.com/images/I/51IV9Dgx2YL._SL500_.jpg" alt="綿の国星 (ファンタジー・アニメーション)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/70uJr9I7fSA0DUrnSzyCvZ"><img src="https://i.scdn.co/image/ab67616d0000b273dfd0a8e56f116738078a7946" alt="Tokyo Ska Paradise Orchestra, 石原 慎也 - 紋白蝶 - feat. 石原慎也 (Saucy Dog)" width="128px"><br>Tokyo Ska Paradise Orchestra, 石原 慎也<br>紋白蝶 - feat. 石原慎也 (Saucy Dog)</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->12,127歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/2507819"><img src="https://m.media-amazon.com/images/I/419GGW5BGAL._SL500_.jpg" alt="人間の権利" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/1R06iaDZJo06JrUP0mHSAm"><img src="https://i.scdn.co/image/ab67616d0000b273a6752d86e4486c5ffbccd006" alt="(sic)boy, KM - vanitas" width="128px"><br>(sic)boy, KM<br>vanitas</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
