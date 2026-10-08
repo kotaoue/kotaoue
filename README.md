@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->10月7日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->10月8日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->9,279歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/112814"><img src="https://m.media-amazon.com/images/I/414jkCLoCPL._SL500_.jpg" alt="文化人類学と言語学 (1970年)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/2Jw8UXU3iONrgCCi2wJuX9"><img src="https://i.scdn.co/image/ab67616d0000b2739c98dccac56561f2c659199e" alt="Shikao Suga - 労働なんかしないで 光合成だけで生きたい" width="128px"><br>Shikao Suga<br>労働なんかしないで 光合成だけで生きたい</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->8,026歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/19638293"><img src="https://m.media-amazon.com/images/I/41-P6nZvkhL._SL500_.jpg" alt="会社という迷宮 経営者の眠れぬ夜のために" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/0etXcXbnJcj6xrZIWrgDnv"><img src="https://i.scdn.co/image/ab67616d0000b273ada675a96f148e900ddda5d5" alt="Hitsujibungaku - Dogs" width="128px"><br>Hitsujibungaku<br>Dogs</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
