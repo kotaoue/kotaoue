@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->10月12日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->10月13日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->11,982歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/55868"><img src="https://m.media-amazon.com/images/I/41mN3LjWvzL._SL500_.jpg" alt="サバルタンは語ることができるか (みすずライブラリー)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/1oWlUSljPUqKwbvEl0C3zE"><img src="https://i.scdn.co/image/ab67616d0000b273c8f7c8f061c36721d6fb10e8" alt="Tokyo Incidents - 群青日和" width="128px"><br>Tokyo Incidents<br>群青日和</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->4,871歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/532368"><img src="https://m.media-amazon.com/images/I/416HrmSpJSL._SL500_.jpg" alt="コミュニティを問いなおす―つながり・都市・日本社会の未来 (ちくま新書) (ちくま新書 800)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/1IGL68n3rkZjGWfFKtX0CV"><img src="https://i.scdn.co/image/ab67616d0000b273622ca4b0159cc73e9c7c1c57" alt="SPITZ - Sandie" width="128px"><br>SPITZ<br>Sandie</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
