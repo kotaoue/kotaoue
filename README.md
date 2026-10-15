@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->10月14日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->10月15日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->7,267歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/22150866"><img src="https://m.media-amazon.com/images/I/41PRKx+k12L._SL500_.jpg" alt="ネット怪談の民俗学 (ハヤカワ新書)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/5PLUzvFOYSTUW0onVbrYkX"><img src="https://i.scdn.co/image/ab67616d0000b273fa774df4efb80942b3f3d361" alt="河内REDS - 東京ガール" width="128px"><br>河内REDS<br>東京ガール</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->4,893歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/146663"><img src="https://m.media-amazon.com/images/I/41W9E6E9UlL._SL500_.jpg" alt="次は火だ―ボールドウィン評論集 (1968年)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/6kCsyFfnISWpTA2zThjrtB"><img src="https://i.scdn.co/image/ab67616d0000b273323f9fffa59ff9c7dd56e5b9" alt="MIYACHI, Matty Beats - Level Up" width="128px"><br>MIYACHI, Matty Beats<br>Level Up</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
