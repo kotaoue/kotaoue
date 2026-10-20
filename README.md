@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->10月19日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->10月20日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->10,490歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/7911014"><img src="https://m.media-amazon.com/images/I/51qBqrsnM6L._SL500_.jpg" alt="Fearless Change アジャイルに効く アイデアを組織に広めるための48のパターン" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/2iFpk2lHYW6cH7i4p52AY4"><img src="https://i.scdn.co/image/ab67616d0000b2733bffc3038f2ace41272d9952" alt="sakanaction - ユリイカ" width="128px"><br>sakanaction<br>ユリイカ</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->7,456歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/16618456"><img src="https://m.media-amazon.com/images/I/512tmuDtXgL._SL500_.jpg" alt="ゲームメカニクス大全 ボードゲームに学ぶ「おもしろさ」の仕掛け" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/0R9RKP35Wn3G6HucEopbil"><img src="https://i.scdn.co/image/ab67616d0000b27308b07e3ad6ae062b3d2cbd45" alt="ツミキ - トウキョウダイバアフェイクショウ" width="128px"><br>ツミキ<br>トウキョウダイバアフェイクショウ</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
