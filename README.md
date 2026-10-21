@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->10月20日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->10月21日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->7,456歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/16618456"><img src="https://m.media-amazon.com/images/I/512tmuDtXgL._SL500_.jpg" alt="ゲームメカニクス大全 ボードゲームに学ぶ「おもしろさ」の仕掛け" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/0R9RKP35Wn3G6HucEopbil"><img src="https://i.scdn.co/image/ab67616d0000b27308b07e3ad6ae062b3d2cbd45" alt="ツミキ - トウキョウダイバアフェイクショウ" width="128px"><br>ツミキ<br>トウキョウダイバアフェイクショウ</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->7,692歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/488990"><img src="https://m.media-amazon.com/images/I/51ntcrdX0nL._SL500_.jpg" alt="ユートピアだより (岩波文庫 白 201-1)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/1Jyc7gL80TmBtiUp62ae4w"><img src="https://i.scdn.co/image/ab67616d0000b273203920d5e1a3fb354c2eb1fc" alt="Maki Nomiya - パリの恋人 / トーキョーの恋人" width="128px"><br>Maki Nomiya<br>パリの恋人 / トーキョーの恋人</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
