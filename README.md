@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->10月21日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->10月22日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->7,692歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/488990"><img src="https://m.media-amazon.com/images/I/51ntcrdX0nL._SL500_.jpg" alt="ユートピアだより (岩波文庫 白 201-1)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/1Jyc7gL80TmBtiUp62ae4w"><img src="https://i.scdn.co/image/ab67616d0000b273203920d5e1a3fb354c2eb1fc" alt="Maki Nomiya - パリの恋人 / トーキョーの恋人" width="128px"><br>Maki Nomiya<br>パリの恋人 / トーキョーの恋人</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->7,425歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/12357844"><img src="https://m.media-amazon.com/images/I/51xogGbnrgL._SL500_.jpg" alt="図で考える。シンプルになる。" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/1nx22gBXhEg9Z2tJKkTaNf"><img src="https://i.scdn.co/image/ab67616d0000b27323071ee19ad50580efe3c359" alt="藤川千愛 - 東京" width="128px"><br>藤川千愛<br>東京</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
