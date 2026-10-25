@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->10月24日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->10月25日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->13,589歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/16618456"><img src="https://m.media-amazon.com/images/I/512tmuDtXgL._SL500_.jpg" alt="ゲームメカニクス大全 ボードゲームに学ぶ「おもしろさ」の仕掛け" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/0Cjes24w1lUBv7p2Adpn08"><img src="https://i.scdn.co/image/ab67616d0000b2734ed5592d23f8acc32045f03e" alt="ハンバーグ師匠, OZAWA - TOKYOハンバーグ" width="128px"><br>ハンバーグ師匠, OZAWA<br>TOKYOハンバーグ</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->8,825歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/20125937"><img src="https://m.media-amazon.com/images/I/513O3cWwnsL._SL500_.jpg" alt="因果推論の科学 「なぜ?」の問いにどう答えるか" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/0KccvbIBa5oxxRFSXB5ZhW"><img src="https://i.scdn.co/image/ab67616d0000b273f87dcc664cac6aa0ae998d38" alt="suisoh, whaledontsleep - アイリス" width="128px"><br>suisoh, whaledontsleep<br>アイリス</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
