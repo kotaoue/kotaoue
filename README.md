@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->11月2日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->11月3日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->8,953歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/566497"><img src="https://m.media-amazon.com/images/I/31ZB2K1WEJL._SL500_.jpg" alt="ベストセラー小説の書き方 (朝日文庫 て 4-1)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/7GNpkgYVz58B3j5rgUVmbY"><img src="https://i.scdn.co/image/ab67616d0000b27307e457e4249496584fc29de0" alt="Midori Satsuki, Jiro Atsumi - 東京ナイト" width="128px"><br>Midori Satsuki, Jiro Atsumi<br>東京ナイト</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->6,174歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/22113747"><img src="https://m.media-amazon.com/images/I/41vvfDP2SlL._SL500_.jpg" alt="プログラミング〈新〉作法 これからプログラムを書く人のために (KS情報科学専門書)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/0VgCjBNQj108jecHn46dc4"><img src="https://i.scdn.co/image/ab67616d0000b273e6c6fd09c2ba3bc89dbc8c46" alt="Tokyo Incidents - 一服" width="128px"><br>Tokyo Incidents<br>一服</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
