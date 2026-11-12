@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->11月11日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->11月12日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->2,467歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/3012355"><img src="https://m.media-amazon.com/images/I/51RD0-RL7ML._SL500_.jpg" alt="ゲームセンター文化論―メディア社会のコミュニケーション" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/6AvwRrfNtvWMG4w3MfKEoi"><img src="https://i.scdn.co/image/ab67616d0000b27361e820e29fc94fa644890409" alt="乃紫 - 初恋キラー" width="128px"><br>乃紫<br>初恋キラー</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->9,066歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/1988"><img src="https://m.media-amazon.com/images/I/51gs58B6o7L._SL500_.jpg" alt="すばらしい新世界 (講談社文庫 は 20-1)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/11PWJZy1eZrp4kkBO1tXN9"><img src="https://i.scdn.co/image/ab67616d0000b27395fdc0ffef9e048ed7bc1ff5" alt="I Don&#39;t Like Mondays. - YOROI" width="128px"><br>I Don&#39;t Like Mondays.<br>YOROI</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
