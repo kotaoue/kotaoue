@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->11月14日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->11月15日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->6,300歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/15062456"><img src="https://m.media-amazon.com/images/I/41EZqFLHeLL._SL500_.jpg" alt="ユーザのための要件定義ガイド第2版" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/5RW98Z5fr0vn1v0Cd1U4bk"><img src="https://i.scdn.co/image/ab67616d0000b273c582cd5caf3ae055ed9584bc" alt="TOKYO RAVE GROUPIE - Commune" width="128px"><br>TOKYO RAVE GROUPIE<br>Commune</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->7,811歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/579224"><img src="https://m.media-amazon.com/images/I/41Amt6gBEOL._SL500_.jpg" alt="われらの時代・男だけの世界: ヘミングウェイ全短編 (新潮文庫)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/3rFbWHG2YFfXWIYYQaqpEC"><img src="https://i.scdn.co/image/ab67616d0000b2732ede67eccb5bfc0f77ba2370" alt="ziproom, Blanco - SAKURA" width="128px"><br>ziproom, Blanco<br>SAKURA</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
