@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->11月15日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->11月16日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->7,811歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/579224"><img src="https://m.media-amazon.com/images/I/41Amt6gBEOL._SL500_.jpg" alt="われらの時代・男だけの世界: ヘミングウェイ全短編 (新潮文庫)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/3rFbWHG2YFfXWIYYQaqpEC"><img src="https://i.scdn.co/image/ab67616d0000b2732ede67eccb5bfc0f77ba2370" alt="ziproom, Blanco - SAKURA" width="128px"><br>ziproom, Blanco<br>SAKURA</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->2,818歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/5586748"><img src="https://m.media-amazon.com/images/I/4196ZzgKrlL._SL500_.jpg" alt="きまぐれ星のメモ (角川文庫)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/6c8AAIPobdZyqXb8U7PFz7"><img src="https://i.scdn.co/image/ab67616d0000b273ffea8c2c9580dafb3dc149c3" alt="THE KIMINIHANASUYO - この街にはあまり行くところがない" width="128px"><br>THE KIMINIHANASUYO<br>この街にはあまり行くところがない</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
