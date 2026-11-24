@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->11月23日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->11月24日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->12,502歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/445389"><img src="https://m.media-amazon.com/images/I/31w3mZgn5zL._SL500_.jpg" alt="沈んだ世界 (創元SF文庫) (創元推理文庫 773)" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/3nyP7POmGLdwp9daaHQH8R"><img src="https://i.scdn.co/image/ab67616d0000b273f06c7ac14d61f40f2d365371" alt="Noriyuki Makihara - introduction 〜東京の蕾〜" width="128px"><br>Noriyuki Makihara<br>introduction 〜東京の蕾〜</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->3,288歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/21934603"><img src="https://m.media-amazon.com/images/I/514Ixn0-nfL._SL500_.jpg" alt="チームレジリエンス　困難と不確実性に強いチームのつくり方" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/0K4Z7IGtpVKV5z8KnKce7O"><img src="https://i.scdn.co/image/ab67616d0000b2739d47a40eb9180fe53a5c7b97" alt="SHISHAMO - 通り雨" width="128px"><br>SHISHAMO<br>通り雨</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
