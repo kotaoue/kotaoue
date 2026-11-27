@@ -38,9 +38,9 @@
 
 <!-- BLOG_ENTRIES_END -->
 
-| <!-- PEDOMETER_DATE_START -->11月26日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
+| <!-- PEDOMETER_DATE_START -->11月27日の歩数<!-- PEDOMETER_DATE_END --> | バリカン | [読みたい本](https://bookmeter.com/users/104/books/wish) | [今日の東京ソング](https://open.spotify.com/user/80642b45zkloa0ukardrhhqb6) |
 | - | - | - | - |
-| <!-- PEDOMETER_STEPS_START -->1,563歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/9784440"><img src="https://m.media-amazon.com/images/I/411sHUhA0KL._SL500_.jpg" alt="チューブ生姜適量ではなくて1cmがいい人の理系の料理" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/71dZlephaoxBZzUGEKwvDu"><img src="https://i.scdn.co/image/ab67616d0000b273b49573bba564f75a0b1e6e5c" alt="Shurkn Pap - Night Rider" width="128px"><br>Shurkn Pap<br>Night Rider</a><!-- SPOTIFY_TRACK_END --> |
+| <!-- PEDOMETER_STEPS_START -->9,254歩<!-- PEDOMETER_STEPS_END --> | [![Bouze](https://raw.githubusercontent.com/kotaoue/Bouze/refs/heads/main/results/badge.svg)](https://github.com/kotaoue/Bouze) | <!-- WISH_BOOK_START --><a href="https://bookmeter.com/books/164866"><img src="https://m.media-amazon.com/images/I/51GAWJ1YSWL._SL500_.jpg" alt="ラクリッツ探偵団: イエロー・ドラゴンのなぞ" width="128px"></a><!-- WISH_BOOK_END --> | <!-- SPOTIFY_TRACK_START --><a href="https://open.spotify.com/track/0gGPfbN6HPBjb85hm0eGip"><img src="https://i.scdn.co/image/ab67616d0000b273b40b290b1a3bc431a8bcb89d" alt="Chiyoko Shimakura - 東京だョおっ母さん" width="128px"><br>Chiyoko Shimakura<br>東京だョおっ母さん</a><!-- SPOTIFY_TRACK_END --> |
 
 [![Exercise Streak](https://raw.githubusercontent.com/kotaoue/FitnessStreak/refs/heads/main/results/heatmap.svg)](https://github.com/kotaoue/FitnessStreak)
 
